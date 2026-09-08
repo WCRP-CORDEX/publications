@@ -8,3 +8,5 @@ CORDEX publications are curated by the Points of Contact (POC) and coordinators 
 This repository also collects tools to exploit the Zotero library using its API to tailor publication lists for different purposes.
 
 Science monitoring also includes research projects, which are collected via [this form](https://forms.gle/GSDaaDLPtaHkT5oq7). If you have a funded project supporting significantly any of the CORDEX activities, please fill out the form with the details.
+
+For development and automation details, see [README_devel.md](README_devel.md).

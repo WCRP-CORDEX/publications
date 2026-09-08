@@ -1,0 +1,28 @@
+[
+  {
+    "key": "b",
+    "data": {
+      "itemType": "journalArticle",
+      "title": "Zulu Research",
+      "creators": [
+        {"creatorType": "author", "firstName": "Dana", "lastName": "Smith"}
+      ],
+      "date": "2022-05-01",
+      "publicationTitle": "Journal of Tests",
+      "url": "https://example.com/zulu"
+    }
+  },
+  {
+    "key": "a",
+    "data": {
+      "itemType": "journalArticle",
+      "title": "Alpha Research",
+      "creators": [
+        {"creatorType": "author", "firstName": "Alicia", "lastName": "Brown"}
+      ],
+      "date": "2021-04-20",
+      "publicationTitle": "Journal of Tests",
+      "url": "https://example.com/alpha"
+    }
+  }
+]
