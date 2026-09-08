@@ -37,8 +37,10 @@ The generated markdown includes a table of contents and a final publication-year
 ## Files
 
 - scripts/fetch_zotero.py: fetches the live Zotero JSON output and saves it as a snapshot
-- scripts/build_all_publications.py: basic builder that reads the JSON snapshot and renders the full publication list as a single markdown page. Future builders for other parts of the tree or output formats (e.g. HTML frames for embedding) will live alongside it in scripts/.
-- docs/publications.md: generated website content
+- scripts/build_all_publications.py: basic builder that reads the JSON snapshot and renders the full publication list, grouped by collection then year, as a single markdown page.
+- scripts/build_all_publications_by_year.py: alternate builder that ignores the collection hierarchy and groups every publication by year only, de-duplicating entries that share a DOI across collections. Future builders for other parts of the tree or output formats (e.g. HTML frames for embedding) will live alongside these in scripts/.
+- docs/publications.md: generated website content, grouped by collection
+- docs/publications_by_year.md: generated website content, grouped by year only
 - docs/data/zotero-library.json: raw Zotero snapshot used as the source of truth
 
 ## Daily automation

@@ -186,7 +186,8 @@ def _attach_item_to_collection_node(node: dict[str, Any], item: dict[str, Any]) 
     node["items_by_year"].setdefault(item["year"], []).append(item)
 
 
-def _populate_items_in_tree(tree: dict[str, dict[str, Any]], zotero_data: dict[str, Any] | list[dict[str, Any]]) -> None:
+def _iter_active_items(zotero_data: dict[str, Any] | list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Return raw Zotero item records, skipping trashed items, attachments, and notes."""
     if isinstance(zotero_data, list):
         items = zotero_data
     elif isinstance(zotero_data, dict):
@@ -194,6 +195,7 @@ def _populate_items_in_tree(tree: dict[str, dict[str, Any]], zotero_data: dict[s
     else:
         items = []
 
+    active = []
     for item in items:
         if not isinstance(item, dict):
             continue
@@ -202,14 +204,26 @@ def _populate_items_in_tree(tree: dict[str, dict[str, Any]], zotero_data: dict[s
             continue
         if data.get("itemType") in {"attachment", "note"}:
             continue
-        item_entry = {
-            "key": item.get("key", ""),
-            "title": _title_for_item(item),
-            "authors": _authors_for_item(item),
-            "year": _extract_year(item),
-            "publication_title": str(data.get("publicationTitle", "")).strip() or str(data.get("libraryCatalog", "")).strip(),
-            "url": _doi_url(data) or str(data.get("url", "")).strip(),
-        }
+        active.append(item)
+    return active
+
+
+def _build_entry(item: dict[str, Any]) -> dict[str, Any]:
+    data = item.get("data", {}) or {}
+    return {
+        "key": item.get("key", ""),
+        "title": _title_for_item(item),
+        "authors": _authors_for_item(item),
+        "year": _extract_year(item),
+        "publication_title": str(data.get("publicationTitle", "")).strip() or str(data.get("libraryCatalog", "")).strip(),
+        "url": _doi_url(data) or str(data.get("url", "")).strip(),
+    }
+
+
+def _populate_items_in_tree(tree: dict[str, dict[str, Any]], zotero_data: dict[str, Any] | list[dict[str, Any]]) -> None:
+    for item in _iter_active_items(zotero_data):
+        item_entry = _build_entry(item)
+        data = item.get("data", {}) or {}
         for collection_key in data.get("collections") or []:
             node = tree.get(str(collection_key))
             if node is not None:
@@ -222,7 +236,9 @@ def _format_entry_line(entry: dict[str, Any]) -> str:
     if entry["publication_title"]:
         line += f" *{entry['publication_title']}*."
     if entry["url"]:
-        line += f" {entry['url']}"
+        doi_prefix = "https://doi.org/"
+        label = entry["url"][len(doi_prefix):] if entry["url"].startswith(doi_prefix) else entry["url"]
+        line += f" [{label}]({entry['url']})"
     return line
 
 

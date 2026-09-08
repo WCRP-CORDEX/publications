@@ -10,6 +10,7 @@ fetch:
 
 build:
 	$(PYTHON) $(SCRIPT_DIR)/build_all_publications.py $(DATA_DIR)/zotero-library.json $(DOCS_DIR)/publications.md
+	$(PYTHON) $(SCRIPT_DIR)/build_all_publications_by_year.py $(DATA_DIR)/zotero-library.json $(DOCS_DIR)/publications_by_year.md
 
 docs: build
 

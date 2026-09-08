@@ -1,6 +1,7 @@
 import json
 
 from scripts.build_all_publications import generate_markdown
+from scripts.build_all_publications_by_year import generate_markdown as generate_markdown_by_year
 
 
 def _write_payload(tmp_path, payload):
@@ -106,8 +107,8 @@ def test_entry_formatting_prefers_doi_over_url(tmp_path):
 
     result = generate_markdown(_write_payload(tmp_path, payload))
 
-    assert "- Brown A. (2021) **Paper With DOI**. *Journal of Tests*. https://doi.org/10.1234/abcd" in result
-    assert "- Smith D. (2021) **Paper Without DOI**. *Journal of Tests*. https://example.com/fallback" in result
+    assert "- Brown A. (2021) **Paper With DOI**. *Journal of Tests*. [10.1234/abcd](https://doi.org/10.1234/abcd)" in result
+    assert "- Smith D. (2021) **Paper Without DOI**. *Journal of Tests*. [https://example.com/fallback](https://example.com/fallback)" in result
     assert "https://example.com/should-not-be-used" not in result
 
 
@@ -189,3 +190,92 @@ def test_entries_within_a_year_are_sorted_by_author_surname(tmp_path):
 
     # Sorting must follow the rendered entry (author surname first), not the title.
     assert result.index("Alpha A.") < result.index("Zulu Z.")
+
+
+def test_by_year_builder_ignores_collections_and_lists_all_years(tmp_path):
+    payload = {
+        "collections": [
+            {"key": "rootA", "data": {"name": "Collection One", "parentCollection": None}},
+            {"key": "rootB", "data": {"name": "Collection Two", "parentCollection": None}},
+        ],
+        "items": [
+            {
+                "key": "a",
+                "data": {
+                    "itemType": "journalArticle",
+                    "title": "First Paper",
+                    "creators": [{"creatorType": "author", "firstName": "Alicia", "lastName": "Brown"}],
+                    "date": "2023-01-01",
+                    "collections": ["rootA"],
+                },
+            },
+            {
+                "key": "b",
+                "data": {
+                    "itemType": "journalArticle",
+                    "title": "Second Paper",
+                    "creators": [{"creatorType": "author", "firstName": "Dana", "lastName": "Smith"}],
+                    "date": "2022-01-01",
+                    "collections": ["rootB"],
+                },
+            },
+        ],
+    }
+
+    result = generate_markdown_by_year(_write_payload(tmp_path, payload))
+
+    assert result.startswith("# CORDEX Publications by Year\n\n")
+    assert "## 2023 (1)" in result
+    assert "## 2022 (1)" in result
+    assert result.index("## 2023 (1)") < result.index("## 2022 (1)")
+    assert "Collection One" not in result
+    assert "Collection Two" not in result
+
+
+def test_by_year_builder_deduplicates_by_doi_across_collections(tmp_path):
+    payload = {
+        "collections": [
+            {"key": "rootA", "data": {"name": "Domain A", "parentCollection": None}},
+            {"key": "rootB", "data": {"name": "Domain B", "parentCollection": None}},
+        ],
+        "items": [
+            {
+                "key": "a1",
+                "data": {
+                    "itemType": "journalArticle",
+                    "title": "Same Paper Added Twice",
+                    "creators": [{"creatorType": "author", "firstName": "Alicia", "lastName": "Brown"}],
+                    "date": "2023-01-01",
+                    "DOI": "10.1234/dup",
+                    "collections": ["rootA"],
+                },
+            },
+            {
+                "key": "a2",
+                "data": {
+                    "itemType": "journalArticle",
+                    "title": "Same Paper Added Twice",
+                    "creators": [{"creatorType": "author", "firstName": "Alicia", "lastName": "Brown"}],
+                    "date": "2023-01-01",
+                    "DOI": "HTTPS://DOI.ORG/10.1234/DUP",
+                    "collections": ["rootB"],
+                },
+            },
+            {
+                "key": "b1",
+                "data": {
+                    "itemType": "journalArticle",
+                    "title": "Unique Paper Without DOI",
+                    "creators": [{"creatorType": "author", "firstName": "Dana", "lastName": "Smith"}],
+                    "date": "2023-01-01",
+                    "collections": ["rootA"],
+                },
+            },
+        ],
+    }
+
+    result = generate_markdown_by_year(_write_payload(tmp_path, payload))
+
+    assert result.count("Same Paper Added Twice") == 1
+    assert "Unique Paper Without DOI" in result
+    assert "## 2023 (2)" in result
