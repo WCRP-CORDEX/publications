@@ -5,6 +5,46 @@
   },
   "collections": [
     {
+      "key": "8R8GFHR5",
+      "version": 1924,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/collections/8R8GFHR5",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/collections/8R8GFHR5",
+          "type": "text/html"
+        },
+        "up": {
+          "href": "https://api.zotero.org/groups/5816477/collections/U95GJRQN",
+          "type": "application/json"
+        }
+      },
+      "meta": {
+        "numCollections": 0,
+        "numItems": 2
+      },
+      "data": {
+        "key": "8R8GFHR5",
+        "version": 1924,
+        "name": "CORE",
+        "parentCollection": "U95GJRQN",
+        "relations": {}
+      }
+    },
+    {
       "key": "JDNPGSZ4",
       "version": 648,
       "library": {
@@ -774,7 +814,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 207
+        "numItems": 205
       },
       "data": {
         "key": "DKDV3KN4",
@@ -1201,8 +1241,8 @@
         }
       },
       "meta": {
-        "numCollections": 9,
-        "numItems": 1
+        "numCollections": 10,
+        "numItems": 2
       },
       "data": {
         "key": "U95GJRQN",
@@ -1214,6 +1254,1682 @@
     }
   ],
   "items": [
+    {
+      "key": "TVDHCC7A",
+      "version": 1940,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/TVDHCC7A",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/TVDHCC7A",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "lastModifiedByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Ha et al.",
+        "parsedDate": "2024",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "TVDHCC7A",
+        "version": 1940,
+        "itemType": "journalArticle",
+        "title": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution: impact of model resolution and convection representation",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Minh T.",
+            "lastName": "Ha"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sophie",
+            "lastName": "Bastin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Philippe",
+            "lastName": "Drobinski"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "L.",
+            "lastName": "Fita"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J.",
+            "lastName": "Polcher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "O.",
+            "lastName": "Bock"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "M.",
+            "lastName": "Chiriaco"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "D.",
+            "lastName": "Belušić"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "C.",
+            "lastName": "Caillaud"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "A.",
+            "lastName": "Dobler"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J.",
+            "lastName": "Fernandez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "K.",
+            "lastName": "Goergen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ø.",
+            "lastName": "Hodnebrog"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "S.",
+            "lastName": "Kartsios"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "E.",
+            "lastName": "Katragkou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "A.",
+            "lastName": "Lavin-Gullon"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "T.",
+            "lastName": "Lorenz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J.",
+            "lastName": "Milovac"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "H.-J.",
+            "lastName": "Panitz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "S.",
+            "lastName": "Sobolowski"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "H.",
+            "lastName": "Truhetz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "K.",
+            "lastName": "Warrach-Sagi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "V.",
+            "lastName": "Wulfmeyer"
+          }
+        ],
+        "abstractNote": "Abstract \n            Recent studies using convection-permitting (CP) climate simulations have demonstrated a step-change in the representation of heavy rainfall and rainfall characteristics (frequency-intensity) compared to coarser resolution Global and Regional climate models. The goal of this study is to better understand what explains the weaker frequency of precipitation in the CP ensemble by assessing the triggering process of precipitation in the different ensembles of regional climate simulations available over Europe. We focus on the statistical relationship between tropospheric temperature, humidity and precipitation to understand how the frequency of precipitation over Europe and the Mediterranean is impacted by model resolution and the representation of convection (parameterized vs. explicit). We employ a multi-model data-set with three different resolutions (0.44°, 0.11° and 0.0275°) produced in the context of the MED-CORDEX, EURO-CORDEX and the CORDEX Flagship Pilot Study \"Convective Phenomena over Europe and the Mediterranean\" (FPSCONV). The multi-variate approach is applied to all model ensembles, and to several surface stations where the integrated water vapor (IWV) is derived from Global Positioning System (GPS) measurements. The results show that all model ensembles capture the temperature dependence of the critical value of IWV (IWVcv), above which an increase in precipitation frequency occurs, but the differences between the models in terms of the value of IWVcv, and the probability of its being exceeded, can be large at higher temperatures. The lower frequency of precipitation in convection-permitting simulations is not only explained by higher temperatures but also by a higher IWVcv necessary to trigger precipitation at similar temperatures, and a lower probability to exceed this critical value. The spread between models in simulating IWVcv and the probability of exceeding IWVcv is reduced over land in the ensemble of models with explicit convection, especially at high temperatures, when the convective fraction of total precipitation becomes more important and the influence of the representation of entrainment in models thus becomes more important. Over lowlands, both model resolution and convection representation affect precipitation triggering while over mountainous areas, resolution has the highest impact due to orography-induced triggering processes. Over the sea, since lifting is produced by large-scale convergence, the probability to exceed IWVcv does not depend on temperature, and the model resolution does not have a clear impact on the results.",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "06/2024",
+        "volume": "62",
+        "issue": "6",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "4515-4540",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Clim Dyn",
+        "DOI": "10.1007/s00382-022-06594-6",
+        "citationKey": "",
+        "url": "https://link.springer.com/10.1007/s00382-022-06594-6",
+        "accessDate": "2026-07-03T16:08:08Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0930-7575, 1432-0894",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [
+          {
+            "tag": "Convection processes",
+            "type": 1
+          },
+          {
+            "tag": "Convection-permitting models",
+            "type": 1
+          },
+          {
+            "tag": "Integrated water vapor",
+            "type": 1
+          },
+          {
+            "tag": "Precipitation triggering",
+            "type": 1
+          }
+        ],
+        "collections": [
+          "DKDV3KN4",
+          "SQP8S37V"
+        ],
+        "relations": {
+          "owl:sameAs": "http://zotero.org/groups/4883035/items/AX98MD7D",
+          "dc:replaces": "http://zotero.org/groups/5816477/items/QLU64IZ3"
+        },
+        "dateAdded": "2025-03-14T17:59:06Z",
+        "dateModified": "2026-09-08T12:53:58Z"
+      }
+    },
+    {
+      "key": "VFD4M863",
+      "version": 1938,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/VFD4M863",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/VFD4M863",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "lastModifiedByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Pagès et al.",
+        "parsedDate": "2020",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "VFD4M863",
+        "version": 1938,
+        "itemType": "journalArticle",
+        "title": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin: A modelling study",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "R.",
+            "lastName": "Pagès"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "M.",
+            "lastName": "Baklouti"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "N.",
+            "lastName": "Barrier"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "C.",
+            "lastName": "Richon"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J.-C.",
+            "lastName": "Dutay"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "T.",
+            "lastName": "Moutin"
+          }
+        ],
+        "abstractNote": "",
+        "publicationTitle": "Progress in Oceanography",
+        "publisher": "",
+        "place": "",
+        "date": "02/2020",
+        "volume": "181",
+        "issue": "",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "102242",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Progress in Oceanography",
+        "DOI": "10.1016/j.pocean.2019.102242",
+        "citationKey": "",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079661119304227",
+        "accessDate": "2026-06-19T13:00:56Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "00796611",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "DKDV3KN4"
+        ],
+        "relations": {
+          "dc:replaces": "http://zotero.org/groups/5816477/items/ZUAQA4RB"
+        },
+        "dateAdded": "2026-06-19T13:00:56Z",
+        "dateModified": "2026-09-08T12:53:20Z"
+      }
+    },
+    {
+      "key": "7TSS6VJZ",
+      "version": 1935,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/7TSS6VJZ",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/7TSS6VJZ",
+          "type": "text/html"
+        },
+        "up": {
+          "href": "https://api.zotero.org/groups/5816477/items/YAE8DWEC",
+          "type": "application/json"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16143938,
+          "username": "mbukovsky",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/mbukovsky",
+              "type": "text/html"
+            }
+          }
+        },
+        "lastModifiedByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "numChildren": 0
+      },
+      "data": {
+        "key": "7TSS6VJZ",
+        "version": 1935,
+        "parentItem": "YAE8DWEC",
+        "itemType": "note",
+        "note": "<p>Original APA entry: Sobolowski, S., Somot, S., Fernandez, J., Evin, G., Brands, S., Maraun, D., Kotlarski, S., Jury, M., Benestad, R. E., Teichmann, C., Christensen, O. B., Bülow, K., Buonomo, E., Katragkou, E., Steger, C., Sørland, S., Nikulin, G., McSweeney, C., Dobler, A., … Oudar, T. (2025). GCM Selection and Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community. https://doi.org/10.1175/BAMS-D-23-0189.1</p>",
+        "tags": [],
+        "relations": {},
+        "dateAdded": "2026-07-07T18:08:23Z",
+        "dateModified": "2026-09-08T12:53:04Z"
+      }
+    },
+    {
+      "key": "YAE8DWEC",
+      "version": 1934,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/YAE8DWEC",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/YAE8DWEC",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Sobolowski et al.",
+        "parsedDate": "2025-05-26",
+        "numChildren": 1
+      },
+      "data": {
+        "key": "YAE8DWEC",
+        "version": 1934,
+        "itemType": "journalArticle",
+        "title": "GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Stefan",
+            "lastName": "Sobolowski"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Samuel",
+            "lastName": "Somot"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jesus",
+            "lastName": "Fernandez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Guillaume",
+            "lastName": "Evin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Swen",
+            "lastName": "Brands"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Douglas",
+            "lastName": "Maraun"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sven",
+            "lastName": "Kotlarski"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Martin",
+            "lastName": "Jury"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rasmus E.",
+            "lastName": "Benestad"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Claas",
+            "lastName": "Teichmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ole B.",
+            "lastName": "Christensen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Katharina",
+            "lastName": "Bülow"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erasmo",
+            "lastName": "Buonomo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eleni",
+            "lastName": "Katragkou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christian",
+            "lastName": "Steger"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Silje",
+            "lastName": "Sørland"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Grigory",
+            "lastName": "Nikulin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Carol",
+            "lastName": "McSweeney"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Andreas",
+            "lastName": "Dobler"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tamzin",
+            "lastName": "Palmer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Renate",
+            "lastName": "Wilcke"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julien",
+            "lastName": "Boé"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lukas",
+            "lastName": "Brunner"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Aurélien",
+            "lastName": "Ribes"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Said",
+            "lastName": "Qasmi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Pierre",
+            "lastName": "Nabat"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Florence",
+            "lastName": "Sevault"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Thomas",
+            "lastName": "Oudar"
+          }
+        ],
+        "abstractNote": "Abstract\n            \n              High resolution climate information is critical for the vulnerability, impacts, adaptation, and climate services communities (VIACS). Coordinated ensembles generated by initiatives like CORDEX provide consistent and comparable information for the present and future over all land areas of the globe. This manuscript focuses on the European CORDEX initiative (hereafter EURO-CORDEX), and its coordinated effort to build regional climate ensembles for the years to come. In its first phase, EURO-CORDEX produced a rich ensemble of regional climate simulations under different representative concentration pathway scenarios. The EURO-CORDEX dataset is openly available and was fed into the Regional Atlas of 6\n              th\n              IPCC Assessment Report. However, this ensemble suffered from several shortcomings, which the community seeks to address in the next phase of production. Chief among these is the oft cited criticism that the selection of GCMs that provide input to the regional climate models was not rigorous and that the resulting ensemble represents an “ensemble of opportunity”. The present paper provides a description of how the community has addressed these shortcomings. We present a comprehensive, flexible and traceable evaluation framework and toolkit for assessing the suitability of GCMs for downscaling, using EURO-CORDEX as an example. Its value lies in its explicit recognition of subjectivity and mechanisms implemented to transparently track decision making. Further, the utility of the framework extends well beyond pre-downscaling decisions to also include post-downscaling investigations performed by the VIACS communities and beyond, to include researchers investigating such topics as model biases, future constraints and exploring future storylines.",
+        "publicationTitle": "Bulletin of the American Meteorological Society",
+        "publisher": "",
+        "place": "",
+        "date": "2025-05-26",
+        "volume": "",
+        "issue": "",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "BAMS-D-23-0189.1",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.1175/BAMS-D-23-0189.1",
+        "citationKey": "",
+        "url": "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0189.1/BAMS-D-23-0189.1.xml",
+        "accessDate": "2025-05-27T14:32:19Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0003-0007, 1520-0477",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "GCM Selection & Ensemble Design",
+        "language": "",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "http://www.ametsoc.org/PUBSReuseLicenses",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "87RMMUDX",
+          "CV6D6FCX",
+          "JDNPGSZ4"
+        ],
+        "relations": {
+          "dc:replaces": [
+            "http://zotero.org/groups/5816477/items/PB7FRA96",
+            "http://zotero.org/groups/5816477/items/B56T8X59"
+          ]
+        },
+        "dateAdded": "2025-05-27T14:32:19Z",
+        "dateModified": "2026-09-08T12:53:04Z"
+      }
+    },
+    {
+      "key": "DGN5FNFQ",
+      "version": 1933,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/DGN5FNFQ",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/DGN5FNFQ",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "lastModifiedByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Zittis et al.",
+        "parsedDate": "2019",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "DGN5FNFQ",
+        "version": 1933,
+        "itemType": "journalArticle",
+        "title": "A multi-model, multi-scenario, and multi-domain analysis of regional climate projections for the Mediterranean",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "George",
+            "lastName": "Zittis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Panos",
+            "lastName": "Hadjinicolaou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marina",
+            "lastName": "Klangidou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Yiannis",
+            "lastName": "Proestos"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jos",
+            "lastName": "Lelieveld"
+          }
+        ],
+        "abstractNote": "Abstract \n            Observation and model-based studies have identified the Mediterranean region as one of the most prominent climate change “hot-spots.” Parts of this distinctive region are included in several Coordinated Regional Downscaling Experiment (CORDEX) domains such as those for Europe, Africa, the Mediterranean, and the Middle East/North Africa. In this study, we compile and analyze monthly temperature and precipitation fields derived from regional climate model simulations performed over different CORDEX domains at a spatial resolution of 50 km. This unique multi-model, multi-scenario, and multi-domain “super-ensemble” is used to update projected changes for the Mediterranean region. The statistical robustness and significance of the climate change signal is assessed. By considering information from more than one CORDEX domains, our analysis addresses an additional type of uncertainty that is often neglected and is related to the positioning of the regional climate model domain. CORDEX simulations suggest a general warming by the end of the century (between 1 and 5 °C with respect to the 1986–2005 reference period), which is expected to be strongest during summer (up to 7 °C). A general drying (between 10 and 40%) is also inferred for the Mediterranean. However, the projected precipitation change signal is less significant and less robust. The CORDEX ensemble corroborates the fact that the Mediterranean is already entering the 1.5 °C climate warming era. It is expected to reach 2 °C warming well within two decades, unless strong greenhouse gas concentration reductions are implemented. The southern part of the Mediterranean is expected to be impacted most strongly since the CORDEX ensemble suggests substantial combined warming and drying, particularly for pathways RCP4.5 and RCP8.5.",
+        "publicationTitle": "Regional Environmental Change",
+        "publisher": "",
+        "place": "",
+        "date": "12/2019",
+        "volume": "19",
+        "issue": "8",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "2621-2635",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Reg Environ Change",
+        "DOI": "10.1007/s10113-019-01565-w",
+        "citationKey": "",
+        "url": "http://link.springer.com/10.1007/s10113-019-01565-w",
+        "accessDate": "2026-07-01T21:06:56Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1436-3798, 1436-378X",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "CJS9TND5",
+          "DKDV3KN4"
+        ],
+        "relations": {
+          "dc:replaces": "http://zotero.org/groups/5816477/items/TKKA86KY"
+        },
+        "dateAdded": "2025-02-13T08:23:01Z",
+        "dateModified": "2026-09-08T12:52:14Z"
+      }
+    },
+    {
+      "key": "AULLCTHK",
+      "version": 1931,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/AULLCTHK",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/AULLCTHK",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "lastModifiedByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Zittis et al.",
+        "parsedDate": "2023-06-01",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "AULLCTHK",
+        "version": 1931,
+        "itemType": "journalArticle",
+        "title": "Maritime transport and regional climate change impacts in large EU islands and archipelagos",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "George",
+            "lastName": "Zittis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bodo",
+            "lastName": "Ahrens"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anika",
+            "lastName": "Obermann-Hellhund"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Elias",
+            "lastName": "Giannakis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Danny",
+            "lastName": "Risto"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Miguel",
+            "lastName": "Agulles Gamez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gabriel",
+            "lastName": "Jorda"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mónica",
+            "lastName": "Quesada Peña"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Veronica",
+            "lastName": "Lora Rodríguez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jose Luis",
+            "lastName": "Guersi Sauret"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Piero",
+            "lastName": "Lionello"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Elodie",
+            "lastName": "Briche"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julie",
+            "lastName": "Collignan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matthias",
+            "lastName": "Grätz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Damian",
+            "lastName": "Arikas"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Constantinos",
+            "lastName": "Stylianou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Haris",
+            "lastName": "Neophytou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Despina",
+            "lastName": "Serghides"
+          }
+        ],
+        "abstractNote": "Maritime transport is a vital sector for global trade and the world economy. Particularly for islands, there is also an important social dimension of this sector, since island communities strongly rely on it for a connection with the mainland and the transportation of goods and passengers. Furthermore, islands are exceptionally vulnerable to climate change, as the rising sea level and extreme events are expected to induce severe impacts. Such hazards are anticipated to also affect the operations of the maritime transport sector by affecting either the port infrastructure or ships en route. The present study is an effort to better comprehend and assess the future risk of maritime transport disruption in six European islands and archipelagos, and it aims at supporting regional to local policy and decision-making. We employ state-of-the-art regional climate datasets and the widely used impact chain approach to identify the different components that might drive such risks. Larger islands (e.g., Corsica, Cyprus and Crete) are found to be more resilient to the impacts of climate change on maritime operations. Our findings also highlight the importance of adopting a low-emission pathway, since this will keep the risk of maritime transport disruption similar to present levels or even slightly decreased for some islands because of an enhanced adaptation capacity and advantageous demographic changes.",
+        "publicationTitle": "Euro-Mediterranean Journal for Environmental Integration",
+        "publisher": "",
+        "place": "",
+        "date": "2023-06-01",
+        "volume": "8",
+        "issue": "2",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "441-454",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Euro-Mediterr J Environ Integr",
+        "DOI": "10.1007/s41207-023-00370-6",
+        "citationKey": "",
+        "url": "https://doi.org/10.1007/s41207-023-00370-6",
+        "accessDate": "2026-04-27T08:58:57Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "2365-7448",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [
+          {
+            "tag": "Blue economy",
+            "type": 1
+          },
+          {
+            "tag": "Climate change",
+            "type": 1
+          },
+          {
+            "tag": "Impacts",
+            "type": 1
+          },
+          {
+            "tag": "Islands",
+            "type": 1
+          },
+          {
+            "tag": "Maritime transport",
+            "type": 1
+          },
+          {
+            "tag": "Mediterranean",
+            "type": 1
+          }
+        ],
+        "collections": [
+          "DKDV3KN4"
+        ],
+        "relations": {
+          "dc:replaces": "http://zotero.org/groups/5816477/items/G5BAFE5M"
+        },
+        "dateAdded": "2025-07-24T10:57:20Z",
+        "dateModified": "2026-09-08T12:52:06Z"
+      }
+    },
+    {
+      "key": "9W8EVWGM",
+      "version": 1929,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/9W8EVWGM",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/9W8EVWGM",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Giorgi et al.",
+        "parsedDate": "2022",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "9W8EVWGM",
+        "version": 1929,
+        "itemType": "journalArticle",
+        "title": "The CORDEX-CORE EXP-I Initiative: Description and Highlight Results from the Initial Analysis",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Filippo",
+            "lastName": "Giorgi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erika",
+            "lastName": "Coppola"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniela",
+            "lastName": "Jacob"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Claas",
+            "lastName": "Teichmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sabina",
+            "lastName": "Abba Omar"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Moetasim",
+            "lastName": "Ashfaq"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nikolina",
+            "lastName": "Ban"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Katharina",
+            "lastName": "Bülow"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Melissa",
+            "lastName": "Bukovsky"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lars",
+            "lastName": "Buntemeyer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tereza",
+            "lastName": "Cavazos"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "James",
+            "lastName": "Ciarlo`"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rosmeri Porfirio",
+            "lastName": "Da Rocha"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sushant",
+            "lastName": "Das"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fabio",
+            "lastName": "Di Sante"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Xuejie",
+            "lastName": "Gao"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Graziano",
+            "lastName": "Giuliani"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Russell H.",
+            "lastName": "Glazer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Hoffmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eun-Soon",
+            "lastName": "Im"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gaby",
+            "lastName": "Langendijk"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ludwig",
+            "lastName": "Lierhammer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marta",
+            "lastName": "Llopart"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sebastial",
+            "lastName": "Mueller"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rosa",
+            "lastName": "Luna-Nino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rita",
+            "lastName": "Nogherotto"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Emanuela",
+            "lastName": "Pichelli"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Francesca",
+            "lastName": "Raffaele"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michelle",
+            "lastName": "Reboita"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Diana",
+            "lastName": "Rechid"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Armelle",
+            "lastName": "Remedio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Thomas",
+            "lastName": "Remke"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Windmanagda",
+            "lastName": "Sawadogo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kevin",
+            "lastName": "Sieck"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "José Abraham",
+            "lastName": "Torres-Alavez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Torsten",
+            "lastName": "Weber"
+          }
+        ],
+        "abstractNote": "Abstract\n            We describe the first effort within the Coordinated Regional Climate Downscaling Experiment–Coordinated Output for Regional Evaluation, or CORDEX-CORE EXP-I. It consists of a set of twenty-first-century projections with two regional climate models (RCMs) downscaling three global climate model (GCM) simulations from the CMIP5 program, for two greenhouse gas concentration pathways (RCP8.5 and RCP2.6), over nine CORDEX domains at ∼25-km grid spacing. Illustrative examples from the initial analysis of this ensemble are presented, covering a wide range of topics, such as added value of RCM nesting, extreme indices, tropical and extratropical storms, monsoons, ENSO, severe storm environments, emergence of change signals, and energy production. They show that the CORDEX-CORE EXP-I ensemble can provide downscaled information of unprecedented comprehensiveness to increase understanding of processes relevant for regional climate change and impacts, and to assess the added value of RCMs. The CORDEX-CORE EXP-I dataset, which will be incrementally augmented with new simulations, is intended to be a public resource available to the scientific and end-user communities for application to process studies, impacts on different socioeconomic sectors, and climate service activities. The future of the CORDEX-CORE initiative is also discussed.",
+        "publicationTitle": "Bulletin of the American Meteorological Society",
+        "publisher": "",
+        "place": "",
+        "date": "02/2022",
+        "volume": "103",
+        "issue": "2",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "E293-E310",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.1175/BAMS-D-21-0119.1",
+        "citationKey": "",
+        "url": "https://journals.ametsoc.org/view/journals/bams/103/2/BAMS-D-21-0119.1.xml",
+        "accessDate": "2026-09-08T12:51:30Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0003-0007, 1520-0477",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "The CORDEX-CORE EXP-I Initiative",
+        "language": "",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "http://www.ametsoc.org/PUBSReuseLicenses",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "8R8GFHR5"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-08T12:51:30Z",
+        "dateModified": "2026-09-08T12:51:30Z"
+      }
+    },
+    {
+      "key": "ZEQSDJH2",
+      "version": 1928,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/ZEQSDJH2",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/ZEQSDJH2",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Diez-Sierra et al.",
+        "parsedDate": "2022",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "ZEQSDJH2",
+        "version": 1928,
+        "itemType": "journalArticle",
+        "title": "The Worldwide C3S CORDEX Grand Ensemble: A Major Contribution to Assess Regional Climate Change in the IPCC AR6 Atlas",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Javier",
+            "lastName": "Diez-Sierra"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Maialen",
+            "lastName": "Iturbide"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "José M.",
+            "lastName": "Gutiérrez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jesús",
+            "lastName": "Fernández"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Josipa",
+            "lastName": "Milovac"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Antonio S.",
+            "lastName": "Cofiño"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ezequiel",
+            "lastName": "Cimadevilla"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Grigory",
+            "lastName": "Nikulin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Guillaume",
+            "lastName": "Levavasseur"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erik",
+            "lastName": "Kjellström"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Katharina",
+            "lastName": "Bülow"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "András",
+            "lastName": "Horányi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anca",
+            "lastName": "Brookshaw"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Markel",
+            "lastName": "García-Díez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Antonio",
+            "lastName": "Pérez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jorge",
+            "lastName": "Baño-Medina"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bodo",
+            "lastName": "Ahrens"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Antoinette",
+            "lastName": "Alias"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Moetasim",
+            "lastName": "Ashfaq"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Melissa",
+            "lastName": "Bukovsky"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erasmo",
+            "lastName": "Buonomo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Steven",
+            "lastName": "Caluwaerts"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sin Chan",
+            "lastName": "Chou"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ole B.",
+            "lastName": "Christensen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "James M.",
+            "lastName": "Ciarlò"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erika",
+            "lastName": "Coppola"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lola",
+            "lastName": "Corre"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marie-Estelle",
+            "lastName": "Demory"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Vladimir",
+            "lastName": "Djurdjevic"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rowan",
+            "lastName": "Fealy"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hendrik",
+            "lastName": "Feldmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniela",
+            "lastName": "Jacob"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sanjay",
+            "lastName": "Jayanarayanan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jack",
+            "lastName": "Katzfey"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Klaus",
+            "lastName": "Keuler"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christoph",
+            "lastName": "Kittel"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mehmet Levent",
+            "lastName": "Kurnaz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "René",
+            "lastName": "Laprise"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Piero",
+            "lastName": "Lionello"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Seth",
+            "lastName": "McGinnis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Paola",
+            "lastName": "Mercogliano"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Pierre",
+            "lastName": "Nabat"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Barış",
+            "lastName": "Önol"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tugba",
+            "lastName": "Ozturk"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hans-Jürgen",
+            "lastName": "Panitz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Dominique",
+            "lastName": "Paquin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ildikó",
+            "lastName": "Pieczka"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Francesca",
+            "lastName": "Raffaele"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Armelle Reca",
+            "lastName": "Remedio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John",
+            "lastName": "Scinocca"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Florence",
+            "lastName": "Sevault"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Samuel",
+            "lastName": "Somot"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christian",
+            "lastName": "Steger"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fredolin",
+            "lastName": "Tangang"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Claas",
+            "lastName": "Teichmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Piet",
+            "lastName": "Termonia"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marcus",
+            "lastName": "Thatcher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Csaba",
+            "lastName": "Torma"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erik",
+            "lastName": "Van Meijgaard"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Robert",
+            "lastName": "Vautard"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kirsten",
+            "lastName": "Warrach-Sagi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Katja",
+            "lastName": "Winger"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "George",
+            "lastName": "Zittis"
+          }
+        ],
+        "abstractNote": "Abstract\n            The collaboration between the Coordinated Regional Climate Downscaling Experiment (CORDEX) and the Earth System Grid Federation (ESGF) provides open access to an unprecedented ensemble of regional climate model (RCM) simulations, across the 14 CORDEX continental-scale domains, with global coverage. These simulations have been used as a new line of evidence to assess regional climate projections in the latest contribution of the Working Group I (WGI) to the IPCC Sixth Assessment Report (AR6), particularly in the regional chapters and the Atlas. Here, we present the work done in the framework of the Copernicus Climate Change Service (C3S) to ­assemble a consistent worldwide CORDEX grand ensemble, aligned with the deadlines and ­activities of IPCC AR6. This work addressed the uneven and heterogeneous availability of CORDEX ESGF data by supporting publication in CORDEX domains with few archived simulations and performing quality control. It also addressed the lack of comprehensive documentation by compiling information from all contributing regional models, allowing for an informed use of data. In addition to presenting the worldwide CORDEX dataset, we assess here its consistency for precipitation and temperature by comparing climate change signals in regions with overlapping CORDEX domains, obtaining overall coincident regional climate change signals. The C3S CORDEX dataset has been used for the assessment of regional climate change in the IPCC AR6 (and for the interactive Atlas) and is available through the Copernicus Climate Data Store (CDS).",
+        "publicationTitle": "Bulletin of the American Meteorological Society",
+        "publisher": "",
+        "place": "",
+        "date": "12/2022",
+        "volume": "103",
+        "issue": "12",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "E2804-E2826",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.1175/BAMS-D-22-0111.1",
+        "citationKey": "",
+        "url": "https://journals.ametsoc.org/view/journals/bams/103/12/BAMS-D-22-0111.1.xml",
+        "accessDate": "2026-09-08T12:50:27Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0003-0007, 1520-0477",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "The Worldwide C3S CORDEX Grand Ensemble",
+        "language": "",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "http://creativecommons.org/licenses/by/4.0/",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "U95GJRQN"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-08T12:50:27Z",
+        "dateModified": "2026-09-08T12:50:27Z"
+      }
+    },
     {
       "key": "X77XUK9T",
       "version": 1915,
@@ -4088,6 +5804,193 @@
         "relations": {},
         "dateAdded": "2026-07-07T18:08:24Z",
         "dateModified": "2026-07-07T18:08:24Z"
+      }
+    },
+    {
+      "key": "LYDAYY6D",
+      "version": 1941,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/LYDAYY6D",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/LYDAYY6D",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16143938,
+          "username": "mbukovsky",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/mbukovsky",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Teichmann et al.",
+        "parsedDate": "2021",
+        "numChildren": 1
+      },
+      "data": {
+        "key": "LYDAYY6D",
+        "version": 1941,
+        "itemType": "journalArticle",
+        "title": "Assessing mean climate change signals in the global CORDEX-CORE ensemble",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "C.",
+            "lastName": "Teichmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "D.",
+            "lastName": "Jacob"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "A. R.",
+            "lastName": "Remedio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "T.",
+            "lastName": "Remke"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "L.",
+            "lastName": "Buntemeyer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "P.",
+            "lastName": "Hoffmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "A.",
+            "lastName": "Kriegsmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "L.",
+            "lastName": "Lierhammer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "K.",
+            "lastName": "Bülow"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "T.",
+            "lastName": "Weber"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "K.",
+            "lastName": "Sieck"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "D.",
+            "lastName": "Rechid"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "G. S.",
+            "lastName": "Langendijk"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "E.",
+            "lastName": "Coppola"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "F.",
+            "lastName": "Giorgi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J. M.",
+            "lastName": "Ciarlo`"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "F.",
+            "lastName": "Raffaele"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "G.",
+            "lastName": "Giuliani"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "G.",
+            "lastName": "Xuejie"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "E.-S",
+            "lastName": "… Im"
+          }
+        ],
+        "abstractNote": "",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "2021",
+        "volume": "57",
+        "issue": "5",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "1269-1292",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Climate Dynamics",
+        "DOI": "10.1007/s00382-020-05494-x",
+        "citationKey": "",
+        "url": "https://doi.org/10.1007/s00382-020-05494-x",
+        "accessDate": "",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "",
+        "libraryCatalog": "",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "8R8GFHR5",
+          "JDNPGSZ4"
+        ],
+        "relations": {},
+        "dateAdded": "2026-07-07T18:08:23Z",
+        "dateModified": "2026-07-07T18:08:23Z"
       }
     },
     {
@@ -8148,192 +10051,6 @@
       }
     },
     {
-      "key": "LYDAYY6D",
-      "version": 1551,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/LYDAYY6D",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/LYDAYY6D",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16143938,
-          "username": "mbukovsky",
-          "name": "",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/mbukovsky",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Teichmann et al.",
-        "parsedDate": "2021",
-        "numChildren": 1
-      },
-      "data": {
-        "key": "LYDAYY6D",
-        "version": 1551,
-        "itemType": "journalArticle",
-        "title": "Assessing mean climate change signals in the global CORDEX-CORE ensemble",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Teichmann"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "D.",
-            "lastName": "Jacob"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A. R.",
-            "lastName": "Remedio"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Remke"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "L.",
-            "lastName": "Buntemeyer"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "P.",
-            "lastName": "Hoffmann"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Kriegsmann"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "L.",
-            "lastName": "Lierhammer"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Bülow"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Weber"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Sieck"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "D.",
-            "lastName": "Rechid"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "G. S.",
-            "lastName": "Langendijk"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.",
-            "lastName": "Coppola"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "F.",
-            "lastName": "Giorgi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J. M.",
-            "lastName": "Ciarlo`"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "F.",
-            "lastName": "Raffaele"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "G.",
-            "lastName": "Giuliani"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "G.",
-            "lastName": "Xuejie"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.-S",
-            "lastName": "… Im"
-          }
-        ],
-        "abstractNote": "",
-        "publicationTitle": "Climate Dynamics",
-        "publisher": "",
-        "place": "",
-        "date": "2021",
-        "volume": "57",
-        "issue": "5",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "1269-1292",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Climate Dynamics",
-        "DOI": "10.1007/s00382-020-05494-x",
-        "citationKey": "",
-        "url": "https://doi.org/10.1007/s00382-020-05494-x",
-        "accessDate": "",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "",
-        "libraryCatalog": "",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "JDNPGSZ4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-07-07T18:08:23Z",
-        "dateModified": "2026-07-07T18:08:23Z"
-      }
-    },
-    {
       "key": "45ZAUFB8",
       "version": 1550,
       "library": {
@@ -10054,192 +11771,6 @@
         "DOI": "10.5194/bg-21-2839-2024",
         "citationKey": "",
         "url": "https://doi.org/10.5194/bg-21-2839-2024",
-        "accessDate": "",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "",
-        "libraryCatalog": "",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "JDNPGSZ4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-07-07T18:08:23Z",
-        "dateModified": "2026-07-07T18:08:23Z"
-      }
-    },
-    {
-      "key": "B56T8X59",
-      "version": 1533,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/B56T8X59",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/B56T8X59",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16143938,
-          "username": "mbukovsky",
-          "name": "",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/mbukovsky",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Sobolowski et al.",
-        "parsedDate": "2025",
-        "numChildren": 1
-      },
-      "data": {
-        "key": "B56T8X59",
-        "version": 1533,
-        "itemType": "journalArticle",
-        "title": "GCM Selection and Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Sobolowski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Somot"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Fernandez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "G.",
-            "lastName": "Evin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Brands"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "D.",
-            "lastName": "Maraun"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Kotlarski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "M.",
-            "lastName": "Jury"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "R. E.",
-            "lastName": "Benestad"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Teichmann"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "O. B.",
-            "lastName": "Christensen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Bülow"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.",
-            "lastName": "Buonomo"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.",
-            "lastName": "Katragkou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Steger"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Sørland"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "G.",
-            "lastName": "Nikulin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "McSweeney"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Dobler"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T",
-            "lastName": "… Oudar"
-          }
-        ],
-        "abstractNote": "",
-        "publicationTitle": "",
-        "publisher": "",
-        "place": "",
-        "date": "2025",
-        "volume": "",
-        "issue": "",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "",
-        "DOI": "10.1175/BAMS-D-23-0189.1",
-        "citationKey": "",
-        "url": "https://doi.org/10.1175/BAMS-D-23-0189.1",
         "accessDate": "",
         "PMID": "",
         "PMCID": "",
@@ -28768,60 +30299,6 @@
         "parentItem": "DM23ITF7",
         "itemType": "note",
         "note": "<p>Original APA entry: Song, S., Zhang, X., & Yan, X. (2024). Mapping the future afforestation distribution of China constrained by a national afforestation plan and climate change. Biogeosciences, 21(11), 2839–2858. https://doi.org/10.5194/bg-21-2839-2024</p>",
-        "tags": [],
-        "relations": {},
-        "dateAdded": "2026-07-07T18:08:23Z",
-        "dateModified": "2026-07-07T18:08:23Z"
-      }
-    },
-    {
-      "key": "7TSS6VJZ",
-      "version": 1145,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/7TSS6VJZ",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/7TSS6VJZ",
-          "type": "text/html"
-        },
-        "up": {
-          "href": "https://api.zotero.org/groups/5816477/items/B56T8X59",
-          "type": "application/json"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16143938,
-          "username": "mbukovsky",
-          "name": "",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/mbukovsky",
-              "type": "text/html"
-            }
-          }
-        },
-        "numChildren": 0
-      },
-      "data": {
-        "key": "7TSS6VJZ",
-        "version": 1145,
-        "parentItem": "B56T8X59",
-        "itemType": "note",
-        "note": "<p>Original APA entry: Sobolowski, S., Somot, S., Fernandez, J., Evin, G., Brands, S., Maraun, D., Kotlarski, S., Jury, M., Benestad, R. E., Teichmann, C., Christensen, O. B., Bülow, K., Buonomo, E., Katragkou, E., Steger, C., Sørland, S., Nikulin, G., McSweeney, C., Dobler, A., … Oudar, T. (2025). GCM Selection and Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community. https://doi.org/10.1175/BAMS-D-23-0189.1</p>",
         "tags": [],
         "relations": {},
         "dateAdded": "2026-07-07T18:08:23Z",
@@ -53107,207 +54584,6 @@
       }
     },
     {
-      "key": "TVDHCC7A",
-      "version": 647,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/TVDHCC7A",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/TVDHCC7A",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Ha et al.",
-        "parsedDate": "2024",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "TVDHCC7A",
-        "version": 647,
-        "itemType": "journalArticle",
-        "title": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution: impact of model resolution and convection representation",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Minh T.",
-            "lastName": "Ha"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Sophie",
-            "lastName": "Bastin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Philippe",
-            "lastName": "Drobinski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "L.",
-            "lastName": "Fita"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Polcher"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "O.",
-            "lastName": "Bock"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "M.",
-            "lastName": "Chiriaco"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "D.",
-            "lastName": "Belušić"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Caillaud"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Dobler"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Fernandez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Goergen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ø.",
-            "lastName": "Hodnebrog"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Kartsios"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.",
-            "lastName": "Katragkou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Lavin-Gullon"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Lorenz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Milovac"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "H.-J.",
-            "lastName": "Panitz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Sobolowski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "H.",
-            "lastName": "Truhetz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Warrach-Sagi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "V.",
-            "lastName": "Wulfmeyer"
-          }
-        ],
-        "abstractNote": "Abstract \n            Recent studies using convection-permitting (CP) climate simulations have demonstrated a step-change in the representation of heavy rainfall and rainfall characteristics (frequency-intensity) compared to coarser resolution Global and Regional climate models. The goal of this study is to better understand what explains the weaker frequency of precipitation in the CP ensemble by assessing the triggering process of precipitation in the different ensembles of regional climate simulations available over Europe. We focus on the statistical relationship between tropospheric temperature, humidity and precipitation to understand how the frequency of precipitation over Europe and the Mediterranean is impacted by model resolution and the representation of convection (parameterized vs. explicit). We employ a multi-model data-set with three different resolutions (0.44°, 0.11° and 0.0275°) produced in the context of the MED-CORDEX, EURO-CORDEX and the CORDEX Flagship Pilot Study \"Convective Phenomena over Europe and the Mediterranean\" (FPSCONV). The multi-variate approach is applied to all model ensembles, and to several surface stations where the integrated water vapor (IWV) is derived from Global Positioning System (GPS) measurements. The results show that all model ensembles capture the temperature dependence of the critical value of IWV (IWVcv), above which an increase in precipitation frequency occurs, but the differences between the models in terms of the value of IWVcv, and the probability of its being exceeded, can be large at higher temperatures. The lower frequency of precipitation in convection-permitting simulations is not only explained by higher temperatures but also by a higher IWVcv necessary to trigger precipitation at similar temperatures, and a lower probability to exceed this critical value. The spread between models in simulating IWVcv and the probability of exceeding IWVcv is reduced over land in the ensemble of models with explicit convection, especially at high temperatures, when the convective fraction of total precipitation becomes more important and the influence of the representation of entrainment in models thus becomes more important. Over lowlands, both model resolution and convection representation affect precipitation triggering while over mountainous areas, resolution has the highest impact due to orography-induced triggering processes. Over the sea, since lifting is produced by large-scale convergence, the probability to exceed IWVcv does not depend on temperature, and the model resolution does not have a clear impact on the results.",
-        "publicationTitle": "Climate Dynamics",
-        "publisher": "",
-        "place": "",
-        "date": "06/2024",
-        "volume": "62",
-        "issue": "6",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "4515-4540",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Clim Dyn",
-        "DOI": "10.1007/s00382-022-06594-6",
-        "citationKey": "",
-        "url": "https://link.springer.com/10.1007/s00382-022-06594-6",
-        "accessDate": "2026-07-03T16:08:08Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "0930-7575, 1432-0894",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-07-03T16:08:08Z",
-        "dateModified": "2026-07-03T16:08:08Z"
-      }
-    },
-    {
       "key": "HQL3R6JY",
       "version": 646,
       "library": {
@@ -54319,117 +55595,6 @@
         "relations": {},
         "dateAdded": "2026-07-03T09:22:03Z",
         "dateModified": "2026-07-03T09:22:03Z"
-      }
-    },
-    {
-      "key": "DGN5FNFQ",
-      "version": 637,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/DGN5FNFQ",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/DGN5FNFQ",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Zittis et al.",
-        "parsedDate": "2019",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "DGN5FNFQ",
-        "version": 637,
-        "itemType": "journalArticle",
-        "title": "A multi-model, multi-scenario, and multi-domain analysis of regional climate projections for the Mediterranean",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "George",
-            "lastName": "Zittis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Panos",
-            "lastName": "Hadjinicolaou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Marina",
-            "lastName": "Klangidou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Yiannis",
-            "lastName": "Proestos"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jos",
-            "lastName": "Lelieveld"
-          }
-        ],
-        "abstractNote": "Abstract \n            Observation and model-based studies have identified the Mediterranean region as one of the most prominent climate change “hot-spots.” Parts of this distinctive region are included in several Coordinated Regional Downscaling Experiment (CORDEX) domains such as those for Europe, Africa, the Mediterranean, and the Middle East/North Africa. In this study, we compile and analyze monthly temperature and precipitation fields derived from regional climate model simulations performed over different CORDEX domains at a spatial resolution of 50 km. This unique multi-model, multi-scenario, and multi-domain “super-ensemble” is used to update projected changes for the Mediterranean region. The statistical robustness and significance of the climate change signal is assessed. By considering information from more than one CORDEX domains, our analysis addresses an additional type of uncertainty that is often neglected and is related to the positioning of the regional climate model domain. CORDEX simulations suggest a general warming by the end of the century (between 1 and 5 °C with respect to the 1986–2005 reference period), which is expected to be strongest during summer (up to 7 °C). A general drying (between 10 and 40%) is also inferred for the Mediterranean. However, the projected precipitation change signal is less significant and less robust. The CORDEX ensemble corroborates the fact that the Mediterranean is already entering the 1.5 °C climate warming era. It is expected to reach 2 °C warming well within two decades, unless strong greenhouse gas concentration reductions are implemented. The southern part of the Mediterranean is expected to be impacted most strongly since the CORDEX ensemble suggests substantial combined warming and drying, particularly for pathways RCP4.5 and RCP8.5.",
-        "publicationTitle": "Regional Environmental Change",
-        "publisher": "",
-        "place": "",
-        "date": "12/2019",
-        "volume": "19",
-        "issue": "8",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "2621-2635",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Reg Environ Change",
-        "DOI": "10.1007/s10113-019-01565-w",
-        "citationKey": "",
-        "url": "http://link.springer.com/10.1007/s10113-019-01565-w",
-        "accessDate": "2026-07-01T21:06:56Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "1436-3798, 1436-378X",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-07-01T21:06:56Z",
-        "dateModified": "2026-07-01T21:06:56Z"
       }
     },
     {
@@ -56696,238 +57861,6 @@
       }
     },
     {
-      "key": "ZUAQA4RB",
-      "version": 611,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/ZUAQA4RB",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/ZUAQA4RB",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Pagès et al.",
-        "parsedDate": "2020",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "ZUAQA4RB",
-        "version": 611,
-        "itemType": "journalArticle",
-        "title": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin: A modelling study",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "R.",
-            "lastName": "Pagès"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "M.",
-            "lastName": "Baklouti"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "N.",
-            "lastName": "Barrier"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Richon"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.-C.",
-            "lastName": "Dutay"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Moutin"
-          }
-        ],
-        "abstractNote": "",
-        "publicationTitle": "Progress in Oceanography",
-        "publisher": "",
-        "place": "",
-        "date": "02/2020",
-        "volume": "181",
-        "issue": "",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "102242",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Progress in Oceanography",
-        "DOI": "10.1016/j.pocean.2019.102242",
-        "citationKey": "",
-        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079661119304227",
-        "accessDate": "2026-06-19T13:01:09Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "00796611",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-06-19T13:01:09Z",
-        "dateModified": "2026-06-19T13:01:09Z"
-      }
-    },
-    {
-      "key": "VFD4M863",
-      "version": 610,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/VFD4M863",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/VFD4M863",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Pagès et al.",
-        "parsedDate": "2020",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "VFD4M863",
-        "version": 610,
-        "itemType": "journalArticle",
-        "title": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin: A modelling study",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "R.",
-            "lastName": "Pagès"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "M.",
-            "lastName": "Baklouti"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "N.",
-            "lastName": "Barrier"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Richon"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.-C.",
-            "lastName": "Dutay"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Moutin"
-          }
-        ],
-        "abstractNote": "",
-        "publicationTitle": "Progress in Oceanography",
-        "publisher": "",
-        "place": "",
-        "date": "02/2020",
-        "volume": "181",
-        "issue": "",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "102242",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Progress in Oceanography",
-        "DOI": "10.1016/j.pocean.2019.102242",
-        "citationKey": "",
-        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079661119304227",
-        "accessDate": "2026-06-19T13:00:56Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "00796611",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "Changes in rivers inputs during the last decades significantly impacted the biogeochemistry of the eastern Mediterranean basin",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-06-19T13:00:56Z",
-        "dateModified": "2026-06-19T13:00:56Z"
-      }
-    },
-    {
       "key": "I7X2CX5F",
       "version": 609,
       "library": {
@@ -58502,207 +59435,6 @@
         "relations": {},
         "dateAdded": "2026-04-27T17:25:25Z",
         "dateModified": "2026-04-27T17:26:22Z"
-      }
-    },
-    {
-      "key": "AULLCTHK",
-      "version": 590,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/AULLCTHK",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/AULLCTHK",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Zittis et al.",
-        "parsedDate": "2023-06-01",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "AULLCTHK",
-        "version": 590,
-        "itemType": "journalArticle",
-        "title": "Maritime transport and regional climate change impacts in large EU islands and archipelagos",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "George",
-            "lastName": "Zittis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Bodo",
-            "lastName": "Ahrens"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Anika",
-            "lastName": "Obermann-Hellhund"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elias",
-            "lastName": "Giannakis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Danny",
-            "lastName": "Risto"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Miguel",
-            "lastName": "Agulles Gamez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Gabriel",
-            "lastName": "Jorda"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Mónica",
-            "lastName": "Quesada Peña"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Veronica",
-            "lastName": "Lora Rodríguez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jose Luis",
-            "lastName": "Guersi Sauret"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Piero",
-            "lastName": "Lionello"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elodie",
-            "lastName": "Briche"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Julie",
-            "lastName": "Collignan"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Matthias",
-            "lastName": "Grätz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Damian",
-            "lastName": "Arikas"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Constantinos",
-            "lastName": "Stylianou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Haris",
-            "lastName": "Neophytou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Despina",
-            "lastName": "Serghides"
-          }
-        ],
-        "abstractNote": "Maritime transport is a vital sector for global trade and the world economy. Particularly for islands, there is also an important social dimension of this sector, since island communities strongly rely on it for a connection with the mainland and the transportation of goods and passengers. Furthermore, islands are exceptionally vulnerable to climate change, as the rising sea level and extreme events are expected to induce severe impacts. Such hazards are anticipated to also affect the operations of the maritime transport sector by affecting either the port infrastructure or ships en route. The present study is an effort to better comprehend and assess the future risk of maritime transport disruption in six European islands and archipelagos, and it aims at supporting regional to local policy and decision-making. We employ state-of-the-art regional climate datasets and the widely used impact chain approach to identify the different components that might drive such risks. Larger islands (e.g., Corsica, Cyprus and Crete) are found to be more resilient to the impacts of climate change on maritime operations. Our findings also highlight the importance of adopting a low-emission pathway, since this will keep the risk of maritime transport disruption similar to present levels or even slightly decreased for some islands because of an enhanced adaptation capacity and advantageous demographic changes.",
-        "publicationTitle": "Euro-Mediterranean Journal for Environmental Integration",
-        "publisher": "",
-        "place": "",
-        "date": "2023-06-01",
-        "volume": "8",
-        "issue": "2",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "441-454",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Euro-Mediterr J Environ Integr",
-        "DOI": "10.1007/s41207-023-00370-6",
-        "citationKey": "",
-        "url": "https://doi.org/10.1007/s41207-023-00370-6",
-        "accessDate": "2026-04-27T08:58:57Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "2365-7448",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "en",
-        "libraryCatalog": "Springer Link",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [
-          {
-            "tag": "Blue economy",
-            "type": 1
-          },
-          {
-            "tag": "Climate change",
-            "type": 1
-          },
-          {
-            "tag": "Impacts",
-            "type": 1
-          },
-          {
-            "tag": "Islands",
-            "type": 1
-          },
-          {
-            "tag": "Maritime transport",
-            "type": 1
-          },
-          {
-            "tag": "Mediterranean",
-            "type": 1
-          }
-        ],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2026-04-27T08:59:02Z",
-        "dateModified": "2026-04-27T08:59:02Z"
       }
     },
     {
@@ -82604,235 +83336,6 @@
       }
     },
     {
-      "key": "YAE8DWEC",
-      "version": 216,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/YAE8DWEC",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/YAE8DWEC",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Sobolowski et al.",
-        "parsedDate": "2025-05-26",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "YAE8DWEC",
-        "version": 216,
-        "itemType": "journalArticle",
-        "title": "GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Stefan",
-            "lastName": "Sobolowski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Samuel",
-            "lastName": "Somot"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jesus",
-            "lastName": "Fernandez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Guillaume",
-            "lastName": "Evin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Swen",
-            "lastName": "Brands"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Douglas",
-            "lastName": "Maraun"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Sven",
-            "lastName": "Kotlarski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Martin",
-            "lastName": "Jury"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Rasmus E.",
-            "lastName": "Benestad"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Claas",
-            "lastName": "Teichmann"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ole B.",
-            "lastName": "Christensen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Katharina",
-            "lastName": "Bülow"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Erasmo",
-            "lastName": "Buonomo"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Eleni",
-            "lastName": "Katragkou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Christian",
-            "lastName": "Steger"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Silje",
-            "lastName": "Sørland"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Grigory",
-            "lastName": "Nikulin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Carol",
-            "lastName": "McSweeney"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Andreas",
-            "lastName": "Dobler"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Tamzin",
-            "lastName": "Palmer"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Renate",
-            "lastName": "Wilcke"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Julien",
-            "lastName": "Boé"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lukas",
-            "lastName": "Brunner"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Aurélien",
-            "lastName": "Ribes"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Said",
-            "lastName": "Qasmi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Pierre",
-            "lastName": "Nabat"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Florence",
-            "lastName": "Sevault"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Thomas",
-            "lastName": "Oudar"
-          }
-        ],
-        "abstractNote": "Abstract\n            \n              High resolution climate information is critical for the vulnerability, impacts, adaptation, and climate services communities (VIACS). Coordinated ensembles generated by initiatives like CORDEX provide consistent and comparable information for the present and future over all land areas of the globe. This manuscript focuses on the European CORDEX initiative (hereafter EURO-CORDEX), and its coordinated effort to build regional climate ensembles for the years to come. In its first phase, EURO-CORDEX produced a rich ensemble of regional climate simulations under different representative concentration pathway scenarios. The EURO-CORDEX dataset is openly available and was fed into the Regional Atlas of 6\n              th\n              IPCC Assessment Report. However, this ensemble suffered from several shortcomings, which the community seeks to address in the next phase of production. Chief among these is the oft cited criticism that the selection of GCMs that provide input to the regional climate models was not rigorous and that the resulting ensemble represents an “ensemble of opportunity”. The present paper provides a description of how the community has addressed these shortcomings. We present a comprehensive, flexible and traceable evaluation framework and toolkit for assessing the suitability of GCMs for downscaling, using EURO-CORDEX as an example. Its value lies in its explicit recognition of subjectivity and mechanisms implemented to transparently track decision making. Further, the utility of the framework extends well beyond pre-downscaling decisions to also include post-downscaling investigations performed by the VIACS communities and beyond, to include researchers investigating such topics as model biases, future constraints and exploring future storylines.",
-        "publicationTitle": "Bulletin of the American Meteorological Society",
-        "publisher": "",
-        "place": "",
-        "date": "2025-05-26",
-        "volume": "",
-        "issue": "",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "BAMS-D-23-0189.1",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "",
-        "DOI": "10.1175/BAMS-D-23-0189.1",
-        "citationKey": "",
-        "url": "https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0189.1/BAMS-D-23-0189.1.xml",
-        "accessDate": "2025-05-27T14:32:19Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "0003-0007, 1520-0477",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "GCM Selection & Ensemble Design",
-        "language": "",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "http://www.ametsoc.org/PUBSReuseLicenses",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "87RMMUDX",
-          "CV6D6FCX"
-        ],
-        "relations": {
-          "dc:replaces": "http://zotero.org/groups/5816477/items/PB7FRA96"
-        },
-        "dateAdded": "2025-05-27T14:32:19Z",
-        "dateModified": "2025-07-31T15:44:17Z"
-      }
-    },
-    {
       "key": "8RVGLUH6",
       "version": 214,
       "library": {
@@ -83792,193 +84295,6 @@
         "relations": {},
         "dateAdded": "2025-07-24T11:03:08Z",
         "dateModified": "2025-07-28T08:18:31Z"
-      }
-    },
-    {
-      "key": "G5BAFE5M",
-      "version": 206,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/G5BAFE5M",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/G5BAFE5M",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 17504293,
-          "username": "sam.somot",
-          "name": "Samuel Somot",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/sam.somot",
-              "type": "text/html"
-            }
-          }
-        },
-        "lastModifiedByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Zittis et al.",
-        "parsedDate": "2023-06",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "G5BAFE5M",
-        "version": 206,
-        "itemType": "journalArticle",
-        "title": "Maritime transport and regional climate change impacts in large EU islands and archipelagos",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "George",
-            "lastName": "Zittis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Bodo",
-            "lastName": "Ahrens"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Anika",
-            "lastName": "Obermann-Hellhund"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elias",
-            "lastName": "Giannakis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Danny",
-            "lastName": "Risto"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Miguel",
-            "lastName": "Agulles Gamez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Gabriel",
-            "lastName": "Jorda"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Mónica",
-            "lastName": "Quesada Peña"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Veronica",
-            "lastName": "Lora Rodríguez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jose Luis",
-            "lastName": "Guersi Sauret"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Piero",
-            "lastName": "Lionello"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Elodie",
-            "lastName": "Briche"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Julie",
-            "lastName": "Collignan"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Matthias",
-            "lastName": "Grätz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Damian",
-            "lastName": "Arikas"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Constantinos",
-            "lastName": "Stylianou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Haris",
-            "lastName": "Neophytou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Despina",
-            "lastName": "Serghides"
-          }
-        ],
-        "abstractNote": "Abstract \n            Maritime transport is a vital sector for global trade and the world economy. Particularly for islands, there is also an important social dimension of this sector, since island communities strongly rely on it for a connection with the mainland and the transportation of goods and passengers. Furthermore, islands are exceptionally vulnerable to climate change, as the rising sea level and extreme events are expected to induce severe impacts. Such hazards are anticipated to also affect the operations of the maritime transport sector by affecting either the port infrastructure or ships en route. The present study is an effort to better comprehend and assess the future risk of maritime transport disruption in six European islands and archipelagos, and it aims at supporting regional to local policy and decision-making. We employ state-of-the-art regional climate datasets and the widely used impact chain approach to identify the different components that might drive such risks. Larger islands (e.g., Corsica, Cyprus and Crete) are found to be more resilient to the impacts of climate change on maritime operations. Our findings also highlight the importance of adopting a low-emission pathway, since this will keep the risk of maritime transport disruption similar to present levels or even slightly decreased for some islands because of an enhanced adaptation capacity and advantageous demographic changes.",
-        "publicationTitle": "Euro-Mediterranean Journal for Environmental Integration",
-        "publisher": "",
-        "place": "",
-        "date": "2023-06",
-        "volume": "8",
-        "issue": "2",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "441-454",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Euro-Mediterr J Environ Integr",
-        "DOI": "10.1007/s41207-023-00370-6",
-        "citationKey": "",
-        "url": "https://link.springer.com/10.1007/s41207-023-00370-6",
-        "accessDate": "2025-07-24T10:57:20Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "2365-6433, 2365-7448",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "DKDV3KN4"
-        ],
-        "relations": {},
-        "dateAdded": "2025-07-24T10:57:20Z",
-        "dateModified": "2025-07-28T08:11:17Z"
       }
     },
     {
@@ -96244,226 +96560,6 @@
       }
     },
     {
-      "key": "QLU64IZ3",
-      "version": 67,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/QLU64IZ3",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/QLU64IZ3",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Ha et al.",
-        "parsedDate": "2022-12-29",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "QLU64IZ3",
-        "version": 67,
-        "itemType": "journalArticle",
-        "title": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution: impact of model resolution and convection representation",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Minh T.",
-            "lastName": "Ha"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Sophie",
-            "lastName": "Bastin"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Philippe",
-            "lastName": "Drobinski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "L.",
-            "lastName": "Fita"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Polcher"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "O.",
-            "lastName": "Bock"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "M.",
-            "lastName": "Chiriaco"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "D.",
-            "lastName": "Belušić"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "C.",
-            "lastName": "Caillaud"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Dobler"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Fernandez"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Goergen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ø.",
-            "lastName": "Hodnebrog"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Kartsios"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "E.",
-            "lastName": "Katragkou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "A.",
-            "lastName": "Lavin-Gullon"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "T.",
-            "lastName": "Lorenz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "J.",
-            "lastName": "Milovac"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "H.-J.",
-            "lastName": "Panitz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "S.",
-            "lastName": "Sobolowski"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "H.",
-            "lastName": "Truhetz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "K.",
-            "lastName": "Warrach-Sagi"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "V.",
-            "lastName": "Wulfmeyer"
-          }
-        ],
-        "abstractNote": "Recent studies using convection-permitting (CP) climate simulations have demonstrated a step-change in the representation of heavy rainfall and rainfall characteristics (frequency-intensity) compared to coarser resolution Global and Regional climate models. The goal of this study is to better understand what explains the weaker frequency of precipitation in the CP ensemble by assessing the triggering process of precipitation in the different ensembles of regional climate simulations available over Europe. We focus on the statistical relationship between tropospheric temperature, humidity and precipitation to understand how the frequency of precipitation over Europe and the Mediterranean is impacted by model resolution and the representation of convection (parameterized vs. explicit). We employ a multi-model data-set with three different resolutions (0.44°, 0.11° and 0.0275°) produced in the context of the MED-CORDEX, EURO-CORDEX and the CORDEX Flagship Pilot Study \"Convective Phenomena over Europe and the Mediterranean\" (FPSCONV). The multi-variate approach is applied to all model ensembles, and to several surface stations where the integrated water vapor (IWV) is derived from Global Positioning System (GPS) measurements. The results show that all model ensembles capture the temperature dependence of the critical value of IWV (IWVcv), above which an increase in precipitation frequency occurs, but the differences between the models in terms of the value of IWVcv, and the probability of its being exceeded, can be large at higher temperatures. The lower frequency of precipitation in convection-permitting simulations is not only explained by higher temperatures but also by a higher IWVcv necessary to trigger precipitation at similar temperatures, and a lower probability to exceed this critical value. The spread between models in simulating IWVcv and the probability of exceeding IWVcv is reduced over land in the ensemble of models with explicit convection, especially at high temperatures, when the convective fraction of total precipitation becomes more important and the influence of the representation of entrainment in models thus becomes more important. Over lowlands, both model resolution and convection representation affect precipitation triggering while over mountainous areas, resolution has the highest impact due to orography-induced triggering processes. Over the sea, since lifting is produced by large-scale convergence, the probability to exceed IWVcv does not depend on temperature, and the model resolution does not have a clear impact on the results.",
-        "publicationTitle": "Climate Dynamics",
-        "publisher": "",
-        "place": "",
-        "date": "2022-12-29",
-        "volume": "",
-        "issue": "",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Clim Dyn",
-        "DOI": "10.1007/s00382-022-06594-6",
-        "citationKey": "",
-        "url": "https://doi.org/10.1007/s00382-022-06594-6",
-        "accessDate": "2023-04-28T12:30:19Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "1432-0894",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "Precipitation frequency in Med-CORDEX and EURO-CORDEX ensembles from 0.44° to convection-permitting resolution",
-        "language": "en",
-        "libraryCatalog": "Springer Link",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [
-          {
-            "tag": "Convection processes",
-            "type": 1
-          },
-          {
-            "tag": "Convection-permitting models",
-            "type": 1
-          },
-          {
-            "tag": "Integrated water vapor",
-            "type": 1
-          },
-          {
-            "tag": "Precipitation triggering",
-            "type": 1
-          }
-        ],
-        "collections": [
-          "SQP8S37V"
-        ],
-        "relations": {
-          "owl:sameAs": "http://zotero.org/groups/4883035/items/AX98MD7D"
-        },
-        "dateAdded": "2025-03-14T17:59:06Z",
-        "dateModified": "2025-03-14T17:59:06Z"
-      }
-    },
-    {
       "key": "WQX2322P",
       "version": 65,
       "library": {
@@ -97581,117 +97677,6 @@
         "relations": {},
         "dateAdded": "2025-02-13T08:23:12Z",
         "dateModified": "2025-02-13T08:23:12Z"
-      }
-    },
-    {
-      "key": "TKKA86KY",
-      "version": 53,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/TKKA86KY",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/TKKA86KY",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Zittis et al.",
-        "parsedDate": "2019",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "TKKA86KY",
-        "version": 53,
-        "itemType": "journalArticle",
-        "title": "A multi-model, multi-scenario, and multi-domain analysis of regional climate projections for the Mediterranean",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "George",
-            "lastName": "Zittis"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Panos",
-            "lastName": "Hadjinicolaou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Marina",
-            "lastName": "Klangidou"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Yiannis",
-            "lastName": "Proestos"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jos",
-            "lastName": "Lelieveld"
-          }
-        ],
-        "abstractNote": "Abstract\n            Observation and model-based studies have identified the Mediterranean region as one of the most prominent climate change “hot-spots.” Parts of this distinctive region are included in several Coordinated Regional Downscaling Experiment (CORDEX) domains such as those for Europe, Africa, the Mediterranean, and the Middle East/North Africa. In this study, we compile and analyze monthly temperature and precipitation fields derived from regional climate model simulations performed over different CORDEX domains at a spatial resolution of 50 km. This unique multi-model, multi-scenario, and multi-domain “super-ensemble” is used to update projected changes for the Mediterranean region. The statistical robustness and significance of the climate change signal is assessed. By considering information from more than one CORDEX domains, our analysis addresses an additional type of uncertainty that is often neglected and is related to the positioning of the regional climate model domain. CORDEX simulations suggest a general warming by the end of the century (between 1 and 5 °C with respect to the 1986–2005 reference period), which is expected to be strongest during summer (up to 7 °C). A general drying (between 10 and 40%) is also inferred for the Mediterranean. However, the projected precipitation change signal is less significant and less robust. The CORDEX ensemble corroborates the fact that the Mediterranean is already entering the 1.5 °C climate warming era. It is expected to reach 2 °C warming well within two decades, unless strong greenhouse gas concentration reductions are implemented. The southern part of the Mediterranean is expected to be impacted most strongly since the CORDEX ensemble suggests substantial combined warming and drying, particularly for pathways RCP4.5 and RCP8.5.",
-        "publicationTitle": "Regional Environmental Change",
-        "publisher": "",
-        "place": "",
-        "date": "12/2019",
-        "volume": "19",
-        "issue": "8",
-        "section": "",
-        "partNumber": "",
-        "partTitle": "",
-        "pages": "2621-2635",
-        "series": "",
-        "seriesTitle": "",
-        "seriesText": "",
-        "journalAbbreviation": "Reg Environ Change",
-        "DOI": "10.1007/s10113-019-01565-w",
-        "citationKey": "",
-        "url": "http://link.springer.com/10.1007/s10113-019-01565-w",
-        "accessDate": "2025-02-13T08:23:01Z",
-        "PMID": "",
-        "PMCID": "",
-        "ISSN": "1436-3798, 1436-378X",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "en",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "CJS9TND5"
-        ],
-        "relations": {},
-        "dateAdded": "2025-02-13T08:23:01Z",
-        "dateModified": "2025-02-13T08:23:01Z"
       }
     },
     {

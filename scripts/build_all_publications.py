@@ -108,6 +108,15 @@ def _doi_url(data: dict[str, Any]) -> str:
         return doi
     return f"https://doi.org/{doi}"
 
+def _extract_publication_title(data: dict[str, Any]) -> str:
+    """Return the publication title (journal, book, conference) for a Zotero item."""
+    if not isinstance(data, dict):
+        return ""
+    elif str(data.get("itemType", "")).lower() == "thesis":
+        return "[PhD Thesis]"
+    else:
+        return str(data.get("publicationTitle", "")).strip() or str(data.get("libraryCatalog", "")).strip()
+
 
 def _build_collection_tree(collections: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
     raw: dict[str, dict[str, Any]] = {}
@@ -207,7 +216,6 @@ def _iter_active_items(zotero_data: dict[str, Any] | list[dict[str, Any]]) -> li
         active.append(item)
     return active
 
-
 def _build_entry(item: dict[str, Any]) -> dict[str, Any]:
     data = item.get("data", {}) or {}
     return {
@@ -215,7 +223,7 @@ def _build_entry(item: dict[str, Any]) -> dict[str, Any]:
         "title": _title_for_item(item),
         "authors": _authors_for_item(item),
         "year": _extract_year(item),
-        "publication_title": str(data.get("publicationTitle", "")).strip() or str(data.get("libraryCatalog", "")).strip(),
+        "publication_title": _extract_publication_title(data),
         "url": _doi_url(data) or str(data.get("url", "")).strip(),
     }
 
