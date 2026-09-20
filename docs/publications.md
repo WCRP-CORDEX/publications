@@ -938,7 +938,7 @@
 
 - Barral Q.-B., Estournel C., Waldman R., Parras-Berrocal I., Marsaleix P., Sevault F. (2026) **A high-emission future scenario in a sub-kilometric simulation of the Northwestern Mediterranean destabilizes the circulation and induces a seasonal Balearic Gyre**. *Numerical Models/Mesoscale to submesoscale dynamics*. [10.5194/egusphere-2026-1480](https://doi.org/10.5194/egusphere-2026-1480)
 - Chun K.P., Aragão L., Olmo M.E., Nguyen V.D., Risanto C.B., Bettolli M.L., Ezber Y., Toker E., Varotsos K.V. (2026) **New horizons in statistical downscaling and AI approaches for sustainable km-scale climate simulations**. *npj Climate and Atmospheric Science*. [10.1038/s41612-026-01424-6](https://doi.org/10.1038/s41612-026-01424-6)
-- De Rovere F., Bonino G., McAdam R., Scoccimarro E., Somot S., Parras-Berrocal I.M., Ahrens B., Djurdjevic V., Li L., Masina S. (2026) **The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea**. *DOI.org (Crossref)*. [10.5194/egusphere-2026-2752](https://doi.org/10.5194/egusphere-2026-2752)
+- De Rovere F., Bonino G., McAdam R., Scoccimarro E., Somot S., Parras-Berrocal I.M., Ahrens B., Djurdjevic V., Li L., Masina S. (2026) **The added value of Med-CORDEX coupled high-resolution regional climate models in representing sea surface temperature and marine heatwaves in the Mediterranean Sea**. *Ocean Science*. [10.5194/os-22-2725-2026](https://doi.org/10.5194/os-22-2725-2026)
 - Hamitouche M., Fosser G., RafieeiNasab A., Anav A. (2026) **Towards improved Euro-Mediterranean discharge simulations in regional coupled climate models: a comparative assessment of hydrologic performance**. *Geoscientific Model Development*. [10.5194/gmd-19-2881-2026](https://doi.org/10.5194/gmd-19-2881-2026)
 
 #### 2025 (8)
@@ -985,7 +985,7 @@
 
 #### 2026 (1)
 
-- Nguyen P.L., Alexander L.V., Ngo-Duc T., Cruz F., Santisirisomboon J., Juneng L., Permana D.S., Chung J.X., Dado J.M., McGregor J.L., Redmond G., Po T.W., Tangang F., Phan-Van T., Truong S.C.H., Thatcher M., Trinh-Tuan L., Ma’rufah U., Tibay J., Di Virgilio G., White S. (2026) **The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA**. *DOI.org (Crossref)*. [10.5194/egusphere-2026-1325](https://doi.org/10.5194/egusphere-2026-1325)
+- Nguyen P.L., Alexander L.V., Ngo-Duc T., Cruz F., Santisirisomboon J., Juneng L., Permana D.S., Chung J.X., Dado J.M., McGregor J.L., Redmond G., Po T.W., Tangang F., Phan-Van T., Truong S.C.H., Thatcher M., Trinh-Tuan L., Ma'rufah U., Tibay J., Di Virgilio G., White S. (2026) **The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA**. *Geoscientific Model Development*. [10.5194/gmd-19-7653-2026](https://doi.org/10.5194/gmd-19-7653-2026)
 
 #### 2025 (1)
 

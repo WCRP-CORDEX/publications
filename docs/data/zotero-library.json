@@ -1255,6 +1255,333 @@
   ],
   "items": [
     {
+      "key": "28PZUU8R",
+      "version": 1946,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/28PZUU8R",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/28PZUU8R",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "De Rovere et al.",
+        "parsedDate": "2026-09-09",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "28PZUU8R",
+        "version": 1946,
+        "itemType": "journalArticle",
+        "title": "The added value of Med-CORDEX coupled high-resolution regional climate models in representing sea surface temperature and marine heatwaves in the Mediterranean Sea",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Francesco",
+            "lastName": "De Rovere"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Giulia",
+            "lastName": "Bonino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ronan",
+            "lastName": "McAdam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Enrico",
+            "lastName": "Scoccimarro"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Samuel",
+            "lastName": "Somot"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Iván M.",
+            "lastName": "Parras-Berrocal"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bodo",
+            "lastName": "Ahrens"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Vladimir",
+            "lastName": "Djurdjevic"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Laurent",
+            "lastName": "Li"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Simona",
+            "lastName": "Masina"
+          }
+        ],
+        "abstractNote": "Marine heatwaves (MHWs) pose significant threats to Mediterranean marine ecosystems and coastal economies, with frequency and severity projected to increase under future climate change. While Med-CORDEX fully-coupled Regional Climate System Models (RCSMs) offer enhanced resolution and improved representation of local processes relative to their parent Global Climate Models (GCMs), a systematic assessment of their added value for sea surface temperature (SST) and MHW properties has been lacking. This study quantifies the added value of Med-CORDEX RCSMs over the Mediterranean basin, evaluating their capacity to correct GCM biases and improve the representation of SST and MHW probability distributions. Results show that added value is scale-dependent and metric-specific. RCSMs generally improve the SST spatial pattern and the shape and upper tail of its temporal distribution, but mostly fail to correct Mediterranean basin-averaged errors in the mean, standard deviation, 90th percentile and linear trend. SST improvements are most consistent along coastlines and in semi-enclosed areas, where fine-scale ocean-atmosphere interactions and topographic constraints are best resolved by RCSMs. For MHW duration, downscaling provides consistent and spatially widespread improvements across nearly all models, driven by a better representation of short-lived events. For MHW intensity, added value is model-dependent and not systematic: while the majority of RCSMs improve this metric, some models exhibit deterioration linked to model-specific features. These results demonstrate that higher horizontal resolution is a necessary but not sufficient condition for improved MHW representation, and that simultaneous advances in other model components are required to fully exploit the potential of regional downscaling. In particular, within the Med-CORDEX ensemble, inter-model differences in MHW added value appear to be correlated with improvements in the thickness of the first layer.",
+        "publicationTitle": "Ocean Science",
+        "publisher": "Copernicus GmbH",
+        "place": "",
+        "date": "2026-09-09",
+        "volume": "22",
+        "issue": "5",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "2725-2742",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.5194/os-22-2725-2026",
+        "citationKey": "",
+        "url": "https://os.copernicus.org/articles/22/2725/2026/",
+        "accessDate": "2026-09-09T13:48:05Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1812-0784",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "English",
+        "libraryCatalog": "Copernicus Online Journals",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "CVB532F5"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-09T13:48:08Z",
+        "dateModified": "2026-09-09T13:48:08Z"
+      }
+    },
+    {
+      "key": "Y5SF3YE3",
+      "version": 1942,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/Y5SF3YE3",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/Y5SF3YE3",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Nguyen et al.",
+        "parsedDate": "2026-08-19",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "Y5SF3YE3",
+        "version": 1942,
+        "itemType": "journalArticle",
+        "title": "The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Phuong Loan",
+            "lastName": "Nguyen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lisa V.",
+            "lastName": "Alexander"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Thanh",
+            "lastName": "Ngo-Duc"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Faye",
+            "lastName": "Cruz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jerasorn",
+            "lastName": "Santisirisomboon"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Liew",
+            "lastName": "Juneng"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Donaldi S.",
+            "lastName": "Permana"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jing Xiang",
+            "lastName": "Chung"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julie Mae",
+            "lastName": "Dado"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "John L.",
+            "lastName": "McGregor"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Grace",
+            "lastName": "Redmond"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tse Wai",
+            "lastName": "Po"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fredolin",
+            "lastName": "Tangang"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tan",
+            "lastName": "Phan-Van"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Son C. H.",
+            "lastName": "Truong"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marcus",
+            "lastName": "Thatcher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Long",
+            "lastName": "Trinh-Tuan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ummu",
+            "lastName": "Ma'rufah"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jennifer",
+            "lastName": "Tibay"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Stephen",
+            "lastName": "White"
+          }
+        ],
+        "abstractNote": "Abstract. A 21-member ensemble of regional climate simulations has been produced for Southeast Asia (SEA) by dynamically downscaling Coupled Model Intercomparison Project Phase 6 (CMIP6) Global Climate Models (GCMs) under the World Climate Research Programme's Coordinated Regional Climate Downscaling Experiment (CORDEX). The ensemble was generated by several modelling institutes using three regional climate models (RCMs) with eight distinct model configurations, resulting in a total of 62 simulations spanning the historical period and multiple future emissions scenarios. Model performance for mean, daily maximum/minimum temperature, and precipitation was evaluated against multiple observations at annual, seasonal, and daily time scales over SEA and its two subregions: Mainland and Maritime Continent (MC). Despite large observational uncertainties in precipitation intensity, the CMIP6 CORDEX-SEA ensemble captures the spatial and seasonal rainfall distribution reasonably well but tends to substantially overestimate observed rainfall. Wet biases, evident in about two-thirds of the models, are regionally and seasonally heterogeneous and larger over monsoon-dominated regions and seasons (e.g., MC during November–April and the Mainland during May–October). All RCMs showed widespread, statistically significant cold biases in daily mean temperature, which were largest during boreal winter, over the Mainland, and in simulations that have significant wet biases. These cold biases primarily arise from the models' underestimation of daily maximum temperature. The MC remains a challenging region since models struggle to accurately capture the spatial variability of rainfall and the internal variability of temperature. A standardised benchmarking framework was applied to precipitation and temperature, which ultimately identified 15 historical simulations that met our a priori model performance expectations. Analysing the range of future projections and model independence shows that simulations from the same RCM family exhibit similar bias structures, highlighting the importance of RCM setup and the selection of statistically independent models. From this process, eight simulations spanning three RCM configurations were selected for further kilometre-scale dynamical downscaling over megacities of SEA.",
+        "publicationTitle": "Geoscientific Model Development",
+        "publisher": "",
+        "place": "",
+        "date": "2026-08-19",
+        "volume": "19",
+        "issue": "16",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "7653-7685",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Geosci. Model Dev.",
+        "DOI": "10.5194/gmd-19-7653-2026",
+        "citationKey": "",
+        "url": "https://gmd.copernicus.org/articles/19/7653/2026/",
+        "accessDate": "2026-09-09T10:28:28Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1991-9603",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "https://creativecommons.org/licenses/by/4.0/",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "Z3QXRAZW"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-09T10:28:28Z",
+        "dateModified": "2026-09-09T10:28:28Z"
+      }
+    },
+    {
       "key": "TVDHCC7A",
       "version": 1940,
       "library": {
@@ -58171,132 +58498,6 @@
       }
     },
     {
-      "key": "LE5B3EVS",
-      "version": 606,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/LE5B3EVS",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/LE5B3EVS",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "De Rovere et al.",
-        "parsedDate": "2026-06-01",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "LE5B3EVS",
-        "version": 606,
-        "itemType": "preprint",
-        "title": "The added value of Med-CORDEX Coupled High-Resolution Regional Climate Models in representing Sea Surface Temperature and Marine Heatwaves in the Mediterranean Sea",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Francesco",
-            "lastName": "De Rovere"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Giulia",
-            "lastName": "Bonino"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ronan",
-            "lastName": "McAdam"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Enrico",
-            "lastName": "Scoccimarro"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Samuel",
-            "lastName": "Somot"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Iván Manuel",
-            "lastName": "Parras-Berrocal"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Bodo",
-            "lastName": "Ahrens"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Vladimir",
-            "lastName": "Djurdjevic"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Laurent",
-            "lastName": "Li"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Simona",
-            "lastName": "Masina"
-          }
-        ],
-        "abstractNote": "Abstract. Marine heatwaves (MHWs) pose significant threats to Mediterranean marine ecosystems and coastal economies, and their frequency and severity are projected to increase under future climate change. In this context, coupled climate simulations are valuable tools to accurately characterize the properties of future MHWs in the Mediterranean. While Med-CORDEX fully-coupled Regional Climate System Models (RCSMs) offer enhanced resolution and improved representation of local processes relative to their parent Global Climate Models (GCMs), a systematic assessment of their added value for sea surface temperature (SST) and MHW properties has been lacking. This study quantifies the added value of Med-CORDEX RCSMs over the Mediterranean basin, evaluating their capacity to correct GCM biases and improve the spatiotemporal representation of SST and MHW probability distributions. Results show that added value is scale-dependent and metric-specific. RCSMs generally improve the SST spatial pattern and the shape and upper tail of its temporal distribution, but mostly fail to correct Mediterranean basin-averaged errors in the mean, standard deviation, 90th percentile and linear trend. For MHW duration, downscaling provides consistent and spatially widespread improvements across nearly all models, driven by a better representation of short-lived events. For MHW intensity, added value is model-dependent and not systematic: while the majority of RCSMs improve this metric, some models exhibit deterioration linked to model-specific features. These results demonstrate that higher horizontal resolution is a necessary but not sufficient condition for improved MHW representation, and that simultaneous advances in other model components are required to fully exploit the potential of regional downscaling.",
-        "genre": "",
-        "repository": "Numerical Models/Climate and modes of variability",
-        "archiveID": "",
-        "place": "",
-        "date": "2026-6-1",
-        "series": "",
-        "seriesNumber": "",
-        "DOI": "10.5194/egusphere-2026-2752",
-        "citationKey": "",
-        "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2752/",
-        "accessDate": "2026-06-04T08:16:40Z",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "",
-        "language": "",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "https://creativecommons.org/licenses/by/4.0/",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "CVB532F5"
-        ],
-        "relations": {},
-        "dateAdded": "2026-06-04T08:16:40Z",
-        "dateModified": "2026-06-04T08:16:40Z"
-      }
-    },
-    {
       "key": "K26QZ8LL",
       "version": 605,
       "library": {
@@ -60941,187 +61142,6 @@
         },
         "dateAdded": "2026-03-31T12:23:39Z",
         "dateModified": "2026-03-31T12:23:39Z"
-      }
-    },
-    {
-      "key": "C8M34GIE",
-      "version": 525,
-      "library": {
-        "type": "group",
-        "id": 5816477,
-        "name": "WCRP-CORDEX",
-        "links": {
-          "alternate": {
-            "href": "https://www.zotero.org/groups/wcrp-cordex",
-            "type": "text/html"
-          }
-        }
-      },
-      "links": {
-        "self": {
-          "href": "https://api.zotero.org/groups/5816477/items/C8M34GIE",
-          "type": "application/json"
-        },
-        "alternate": {
-          "href": "https://www.zotero.org/groups/wcrp-cordex/items/C8M34GIE",
-          "type": "text/html"
-        }
-      },
-      "meta": {
-        "createdByUser": {
-          "id": 16221,
-          "username": "jesusff",
-          "name": "Jesus Fernandez",
-          "links": {
-            "alternate": {
-              "href": "https://www.zotero.org/jesusff",
-              "type": "text/html"
-            }
-          }
-        },
-        "creatorSummary": "Nguyen et al.",
-        "parsedDate": "2026-03-18",
-        "numChildren": 0
-      },
-      "data": {
-        "key": "C8M34GIE",
-        "version": 525,
-        "itemType": "preprint",
-        "title": "The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA",
-        "creators": [
-          {
-            "creatorType": "author",
-            "firstName": "Phuong Loan",
-            "lastName": "Nguyen"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Lisa V.",
-            "lastName": "Alexander"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Thanh",
-            "lastName": "Ngo-Duc"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Faye",
-            "lastName": "Cruz"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jerasorn",
-            "lastName": "Santisirisomboon"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Liew",
-            "lastName": "Juneng"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Donaldi S.",
-            "lastName": "Permana"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jing Xiang",
-            "lastName": "Chung"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Julie Mae",
-            "lastName": "Dado"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "John L.",
-            "lastName": "McGregor"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Grace",
-            "lastName": "Redmond"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Tse Wai",
-            "lastName": "Po"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Fredolin",
-            "lastName": "Tangang"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Tan",
-            "lastName": "Phan-Van"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Son C. H.",
-            "lastName": "Truong"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Marcus",
-            "lastName": "Thatcher"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Long",
-            "lastName": "Trinh-Tuan"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Ummu",
-            "lastName": "Ma’rufah"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Jennifer",
-            "lastName": "Tibay"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Giovanni",
-            "lastName": "Di Virgilio"
-          },
-          {
-            "creatorType": "author",
-            "firstName": "Stephen",
-            "lastName": "White"
-          }
-        ],
-        "abstractNote": "Abstract. A 21-member ensemble of regional climate simulations has been produced for Southeast Asia (SEA) by dynamically downscaling Coupled Model Intercomparison Project Phase 6 (CMIP6) Global Climate Models (GCMs) under the World Climate Research Programme’s Coordinated Regional Climate Downscaling Experiment (CORDEX). The ensemble was generated by several modelling institutes using three regional climate models (RCMs) with eight distinct model configurations, resulting in a total of 62 simulations spanning the historical period and multiple future emissions scenarios. Model performance for mean, daily maximum/minimum temperature, and precipitation was evaluated against multiple observations at annual, seasonal, and daily time scales over SEA and its two subregions:  Mainland and Maritime Continent (MC). Despite large observational uncertainties in precipitation intensity, the CMIP6 CORDEX-SEA ensemble captures the spatial and seasonal rainfall distribution reasonably well but tends to substantially overestimate observed rainfall. Wet biases, evident in about two-thirds of the models, are regionally and seasonally heterogeneous and larger over monsoon-dominated regions and seasons (e.g., MC during November–April and the Mainland during May–October). All RCMs showed widespread, statistically significant cold biases in daily mean temperature, which were largest during boreal winter, over the Mainland, and in simulations that have significant wet biases. These cold biases primarily arise from the models’ underestimation of daily maximum temperature. The MC remains a challenging region since models struggle to accurately capture the spatial variability of rainfall and the internal variability of temperature. A standardised benchmarking framework was applied to precipitation and temperature, which ultimately identified 15 historical simulations that met our a priori model performance expectations. Analysing the range of future projections and model independence shows that simulations from the same RCM family exhibit similar bias structures, highlighting the importance of RCM setup and the selection of statistically independent models. From this process, eight simulations spanning three RCM configurations were selected for further kilometre-scale dynamical downscaling over megacities of SEA.",
-        "genre": "",
-        "repository": "Climate and Earth system modeling",
-        "archiveID": "",
-        "place": "",
-        "date": "2026-3-18",
-        "series": "",
-        "seriesNumber": "",
-        "DOI": "10.5194/egusphere-2026-1325",
-        "citationKey": "",
-        "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1325/",
-        "accessDate": "2026-03-23T11:55:07Z",
-        "archive": "",
-        "archiveLocation": "",
-        "shortTitle": "The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble",
-        "language": "",
-        "libraryCatalog": "DOI.org (Crossref)",
-        "callNumber": "",
-        "rights": "https://creativecommons.org/licenses/by/4.0/",
-        "extra": "",
-        "tags": [],
-        "collections": [
-          "Z3QXRAZW"
-        ],
-        "relations": {},
-        "dateAdded": "2026-03-23T11:55:07Z",
-        "dateModified": "2026-03-23T11:55:07Z"
       }
     },
     {
