@@ -1050,7 +1050,7 @@
       },
       "meta": {
         "numCollections": 1,
-        "numItems": 4
+        "numItems": 5
       },
       "data": {
         "key": "CV6D6FCX",
@@ -1170,7 +1170,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 19
+        "numItems": 20
       },
       "data": {
         "key": "PMFVBKW8",
@@ -1254,6 +1254,378 @@
     }
   ],
   "items": [
+    {
+      "key": "27HXVKW2",
+      "version": 1949,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/27HXVKW2",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/27HXVKW2",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Evans et al.",
+        "parsedDate": "2026-09-24",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "27HXVKW2",
+        "version": 1949,
+        "itemType": "journalArticle",
+        "title": "Fifteen years of regional climate downscaling in CORDEX-Australasia",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marcus",
+            "lastName": "Thatcher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniel",
+            "lastName": "Argüeso"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alejandro",
+            "lastName": "Di Luca"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ralph",
+            "lastName": "Trancoso"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julia",
+            "lastName": "Andrys"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sarah",
+            "lastName": "Chapman"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Andrew",
+            "lastName": "Dowdy"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lluís",
+            "lastName": "Fita"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter B.",
+            "lastName": "Gibson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael",
+            "lastName": "Grose"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Emma",
+            "lastName": "Howard"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fei",
+            "lastName": "Ji"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jatin",
+            "lastName": "Kala"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jack",
+            "lastName": "Katzfey"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Leena",
+            "lastName": "Khadke"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Omer",
+            "lastName": "Mughal"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Benjamin",
+            "lastName": "Ng"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Neelesh",
+            "lastName": "Rampal"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christian",
+            "lastName": "Stassen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Stephen J.",
+            "lastName": "Stuart"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chun Hsu",
+            "lastName": "Su"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jozef",
+            "lastName": "Syktus"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Son C. H.",
+            "lastName": "Truong"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Harvey",
+            "lastName": "Ye"
+          },
+          {
+            "creatorType": "editor",
+            "firstName": "Jamie",
+            "lastName": "Males"
+          }
+        ],
+        "abstractNote": "Regional climate modelling plays a central role in understanding and projecting climate change across Australasia, a region characterised by complex topography, diverse climate regimes, and high exposure to climate extremes. Over the past fifteen years, CORDEX-Australasia has coordinated regional climate downscaling under an international framework while operating alongside complementary national and state-based initiatives. Here we synthesise the evolution, achievements, scientific advances, applications, and future priorities of regional climate modelling in the region. Successive CORDEX-CMIP5 and CORDEX-CMIP6 ensembles have produced the largest coordinated high-resolution projection datasets for Australasia. Regional climate models demonstrate clear added value over their driving global climate models, particularly in representing temperature extremes, heavy precipitation, coastal processes, and complex terrain. CMIP6-based projections show robust agreement on substantial 21st-century warming, with uncertainty dominated by emissions scenarios, while precipitation responses remain more regionally heterogeneous. Advances in convection-permitting modelling, benchmarking frameworks, and bias-correction methods have further improved process representation and evaluation. Regional projections now underpin applications in water resources, agriculture, disaster risk reduction, energy, health, and national climate services. Progress has been supported by shared infrastructure through the National Computational Infrastructure and strengthened coordination via the National Partnership for Climate Projections, highlighting strong synergies between State and Federal programs contributing to CORDEX. Key challenges remain including computational demands, persistent model biases, precipitation uncertainty, ensemble design, and translating complex multi-model information into decision-ready guidance. Strategic priorities include kilometre-scale (convection-permitting) modelling, enhanced Earth system coupling, coordinated super-ensembles, responsible integration of artificial intelligence approaches, strengthened observational constraints, and expanded support for vulnerable remote Australian islands and Pacific Island nations. Sustained investment, collaboration, and innovation will be essential to deliver robust, high-resolution climate information for adaptation and resilience across Australasia.",
+        "publicationTitle": "PLOS Climate",
+        "publisher": "",
+        "place": "",
+        "date": "2026-9-24",
+        "volume": "5",
+        "issue": "9",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "e0001066",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "PLOS Clim",
+        "DOI": "10.1371/journal.pclm.0001066",
+        "citationKey": "",
+        "url": "https://dx.plos.org/10.1371/journal.pclm.0001066",
+        "accessDate": "2026-09-28T09:22:01Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "2767-3200",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "PMFVBKW8"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-28T09:22:01Z",
+        "dateModified": "2026-09-28T09:22:01Z"
+      }
+    },
+    {
+      "key": "EDPNUJT5",
+      "version": 1948,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/EDPNUJT5",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/EDPNUJT5",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Nikulin et al.",
+        "parsedDate": "2026-09-17",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "EDPNUJT5",
+        "version": 1948,
+        "itemType": "preprint",
+        "title": "Evaluation of historical simulations in the HCLIM43-ALADIN regional climate downscaling ensemble over Europe in the EURO-CORDEX-CMIP6 framework",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Grigory",
+            "lastName": "Nikulin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Kuma"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fuxing",
+            "lastName": "Fuxing"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Oskar",
+            "lastName": "Landgren"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Aitor",
+            "lastName": "Aldama-Campino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Bert",
+            "lastName": "van Ulft"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Petter",
+            "lastName": "Lind"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Andreas",
+            "lastName": "Dobler"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Juan Carlos",
+            "lastName": "Sánchez-Perrino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Joakim",
+            "lastName": "Löw"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael",
+            "lastName": "Sahlin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ole B",
+            "lastName": "Christensen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fredrik",
+            "lastName": "Boberg"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Patrick",
+            "lastName": "Samuelsson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Carolina",
+            "lastName": "Nilsson"
+          }
+        ],
+        "abstractNote": "Regional climate downscaling has historically been complementary to global climate models, providing higher-resolution data for local-scale studies and climate services. We use the regional climate model HCLIM43-ALADIN to downscale six CMIP6 global models in eight simulations on a 12.5-km resolution European domain. This is the HCLIM community contribution to the EURO-CORDEX-CMIP6 multi-model downscaling ensemble involving several regional climate models and soon to be available publicly via the Earth System Grid Federation. We document the HCLIM43-ALADIN ensemble and evaluate the simulated results during the historical time period 1991−2020 against the gridded station observations E-OBS and the reanalyses CERRA, CERRA-Land, and ERA5, focusing on near-surface temperature and precipitation. In winter in the global climate model-driven HCLIM simulations, a cold bias of about 3 °C and underestimated precipitation by about 25% are present in North Europe, and a warm bias of about 1 °C and overestimated precipitation of about 50% are present in Central and Southern Europe. In summer, a cold bias of about 1 °C and overestimated precipitation of about 25% are present in Northern Europe, and a warm bias of about 2 °C is present in Central and Southern Europe. Overestimated precipitation by about 200% is present in parts of Southern Europe, but this value is also amplified by the very low observed precipitation. Some of the temperature and precipitation biases are explainable by large-scale pressure field biases, causing a reduced westerly flow from the Atlantic. Positive temperature trends of about 0.5 °C per decade are present nearly everywhere and especially strong over Central and Eastern Europe (up to about 1.5 °C per decade in some regions and seasons). A comparison between the driving global models and downscaled simulations shows that the regional model tends to improve temperature biases but worsen precipitation biases. In our subjective choice of model ranking, the EC-Earth3-Veg-driven simulations are the best-performing, and the MIROC6-driven simulation is the worst-performing. Simulations of future climate scenarios until 2100 with HCLIM43-ALADIN will be analysed in a separate publication. The presented simulations can be used for decision-making and will contribute to planned multi-model EURO-CORDEX-CMIP6 analyses.",
+        "genre": "",
+        "repository": "Zenodo",
+        "archiveID": "",
+        "place": "",
+        "date": "2026-09-17",
+        "series": "",
+        "seriesNumber": "",
+        "DOI": "10.5281/ZENODO.22813644",
+        "citationKey": "",
+        "url": "https://zenodo.org/doi/10.5281/zenodo.22813644",
+        "accessDate": "2026-09-21T07:50:40Z",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Datacite)",
+        "callNumber": "",
+        "rights": "Creative Commons Attribution 4.0 International, Copyright (c) 2026 Swedish Meteorological and Hydrological Institute (SMHI), The Norwegian Meteorological Institute (MET Norway), Royal Netherlands Meteorological Institute (KNMI), Agencia Estatal de Meteorología (AEMET), and Danish Meteorological Institute (DMI)",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "CV6D6FCX"
+        ],
+        "relations": {},
+        "dateAdded": "2026-09-21T07:50:40Z",
+        "dateModified": "2026-09-21T07:50:40Z"
+      }
+    },
     {
       "key": "28PZUU8R",
       "version": 1946,

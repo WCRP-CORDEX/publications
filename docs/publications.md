@@ -14,15 +14,15 @@
   - [NAM](#collection-jdnpgsz4) (314)
   - [SEA](#collection-rqjremil) (3)
   - [WAS](#collection-bsmf5qnm) (2)
-- [CORDEX-CMIP6](#collection-uygt8hav) (64)
+- [CORDEX-CMIP6](#collection-uygt8hav) (66)
   - [AFR](#collection-y9wwqtaw) (1)
   - [ANT](#collection-zz8p57vc) (1)
-  - [AUS](#collection-pmfvbkw8) (19)
+  - [AUS](#collection-pmfvbkw8) (20)
   - [CAM](#collection-5dkh37x7) (1)
   - [CAS](#collection-hv5iejp8) (2)
   - [CORE](#collection-qrteqdar) (2)
   - [EAS](#collection-gvpp5p7s) (3)
-  - [EUR](#collection-cv6d6fcx) (7)
+  - [EUR](#collection-cv6d6fcx) (8)
     - [Community publications](#collection-87rmmudx) (3)
   - [MED](#collection-cvb532f5) (20)
   - [NAM](#collection-ic9w46ub) (1)
@@ -807,7 +807,7 @@
 - Ali S., Reboita M.S., Kiani R.S. (2021) **21st century precipitation and monsoonal shift over Pakistan and Upper Indus Basin (UIB) using high-resolution projections**. *Science of The Total Environment*. [10.1016/j.scitotenv.2021.149139](https://doi.org/10.1016/j.scitotenv.2021.149139)
 
 <a id="collection-uygt8hav"></a>
-## CORDEX-CMIP6 (64)
+## CORDEX-CMIP6 (66)
 
 ### 2024 (1)
 
@@ -832,10 +832,11 @@
 - Gilbert E., Torres-Alavez J.A., Hofsteenge M.G., Van De Berg W.J., Boberg F., Christensen O.B., Van Dalum C.T., Fettweis X., Gumber S., Hansen N., Kittel C., Lambin C., Maure D., Mottram R., Olesen M., Orr A., Phillips T., Van Tiggelen M., Verro K., Mooney P.A. (2025) **The PolarRES dataset: a state-of-the-art regional climate model ensemble for understanding Antarctic climate**. *DOI.org (Crossref)*. [10.5194/egusphere-2025-4214](https://doi.org/10.5194/egusphere-2025-4214)
 
 <a id="collection-pmfvbkw8"></a>
-### AUS (19)
+### AUS (20)
 
-#### 2026 (4)
+#### 2026 (5)
 
+- Evans J.P., Thatcher M., Argüeso D., Di Luca A., Trancoso R., Andrys J., Chapman S., Di Virgilio G., Dowdy A., Fita L., Gibson P.B., Grose M., Howard E., Ji F., Kala J., Katzfey J., Khadke L., Mughal O., Ng B., Rampal N., Stassen C., Stuart S.J., Su C.H., Syktus J., Truong S.C.H., Ye H. (2026) **Fifteen years of regional climate downscaling in CORDEX-Australasia**. *PLOS Climate*. [10.1371/journal.pclm.0001066](https://doi.org/10.1371/journal.pclm.0001066)
 - Ji F., El Rafei M., Di Virgilio G., Kala J., Evans J.P., Andrys J., Tam E., White S., Choudhury D., Goyal R., Rocha C., Li Y., Riley M.L. (2026) **Three Generations of NARCliM: Evaluation of Precipitation, Temperature and Their Extremes Over the CORDEX Australasia Domain**. *International Journal of Climatology*. [10.1002/joc.70353](https://doi.org/10.1002/joc.70353)
 - Lingala J., Kala J., Di Virgilio G., Ji F., Tam E., Andrys J., White S., Rocha C.V., Choudhury D., Li Y., Riley M.L., Evans J.P., Thomas C. (2026) **Evaluating Tropical Cyclone Representation in ERA5‐Driven NARCliM2.0 WRF Simulations Over CORDEX‐Australasia Using Multiple Trackers**. *Journal of Geophysical Research: Atmospheres*. [10.1029/2025JD045466](https://doi.org/10.1029/2025JD045466)
 - Meucci A., Grossmann-Matheson G., Su C.-H., Hally B., Hernaman V., Machado D.A., Tamizi A., Young I.R. (2026) **Resilience of offshore wind resources in Australia under climate change using CMIP6 CORDEX projections**. *Energy and Climate Change*. [10.1016/j.egycc.2026.100236](https://doi.org/10.1016/j.egycc.2026.100236)
@@ -904,13 +905,14 @@
 - Long M., Yu K., Lu Y., Wang S., Tang J. (2024) **High resolution regional climate simulation over CORDEX East Asia phase II domain using the COAWST Ocean-atmosphere coupled model**. *Climate Dynamics*. [10.1007/s00382-024-07356-2](https://doi.org/10.1007/s00382-024-07356-2)
 
 <a id="collection-cv6d6fcx"></a>
-### EUR (7)
+### EUR (8)
 
-#### 2026 (3)
+#### 2026 (4)
 
 - Diez-Sierra J., Zazulie N., Langendijk G.S., Quintana Y., Adinolfi M., Bohmann M., Buntemeyer L., Buonomo E., Caluwaerts S., Campanale A., Cardoso R.M., Carvalho D., Casanueva A., Demuzere M., Endreny T., Fernández J., Ghilain N., Goergen K., Halenka T., Hoffmann P., Katragkou E., Kotlarski S., Ludwig P., Maurer V., Milovac J., Nogherotto R., Pavlidis V., Pietikäinen J.-P., Raffa M., Rechid D., Schulz J.-P., Serras F., Simon-Moral A., Soares P.M., Sobolowski S., Teichmann C., Vandelanotte K., Vanderkelen I., Wang F. (2026) **Urban climate evaluation in the upcoming generation of CMIP6-Driven EURO-CORDEX regional climate simulations**. *Urban Climate*. [10.1016/j.uclim.2026.103103](https://doi.org/10.1016/j.uclim.2026.103103)
 - Geyer B., Campanale A., Churiulin E., Feldmann H., Goergen K., Hagemann S., Ho-Hagemann H.T.M., Karadan M.M., Keuler K., Khain P., Lawand D., Ludwig P., Maurer V., Petrov S., Poll S., Purr C., Russo E., Schubert-Frisius M., Schulz J.-P., Singh S., Steger C., Truhetz H., Will A. (2026) **Optimisation of ICON-CLM for the EURO-CORDEX domain: developments, sensitivities, tuning**. *DOI.org (Crossref)*. [10.5194/egusphere-2025-4726](https://doi.org/10.5194/egusphere-2025-4726)
 - Maurer V., Düsterhöft-Wriggers W., Beddig R., Meyer J., Hinrichs C., Ho-Hagemann H.T.M., Staneva J., Ehlers B.-M., Janssen F. (2026) **Evaluation of coupled and uncoupled ocean–ice–atmosphere simulations using icon-2024.07 and NEMOv4.2.0 for the EURO-CORDEX domain**. *Geoscientific Model Development*. [10.5194/gmd-19-543-2026](https://doi.org/10.5194/gmd-19-543-2026)
+- Nikulin G., Kuma P., Fuxing F., Landgren O., Aldama-Campino A., van Ulft B., Lind P., Dobler A., Sánchez-Perrino J.C., Löw J., Sahlin M., Christensen O.B., Boberg F., Samuelsson P., Nilsson C. (2026) **Evaluation of historical simulations in the HCLIM43-ALADIN regional climate downscaling ensemble over Europe in the EURO-CORDEX-CMIP6 framework**. *DOI.org (Datacite)*. [10.5281/ZENODO.22813644](https://doi.org/10.5281/ZENODO.22813644)
 
 #### 2025 (1)
 

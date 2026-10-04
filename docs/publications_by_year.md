@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [2026](#year-2026) (30)
+- [2026](#year-2026) (32)
 - [2025](#year-2025) (109)
 - [2024](#year-2024) (74)
 - [2023](#year-2023) (74)
@@ -24,7 +24,7 @@
 ---
 
 <a id="year-2026"></a>
-## 2026 (30)
+## 2026 (32)
 
 - Arjdal K., Driouech F., Balhane S., Manzanas R. (2026) **Compound Heatwaves in North Africa: Mechanisms and Model Capabilities**. *Earth Systems and Environment*. [10.1007/s41748-026-01164-w](https://doi.org/10.1007/s41748-026-01164-w)
 - Ashfaq M., Coppola E., Lennard C., Teichmann C., Rastogi D., Massoud E., Buonomo E., Im E.-S., Zittis G., Evans J.P., Fernandez J., Evans K.J., Silva M.L.D., Adinolfi M., Bukovsky M., Rocha R.P.D., Hasson S.U., Solman S.A., Sobolowski S., Das S., Brands S., Cavazos T., Ngo-Duc T., Gao X. (2026) **A Multi-Criteria Framework for CORDEX-CORE2 GCM Selection**. *Geoscientific Model Development*. [10.5194/egusphere-2026-2649](https://doi.org/10.5194/egusphere-2026-2649)
@@ -35,6 +35,7 @@
 - Chun K.P., Aragão L., Olmo M.E., Nguyen V.D., Risanto C.B., Bettolli M.L., Ezber Y., Toker E., Varotsos K.V. (2026) **New horizons in statistical downscaling and AI approaches for sustainable km-scale climate simulations**. *npj Climate and Atmospheric Science*. [10.1038/s41612-026-01424-6](https://doi.org/10.1038/s41612-026-01424-6)
 - De Rovere F., Bonino G., McAdam R., Scoccimarro E., Somot S., Parras-Berrocal I.M., Ahrens B., Djurdjevic V., Li L., Masina S. (2026) **The added value of Med-CORDEX coupled high-resolution regional climate models in representing sea surface temperature and marine heatwaves in the Mediterranean Sea**. *Ocean Science*. [10.5194/os-22-2725-2026](https://doi.org/10.5194/os-22-2725-2026)
 - Diez-Sierra J., Zazulie N., Langendijk G.S., Quintana Y., Adinolfi M., Bohmann M., Buntemeyer L., Buonomo E., Caluwaerts S., Campanale A., Cardoso R.M., Carvalho D., Casanueva A., Demuzere M., Endreny T., Fernández J., Ghilain N., Goergen K., Halenka T., Hoffmann P., Katragkou E., Kotlarski S., Ludwig P., Maurer V., Milovac J., Nogherotto R., Pavlidis V., Pietikäinen J.-P., Raffa M., Rechid D., Schulz J.-P., Serras F., Simon-Moral A., Soares P.M., Sobolowski S., Teichmann C., Vandelanotte K., Vanderkelen I., Wang F. (2026) **Urban climate evaluation in the upcoming generation of CMIP6-Driven EURO-CORDEX regional climate simulations**. *Urban Climate*. [10.1016/j.uclim.2026.103103](https://doi.org/10.1016/j.uclim.2026.103103)
+- Evans J.P., Thatcher M., Argüeso D., Di Luca A., Trancoso R., Andrys J., Chapman S., Di Virgilio G., Dowdy A., Fita L., Gibson P.B., Grose M., Howard E., Ji F., Kala J., Katzfey J., Khadke L., Mughal O., Ng B., Rampal N., Stassen C., Stuart S.J., Su C.H., Syktus J., Truong S.C.H., Ye H. (2026) **Fifteen years of regional climate downscaling in CORDEX-Australasia**. *PLOS Climate*. [10.1371/journal.pclm.0001066](https://doi.org/10.1371/journal.pclm.0001066)
 - Geyer B., Campanale A., Churiulin E., Feldmann H., Goergen K., Hagemann S., Ho-Hagemann H.T.M., Karadan M.M., Keuler K., Khain P., Lawand D., Ludwig P., Maurer V., Petrov S., Poll S., Purr C., Russo E., Schubert-Frisius M., Schulz J.-P., Singh S., Steger C., Truhetz H., Will A. (2026) **Optimisation of ICON-CLM for the EURO-CORDEX domain: developments, sensitivities, tuning**. *DOI.org (Crossref)*. [10.5194/egusphere-2025-4726](https://doi.org/10.5194/egusphere-2025-4726)
 - Hamitouche M., Fosser G., RafieeiNasab A., Anav A. (2026) **Towards improved Euro-Mediterranean discharge simulations in regional coupled climate models: a comparative assessment of hydrologic performance**. *Geoscientific Model Development*. [10.5194/gmd-19-2881-2026](https://doi.org/10.5194/gmd-19-2881-2026)
 - Ji F., El Rafei M., Di Virgilio G., Kala J., Evans J.P., Andrys J., Tam E., White S., Choudhury D., Goyal R., Rocha C., Li Y., Riley M.L. (2026) **Three Generations of NARCliM: Evaluation of Precipitation, Temperature and Their Extremes Over the CORDEX Australasia Domain**. *International Journal of Climatology*. [10.1002/joc.70353](https://doi.org/10.1002/joc.70353)
@@ -48,6 +49,7 @@
 - Muñoz L.E., Fita L., Carril A.F., Robledo F. (2026) **Sensitivity of Atmospheric Surface Variables to Morphological Configurations in WRF Urban Schemes: An Application Over the Buenos Aires Metropolitan Area**. *Earth Systems and Environment*. [10.1007/s41748-026-01098-3](https://doi.org/10.1007/s41748-026-01098-3)
 - Ngai S.T., Huang W.-R., Chiang T.-Y. (2026) **Diurnal rainfall variability over the Maritime Continent: Evaluation and future projections from CORDEX-SEA simulations**. *Journal of Hydrology: Regional Studies*. [10.1016/j.ejrh.2026.103320](https://doi.org/10.1016/j.ejrh.2026.103320)
 - Nguyen P.L., Alexander L.V., Ngo-Duc T., Cruz F., Santisirisomboon J., Juneng L., Permana D.S., Chung J.X., Dado J.M., McGregor J.L., Redmond G., Po T.W., Tangang F., Phan-Van T., Truong S.C.H., Thatcher M., Trinh-Tuan L., Ma'rufah U., Tibay J., Di Virgilio G., White S. (2026) **The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA**. *Geoscientific Model Development*. [10.5194/gmd-19-7653-2026](https://doi.org/10.5194/gmd-19-7653-2026)
+- Nikulin G., Kuma P., Fuxing F., Landgren O., Aldama-Campino A., van Ulft B., Lind P., Dobler A., Sánchez-Perrino J.C., Löw J., Sahlin M., Christensen O.B., Boberg F., Samuelsson P., Nilsson C. (2026) **Evaluation of historical simulations in the HCLIM43-ALADIN regional climate downscaling ensemble over Europe in the EURO-CORDEX-CMIP6 framework**. *DOI.org (Datacite)*. [10.5281/ZENODO.22813644](https://doi.org/10.5281/ZENODO.22813644)
 - Ortega M., Gutiérrez C., López-Franca N., Molina M.O., Cabos W., Sein D., Sánchez E. (2026) **Levante and Poniente winds in the Strait of Gibraltar: Present and future characterization using regional climate models**. *Atmospheric Research*. [10.1016/j.atmosres.2026.109071](https://doi.org/10.1016/j.atmosres.2026.109071)
 - Ozturk T., Matte D., Christensen J.H. (2026) **Beyond Linear Scaling: Dynamical Controls on European Precipitation Extremes**. *EGUsphere*. [10.5194/egusphere-2026-3793](https://doi.org/10.5194/egusphere-2026-3793)
 - Rodríguez-Rull J., Expósito F.J., Díaz J.P., Carrillo J., Pérez J.C., Henriques D. (2026) **High-resolution regional climate projections and tourism impacts in the Macaronesian archipelagos**. *Scientific Reports*. [10.1038/s41598-026-43092-9](https://doi.org/10.1038/s41598-026-43092-9)
