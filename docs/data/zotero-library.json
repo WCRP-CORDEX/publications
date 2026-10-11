@@ -5,6 +5,46 @@
   },
   "collections": [
     {
+      "key": "GSHEVJKS",
+      "version": 1951,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/collections/GSHEVJKS",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/collections/GSHEVJKS",
+          "type": "text/html"
+        },
+        "up": {
+          "href": "https://api.zotero.org/groups/5816477/collections/U95GJRQN",
+          "type": "application/json"
+        }
+      },
+      "meta": {
+        "numCollections": 0,
+        "numItems": 0
+      },
+      "data": {
+        "key": "GSHEVJKS",
+        "version": 1951,
+        "name": "AUS",
+        "parentCollection": "U95GJRQN",
+        "relations": {}
+      }
+    },
+    {
       "key": "8R8GFHR5",
       "version": 1924,
       "library": {
@@ -1241,7 +1281,7 @@
         }
       },
       "meta": {
-        "numCollections": 10,
+        "numCollections": 11,
         "numItems": 2
       },
       "data": {

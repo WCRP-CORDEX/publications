@@ -4,6 +4,7 @@
 
 - [CORDEX-CMIP5](#collection-u95gjrqn) (568)
   - [AFR](#collection-egfzwht3) (4)
+  - [AUS](#collection-gshevjks) (0)
   - [CAS](#collection-nzpc9ui9) (1)
   - [CORE](#collection-8r8gfhr5) (2)
   - [EAS](#collection-kysnr2hc) (1)
@@ -60,6 +61,9 @@
 - Ekwule O.R., Agunwamba J.C. (2025) **Exploring CORDEX-Africa Climate Simulation and Statistical Bias Correction Technique for Hydrological Impact Assessment in Imo River Basin**. *Water Conservation Science and Engineering*. [10.1007/s41101-025-00412-w](https://doi.org/10.1007/s41101-025-00412-w)
 - Lenouo A., Weber T., Tamoffo A.T., Hoffmann P., Langendijk G.S., Betant C., Um Um A., Meukaleuni C., Efon E., Djiondo Ngongang R. (2025) **Projected changes in seasonal and monthly atmospheric near-surface parameters over West Africa from simulations of CORDEX-CORE ensemble**. *Modeling Earth Systems and Environment*. [10.1007/s40808-025-02318-x](https://doi.org/10.1007/s40808-025-02318-x)
 - Tareke K.A. (2025) **Evaluating the performance of regional climate models to simulate seasonal variability of precipitation in Abbay and Awash river basins, Ethiopia**. *Discover Water*. [10.1007/s43832-025-00256-4](https://doi.org/10.1007/s43832-025-00256-4)
+
+<a id="collection-gshevjks"></a>
+### AUS (0)
 
 <a id="collection-nzpc9ui9"></a>
 ### CAS (1)
