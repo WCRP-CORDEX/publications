@@ -34,7 +34,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 0
+        "numItems": 6
       },
       "data": {
         "key": "GSHEVJKS",
@@ -1210,7 +1210,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 20
+        "numItems": 22
       },
       "data": {
         "key": "PMFVBKW8",
@@ -1294,6 +1294,1072 @@
     }
   ],
   "items": [
+    {
+      "key": "ADHIK8UK",
+      "version": 1959,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/ADHIK8UK",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/ADHIK8UK",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Fita et al.",
+        "parsedDate": "2017-10-01",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "ADHIK8UK",
+        "version": 1959,
+        "itemType": "journalArticle",
+        "title": "Evaluation of the regional climate response in Australia to large-scale climate modes in the historical NARCliM simulations",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "L.",
+            "lastName": "Fita"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "J. P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "D.",
+            "lastName": "Argüeso"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "A.",
+            "lastName": "King"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Y.",
+            "lastName": "Liu"
+          }
+        ],
+        "abstractNote": "NARCliM (New South Wales (NSW)/Australian Capital Territory (ACT) Regional Climate Modelling project) is a regional climate modeling project for the Australian area. It is providing a comprehensive dynamically downscaled climate dataset for the CORDEX-AustralAsia region at 50-km resolution, and south-East Australia at a resolution of 10 km. The first phase of NARCliM produced 60-year long reanalysis driven regional simulations to allow evaluation of the regional model performance. This long control period (1950–2009) was used so that the model ability to capture the impact of large scale climate modes on Australian climate could be examined. Simulations are evaluated using a gridded observational dataset. Results show that using model independence as a criteria for choosing atmospheric model configuration from different possible sets of parameterizations may contribute to the regional climate models having different overall biases. The regional models generally capture the regional climate response to large-scale modes better than the driving reanalysis, though no regional model improves on all aspects of the simulated climate.",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "2017-10-01",
+        "volume": "49",
+        "issue": "7",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "2815-2829",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Clim Dyn",
+        "DOI": "10.1007/s00382-016-3484-x",
+        "citationKey": "",
+        "url": "https://doi.org/10.1007/s00382-016-3484-x",
+        "accessDate": "2026-10-12T00:17:08Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1432-0894",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [
+          {
+            "tag": "Australia",
+            "type": 1
+          },
+          {
+            "tag": "Climate modes",
+            "type": 1
+          },
+          {
+            "tag": "Regional climate modelling",
+            "type": 1
+          }
+        ],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:17:12Z",
+        "dateModified": "2026-10-12T00:17:12Z"
+      }
+    },
+    {
+      "key": "AJY46JG7",
+      "version": 1958,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/AJY46JG7",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/AJY46JG7",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Di Virgilio et al.",
+        "parsedDate": "2019-09-01",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "AJY46JG7",
+        "version": 1958,
+        "itemType": "journalArticle",
+        "title": "Evaluating reanalysis-driven CORDEX regional climate models over Australia: model performance and errors",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alejandro",
+            "lastName": "Di Luca"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Roman",
+            "lastName": "Olson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniel",
+            "lastName": "Argüeso"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jatin",
+            "lastName": "Kala"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julia",
+            "lastName": "Andrys"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Hoffmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jack J.",
+            "lastName": "Katzfey"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Burkhardt",
+            "lastName": "Rockel"
+          }
+        ],
+        "abstractNote": "The ability of regional climate models (RCMs) to accurately simulate current and future climate is increasingly important for impact assessment. This is the first evaluation of all reanalysis-driven RCMs within the CORDEX Australasia framework [four configurations of the Weather Forecasting and Research (WRF) model, and single configurations of COSMO-CLM (CCLM) and the Conformal-Cubic Atmospheric Model (CCAM)] to simulate the historical climate of Australia (1981–2010) at 50 km resolution. Simulations of near-surface maximum and minimum temperature and precipitation were compared with gridded observations at annual, seasonal, and daily time scales. The spatial extent, sign, and statistical significance of biases varied markedly between the RCMs. However, all RCMs showed widespread, statistically significant cold biases in maximum temperature which were the largest during winter. This bias exceeded − 5 K for some WRF configurations, and was the lowest for CCLM at ± 2 K. Most WRF configurations and CCAM simulated minimum temperatures more accurately than maximum temperatures, with biases in the range of ± 1.5 K. RCMs overestimated precipitation, especially over Australia’s populous eastern seaboard. Strong negative correlations between mean monthly biases in precipitation and maximum temperature suggest that the maximum temperature cold bias is linked to precipitation overestimation. This analysis shows that the CORDEX Australasia ensemble is a valuable dataset for future impact studies, but improving the representation of land surface processes, and subsequently of surface temperatures, will improve RCM performance. The varying RCM capabilities identified here serve as a foundation for the development of future regional climate projections and impact assessments for Australia.",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "2019-09-01",
+        "volume": "53",
+        "issue": "5",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "2985-3005",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Clim Dyn",
+        "DOI": "10.1007/s00382-019-04672-w",
+        "citationKey": "",
+        "url": "https://doi.org/10.1007/s00382-019-04672-w",
+        "accessDate": "2026-10-12T00:13:11Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1432-0894",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Evaluating reanalysis-driven CORDEX regional climate models over Australia",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [
+          {
+            "tag": "Australian climate",
+            "type": 1
+          },
+          {
+            "tag": "CORDEX-Australasia",
+            "type": 1
+          },
+          {
+            "tag": "Dynamical downscaling",
+            "type": 1
+          },
+          {
+            "tag": "Model bias",
+            "type": 1
+          },
+          {
+            "tag": "Precipitation",
+            "type": 1
+          },
+          {
+            "tag": "Temperature",
+            "type": 1
+          }
+        ],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:13:14Z",
+        "dateModified": "2026-10-12T00:13:14Z"
+      }
+    },
+    {
+      "key": "A53CIFVD",
+      "version": 1957,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/A53CIFVD",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/A53CIFVD",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Stassen et al.",
+        "parsedDate": "2025-12-22",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "A53CIFVD",
+        "version": 1957,
+        "itemType": "journalArticle",
+        "title": "Added value analysis of a CMIP6-based downscaling ensemble for Australian climate projections",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Christian",
+            "lastName": "Stassen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Benjamin",
+            "lastName": "Ng"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Emma",
+            "lastName": "Howard"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chun-Hsu",
+            "lastName": "Su"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hua",
+            "lastName": "Ye"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marcus",
+            "lastName": "Thatcher"
+          },
+          {
+            "creatorType": "editor",
+            "firstName": "Josephine",
+            "lastName": "Brown"
+          }
+        ],
+        "abstractNote": "By using finer resolution modelling and locally representative model physics, regional climate models (RCMs) have the potential to improve the information provided by global climate models (GCMs). However, RCMs have their own biases and limitations due to remaining unresolved processes. It is therefore necessary to carefully assess RCM outputs through added value analyses. An ensemble of CMIP6-based 12–17-km regional climate projections has been produced for the Australian Climate Service (ACS) based on the Bureau of Meteorology’s regional climate modelling system (BARPA) and CSIRO’s Conformal Cubic Atmospheric Model (CCAM). The historical and potential future added value of this ensemble is assessed, focusing on extremes (cold, hot, wet and dry). Despite variations in added value across different GCM–RCM experiments, quantities, seasons and regions, BARPA and CCAM generally improve on their driving models for the historical period. Added value over ERA5 is generally small, and often negative for wet and dry extremes, especially for CCAM. The most consistent improvements in all GCM–RCM pairs are found for quantities containing daily minimum temperature, whereas hot days above 40°C show the least improvements. CNRM-ESM2-1-CCAM appears to have significant issues in most analysed quantities, especially related to maximum temperature and might not be recommended for downscaling or use by the community. Additionally, RCMs often predict different climate change signals than their driving models, for example the Murray Basin, which combined with the historical added value indicate plausible improvements in future climate projections.",
+        "publicationTitle": "Journal of Southern Hemisphere Earth Systems Science",
+        "publisher": "",
+        "place": "",
+        "date": "2025-12-22",
+        "volume": "75",
+        "issue": "3",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "ES25014",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.1071/ES25014",
+        "citationKey": "",
+        "url": "https://connectsci.au/es/article/75/3/ES25014/266004/Added-value-analysis-of-a-CMIP6-based-downscaling",
+        "accessDate": "2026-10-12T00:12:12Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "2206-5865",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "PMFVBKW8"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:12:13Z",
+        "dateModified": "2026-10-12T00:12:13Z"
+      }
+    },
+    {
+      "key": "B64LRJDN",
+      "version": 1956,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/B64LRJDN",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/B64LRJDN",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Di Virgilio et al.",
+        "parsedDate": "2022",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "B64LRJDN",
+        "version": 1956,
+        "itemType": "journalArticle",
+        "title": "Selecting CMIP6 GCMs for CORDEX Dynamical Downscaling: Model Performance, Independence, and Climate Change Signals",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fei",
+            "lastName": "Ji"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eugene",
+            "lastName": "Tam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nidhi",
+            "lastName": "Nishant"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chris",
+            "lastName": "Thomas"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matthew L.",
+            "lastName": "Riley"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kathleen",
+            "lastName": "Beyer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael R.",
+            "lastName": "Grose"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sugata",
+            "lastName": "Narsey"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Francois",
+            "lastName": "Delage"
+          }
+        ],
+        "abstractNote": "Abstract\n            Global climate models (GCMs) are essential for investigating climate change, but their coarse scale limits their efficacy for climate adaptation planning at the regional scales where climate impacts manifest. Dynamical downscaling of GCM outputs better resolves regional climate and thus provides improved guidance for climate policy at regional scales. Being expensive to run, downscaling uses a subset of GCMs, necessitating careful GCM selection. This evaluation identifies a suitable subset of CMIP6 GCMs for downscaling over Australia by assessing individual GCMs against three criteria: (a) performance simulating daily climate variable distributions, climate means, extremes, and modes; (b) model independence; and (c) climate change signal diversity. Over Australia, GCMs are generally biased cold (warm) for maximum (minimum) temperature, with larger biases for minimum temperature. GCMs are generally wet biased, especially over the monsoonal north, but dry biased over eastern regions. Most GCMs show larger biases for temperature and precipitation over geographically complex, heavily populated eastern regions, relative to other regions. Evaluations identify a distinct group of 11 GCMs that perform consistently poorly across climate variables, statistics, and timescales with widespread, statistically significant biases, versus 13 GCMs that show consistent adequate‐to‐good performance with substantially reduced errors. Assessment of model independence highlights the lack of independence between several high‐performing GCMs, particularly from allied modeling groups, demonstrating the importance of careful ensemble selection when making selective samples of climate space. Once GCM climate signal diversity is considered, 6–8 mid‐to‐high‐performing, independent GCMs occupy the full range of the future climate space and, thus, are suitable for dynamical downscaling over CORDEX‐Australasia.\n          , \n            Key Points\n            \n              \n                \n                  Per‐global climate model (GCM) performances varied markedly, though the best‐performing GCMs simulated consistently well across temperature variables and statistics\n                \n                \n                  Assessment of model independence highlights the lack of independence between several high‐performing GCMs\n                \n                \n                  Six to eight mid‐to‐high‐performing, independent GCMs capturing a broad range of the future climate space are identified as suitable for downscaling",
+        "publicationTitle": "Earth's Future",
+        "publisher": "",
+        "place": "",
+        "date": "04/2022",
+        "volume": "10",
+        "issue": "4",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "e2021EF002625",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Earth's Future",
+        "DOI": "10.1029/2021EF002625",
+        "citationKey": "",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002625",
+        "accessDate": "2026-10-12T00:10:43Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "2328-4277, 2328-4277",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Selecting CMIP6 GCMs for CORDEX Dynamical Downscaling",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "PMFVBKW8"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:10:45Z",
+        "dateModified": "2026-10-12T00:10:45Z"
+      }
+    },
+    {
+      "key": "SPD3UEAP",
+      "version": 1955,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/SPD3UEAP",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/SPD3UEAP",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Di Virgilio et al.",
+        "parsedDate": "2020-06-01",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "SPD3UEAP",
+        "version": 1955,
+        "itemType": "journalArticle",
+        "title": "Realised added value in dynamical downscaling of Australian climate change",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alejandro",
+            "lastName": "Di Luca"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael R.",
+            "lastName": "Grose"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Vanessa",
+            "lastName": "Round"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marcus",
+            "lastName": "Thatcher"
+          }
+        ],
+        "abstractNote": "Coarse resolution global climate models (GCMs) cannot resolve fine-scale drivers of regional climate, which is the scale where climate adaptation decisions are made. Regional climate models (RCMs) generate high-resolution projections by dynamically downscaling GCM outputs. However, evidence of where and when downscaling provides new information about both the current climate (added value, AV) and projected climate change signals, relative to driving data, is lacking. Seasons and locations where CORDEX-Australasia ERA-Interim and GCM-driven RCMs show AV for mean and extreme precipitation and temperature are identified. A new concept is introduced, ‘realised added value’, that identifies where and when RCMs simultaneously add value in the present climate and project a different climate change signal, thus suggesting plausible improvements in future climate projections by RCMs. ERA-Interim-driven RCMs add value to the simulation of summer-time mean precipitation, especially over northern and eastern Australia. GCM-driven RCMs show AV for precipitation over complex orography in south-eastern Australia during winter and widespread AV for mean and extreme minimum temperature during both seasons, especially over coastal and high-altitude areas. RCM projections of decreased winter rainfall over the Australian Alps and decreased summer rainfall over northern Australia are collocated with notable realised added value. Realised added value averaged across models, variables, seasons and statistics is evident across the majority of Australia and shows where plausible improvements in future climate projections are conferred by RCMs. This assessment of varying RCM capabilities to provide realised added value to GCM projections can be applied globally to inform climate adaptation and model development.",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "2020-06-01",
+        "volume": "54",
+        "issue": "11",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "4675-4692",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Clim Dyn",
+        "DOI": "10.1007/s00382-020-05250-1",
+        "citationKey": "",
+        "url": "https://doi.org/10.1007/s00382-020-05250-1",
+        "accessDate": "2026-10-12T00:09:42Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1432-0894",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "Springer Link",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [
+          {
+            "tag": "CORDEX-Australasia",
+            "type": 1
+          },
+          {
+            "tag": "Climate extremes",
+            "type": 1
+          },
+          {
+            "tag": "Climate impact adaptation",
+            "type": 1
+          },
+          {
+            "tag": "Precipitation",
+            "type": 1
+          },
+          {
+            "tag": "Regional climate modelling",
+            "type": 1
+          },
+          {
+            "tag": "Temperature",
+            "type": 1
+          }
+        ],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:09:44Z",
+        "dateModified": "2026-10-12T00:09:44Z"
+      }
+    },
+    {
+      "key": "TVFU3K8W",
+      "version": 1954,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/TVFU3K8W",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/TVFU3K8W",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Nishant et al.",
+        "parsedDate": "2021",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "TVFU3K8W",
+        "version": 1954,
+        "itemType": "journalArticle",
+        "title": "Introducing NARCliM1.5: Evaluating the Performance of Regional Climate Projections for Southeast Australia for 1950–2100",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Nidhi",
+            "lastName": "Nishant"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Stephanie M.",
+            "lastName": "Downes"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fei",
+            "lastName": "Ji"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kevin K. W.",
+            "lastName": "Cheung"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eugene",
+            "lastName": "Tam"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Joseph",
+            "lastName": "Miller"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kathleen",
+            "lastName": "Beyer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matthew L.",
+            "lastName": "Riley"
+          }
+        ],
+        "abstractNote": "Abstract\n            The NARCliM project contributes to the CORDEX initiative for Australasia. The first generation of NARCliM (N1.0) used CMIP3 global climate models (GCMs) and provided near and far future estimates of climate change across Australasia at 50‐km and southeast Australia at 10‐km resolution under a business‐as‐usual climate scenario. However, multiple sets of 20‐year periods in N1.0 did not permit analysis of long‐term, inter‐annual to decadal trends across the 21st century. Feedback on user needs for regional climate information revealed the desire for multiple emission scenarios and use of newer CMIP5 GCMs for dynamical downscaling. These limitations led to development of the second iteration of NARCliM, namely NARCliM1.5 (N1.5). The N1.5 downscaling exercise uses CMIP5 GCMs and is temporally expanded to cover 150 years (1950–2100) for two future Representative Concentration Pathways (RCP4.5 and RCP8.5). N1.5 simulations remain at the 50‐km and 10 km resolutions over the same domains as N1.0, thus producing an expanded and complementary data set for regional climate change. N1.5 simulations substantially improve over N1.0 in capturing the seasonal patterns and magnitudes of precipitation, including improvements in overall bias. Conversely, N1.5 shows similar results to N1.0 for maximum and minimum temperature, with no substantial improvement in overall bias. N1.5 projections project a hotter and drier future relative to N1.0. The combined N1.0 and N1.5 ensemble provides a wider spread of future climates more representative of that found in the full CMIP5 ensemble. Together, N1.0 and N1.5 ensembles provide an improved, more comprehensive data set for studying climate change.\n          , \n            Plain Language Summary\n            The second iteration of New South Wales and Australian Capital Territory Regional Climate Modeling (NARCliM) simulations (N1.5) are described, complementing original NARCliM (N1.0) simulations and expanding the ensemble to 24 members. N1.5 simulations substantially improve over N1.0 simulations in capturing the seasonal patterns and magnitudes of precipitation. N1.5 projections add information to the NARCliM ensemble including the potential for hotter and drier futures than those projected in N1.0. Together, the N1.0 and N1.5 ensembles provide an improved, more comprehensive data set for studying climate change. The varying model performances identified here will help the development of the next generation of regional climate simulations over Australia.\n          , \n            Key Points\n            \n              \n                \n                  The second iteration of NARCliM simulations (N1.5) are described complementing original NARCliM simulations (N1.0)\n                \n                \n                  N1.5 simulations substantially improve over N1.0 simulations in capturing the seasonal patterns and magnitudes of precipitation\n                \n                \n                  N1.5 projections add information to the NARCliM ensemble including the potential for hotter and drier futures than those projected in N1.0",
+        "publicationTitle": "Earth's Future",
+        "publisher": "",
+        "place": "",
+        "date": "07/2021",
+        "volume": "9",
+        "issue": "7",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "e2020EF001833",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Earth's Future",
+        "DOI": "10.1029/2020EF001833",
+        "citationKey": "",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001833",
+        "accessDate": "2026-10-12T00:07:32Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "2328-4277, 2328-4277",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Introducing NARCliM1.5",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:07:35Z",
+        "dateModified": "2026-10-12T00:07:35Z"
+      }
+    },
+    {
+      "key": "QXWINE5I",
+      "version": 1953,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/QXWINE5I",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/QXWINE5I",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Evans et al.",
+        "parsedDate": "2014-04-16",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "QXWINE5I",
+        "version": 1953,
+        "itemType": "journalArticle",
+        "title": "Design of a regional climate modelling projection ensemble experiment &ndash; NARCliM",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "J. P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "F.",
+            "lastName": "Ji"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "C.",
+            "lastName": "Lee"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "P.",
+            "lastName": "Smith"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "D.",
+            "lastName": "Argüeso"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "L.",
+            "lastName": "Fita"
+          }
+        ],
+        "abstractNote": "Including the impacts of climate change in decision making and planning processes is a challenge facing many regional governments including the New South Wales (NSW) and Australian Capital Territory (ACT) governments in Australia. NARCliM (NSW/ACT Regional Climate Modelling project) is a regional climate modelling project that aims to provide a comprehensive and consistent set of climate projections that can be used by all relevant government departments when considering climate change. To maximise end user engagement and ensure outputs are relevant to the planning process, a series of stakeholder workshops were run to define key aspects of the model experiment including spatial resolution, time slices, and output variables. As with all such experiments, practical considerations limit the number of ensemble members that can be simulated such that choices must be made concerning which global climate models (GCMs) to downscale from, and which regional climate models (RCMs) to downscale with. Here a methodology for making these choices is proposed that aims to sample the uncertainty in both GCM and RCM ensembles, as well as spanning the range of future climate projections present in the GCM ensemble. The RCM selection process uses performance evaluation metrics to eliminate poor performing models from consideration, followed by explicit consideration of model independence in order to retain as much information as possible in a small model subset. In addition to these two steps the GCM selection process also considers the future change in temperature and precipitation projected by each GCM. The final GCM selection is based on a subjective consideration of the GCM independence and future change. The created ensemble provides a more robust view of future regional climate changes. Future research is required to determine objective criteria that could replace the subjective aspects of the selection process.",
+        "publicationTitle": "Geoscientific Model Development",
+        "publisher": "Copernicus GmbH",
+        "place": "",
+        "date": "2014-04-16",
+        "volume": "7",
+        "issue": "2",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "621-629",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.5194/gmd-7-621-2014",
+        "citationKey": "",
+        "url": "https://gmd.copernicus.org/articles/7/621/2014/",
+        "accessDate": "2026-10-12T00:06:50Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1991-959X",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "English",
+        "libraryCatalog": "Copernicus Online Journals",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:06:53Z",
+        "dateModified": "2026-10-12T00:06:53Z"
+      }
+    },
+    {
+      "key": "B5LSKEH8",
+      "version": 1952,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/B5LSKEH8",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/B5LSKEH8",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 12316093,
+          "username": "Qld_Future_Climate_team",
+          "name": "",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/qld_future_climate_team",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Evans et al.",
+        "parsedDate": "2021",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "B5LSKEH8",
+        "version": 1952,
+        "itemType": "journalArticle",
+        "title": "The CORDEX-Australasia ensemble: evaluation and future projections",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jason P.",
+            "lastName": "Evans"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Giovanni",
+            "lastName": "Di Virgilio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Annette L.",
+            "lastName": "Hirsch"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Hoffmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Armelle Reca",
+            "lastName": "Remedio"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Fei",
+            "lastName": "Ji"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Burkhardt",
+            "lastName": "Rockel"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erika",
+            "lastName": "Coppola"
+          }
+        ],
+        "abstractNote": "",
+        "publicationTitle": "Climate Dynamics",
+        "publisher": "",
+        "place": "",
+        "date": "09/2021",
+        "volume": "57",
+        "issue": "5-6",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "1385-1401",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Clim Dyn",
+        "DOI": "10.1007/s00382-020-05459-0",
+        "citationKey": "",
+        "url": "https://link.springer.com/10.1007/s00382-020-05459-0",
+        "accessDate": "2026-10-12T00:02:59Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0930-7575, 1432-0894",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "The CORDEX-Australasia ensemble",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "GSHEVJKS"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-12T00:03:00Z",
+        "dateModified": "2026-10-12T00:03:00Z"
+      }
+    },
     {
       "key": "27HXVKW2",
       "version": 1949,

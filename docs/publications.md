@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [CORDEX-CMIP5](#collection-u95gjrqn) (568)
+- [CORDEX-CMIP5](#collection-u95gjrqn) (574)
   - [AFR](#collection-egfzwht3) (4)
-  - [AUS](#collection-gshevjks) (0)
+  - [AUS](#collection-gshevjks) (6)
   - [CAS](#collection-nzpc9ui9) (1)
   - [CORE](#collection-8r8gfhr5) (2)
   - [EAS](#collection-kysnr2hc) (1)
@@ -15,10 +15,10 @@
   - [NAM](#collection-jdnpgsz4) (314)
   - [SEA](#collection-rqjremil) (3)
   - [WAS](#collection-bsmf5qnm) (2)
-- [CORDEX-CMIP6](#collection-uygt8hav) (66)
+- [CORDEX-CMIP6](#collection-uygt8hav) (68)
   - [AFR](#collection-y9wwqtaw) (1)
   - [ANT](#collection-zz8p57vc) (1)
-  - [AUS](#collection-pmfvbkw8) (20)
+  - [AUS](#collection-pmfvbkw8) (22)
   - [CAM](#collection-5dkh37x7) (1)
   - [CAS](#collection-hv5iejp8) (2)
   - [CORE](#collection-qrteqdar) (2)
@@ -39,7 +39,7 @@
 ---
 
 <a id="collection-u95gjrqn"></a>
-## CORDEX-CMIP5 (568)
+## CORDEX-CMIP5 (574)
 
 ### 2025 (1)
 
@@ -63,7 +63,28 @@
 - Tareke K.A. (2025) **Evaluating the performance of regional climate models to simulate seasonal variability of precipitation in Abbay and Awash river basins, Ethiopia**. *Discover Water*. [10.1007/s43832-025-00256-4](https://doi.org/10.1007/s43832-025-00256-4)
 
 <a id="collection-gshevjks"></a>
-### AUS (0)
+### AUS (6)
+
+#### 2021 (2)
+
+- Evans J.P., Di Virgilio G., Hirsch A.L., Hoffmann P., Remedio A.R., Ji F., Rockel B., Coppola E. (2021) **The CORDEX-Australasia ensemble: evaluation and future projections**. *Climate Dynamics*. [10.1007/s00382-020-05459-0](https://doi.org/10.1007/s00382-020-05459-0)
+- Nishant N., Evans J.P., Di Virgilio G., Downes S.M., Ji F., Cheung K.K.W., Tam E., Miller J., Beyer K., Riley M.L. (2021) **Introducing NARCliM1.5: Evaluating the Performance of Regional Climate Projections for Southeast Australia for 1950–2100**. *Earth's Future*. [10.1029/2020EF001833](https://doi.org/10.1029/2020EF001833)
+
+#### 2020 (1)
+
+- Di Virgilio G., Evans J.P., Di Luca A., Grose M.R., Round V., Thatcher M. (2020) **Realised added value in dynamical downscaling of Australian climate change**. *Climate Dynamics*. [10.1007/s00382-020-05250-1](https://doi.org/10.1007/s00382-020-05250-1)
+
+#### 2019 (1)
+
+- Di Virgilio G., Evans J.P., Di Luca A., Olson R., Argüeso D., Kala J., Andrys J., Hoffmann P., Katzfey J.J., Rockel B. (2019) **Evaluating reanalysis-driven CORDEX regional climate models over Australia: model performance and errors**. *Climate Dynamics*. [10.1007/s00382-019-04672-w](https://doi.org/10.1007/s00382-019-04672-w)
+
+#### 2017 (1)
+
+- Fita L., Evans J.P., Argüeso D., King A., Liu Y. (2017) **Evaluation of the regional climate response in Australia to large-scale climate modes in the historical NARCliM simulations**. *Climate Dynamics*. [10.1007/s00382-016-3484-x](https://doi.org/10.1007/s00382-016-3484-x)
+
+#### 2014 (1)
+
+- Evans J.P., Ji F., Lee C., Smith P., Argüeso D., Fita L. (2014) **Design of a regional climate modelling projection ensemble experiment &ndash; NARCliM**. *Geoscientific Model Development*. [10.5194/gmd-7-621-2014](https://doi.org/10.5194/gmd-7-621-2014)
 
 <a id="collection-nzpc9ui9"></a>
 ### CAS (1)
@@ -811,7 +832,7 @@
 - Ali S., Reboita M.S., Kiani R.S. (2021) **21st century precipitation and monsoonal shift over Pakistan and Upper Indus Basin (UIB) using high-resolution projections**. *Science of The Total Environment*. [10.1016/j.scitotenv.2021.149139](https://doi.org/10.1016/j.scitotenv.2021.149139)
 
 <a id="collection-uygt8hav"></a>
-## CORDEX-CMIP6 (66)
+## CORDEX-CMIP6 (68)
 
 ### 2024 (1)
 
@@ -836,7 +857,7 @@
 - Gilbert E., Torres-Alavez J.A., Hofsteenge M.G., Van De Berg W.J., Boberg F., Christensen O.B., Van Dalum C.T., Fettweis X., Gumber S., Hansen N., Kittel C., Lambin C., Maure D., Mottram R., Olesen M., Orr A., Phillips T., Van Tiggelen M., Verro K., Mooney P.A. (2025) **The PolarRES dataset: a state-of-the-art regional climate model ensemble for understanding Antarctic climate**. *DOI.org (Crossref)*. [10.5194/egusphere-2025-4214](https://doi.org/10.5194/egusphere-2025-4214)
 
 <a id="collection-pmfvbkw8"></a>
-### AUS (20)
+### AUS (22)
 
 #### 2026 (5)
 
@@ -846,7 +867,7 @@
 - Meucci A., Grossmann-Matheson G., Su C.-H., Hally B., Hernaman V., Machado D.A., Tamizi A., Young I.R. (2026) **Resilience of offshore wind resources in Australia under climate change using CMIP6 CORDEX projections**. *Energy and Climate Change*. [10.1016/j.egycc.2026.100236](https://doi.org/10.1016/j.egycc.2026.100236)
 - Yu X., Syktus J., Trancoso R., Chapman S. (2026) **Assessment of Tropical Cyclones Over the Australian Region From Downscaled CORDEX‐CMIP6 Simulations**. *Journal of Geophysical Research: Atmospheres*. [10.1029/2026JD047231](https://doi.org/10.1029/2026JD047231)
 
-#### 2025 (10)
+#### 2025 (11)
 
 - Chapman S., Trancoso R., Syktus J., Eccles R., Toombs N. (2025) **Impacts on compound drought heatwave events in Australia per global warming level**. *Environmental Research Letters*. [10.1088/1748-9326/adc8bd](https://doi.org/10.1088/1748-9326/adc8bd)
 - Di Virgilio G., Evans J.P., Ji F., Tam E., Kala J., Andrys J., Thomas C., Choudhury D., Rocha C., White S., Li Y., El Rafei M., Goyal R., Riley M.L., Lingala J. (2025) **Design, evaluation, and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble**. *Geoscientific Model Development*. [10.5194/gmd-18-671-2025](https://doi.org/10.5194/gmd-18-671-2025)
@@ -857,6 +878,7 @@
 - Ma S., Trancoso R., Syktus J., Chapman S., Eccles R. (2025) **Evaluating ERA5 Downscaled Simulations Using CCAM: Large‐Scale Circulation Processes and Teleconnections**. *Journal of Geophysical Research: Atmospheres*. [10.1029/2025JD043566](https://doi.org/10.1029/2025JD043566)
 - Narsey S., Grose M., Delage F., Tolhurst G., Chung C., Takbash A., Boschat G., King M., Pepler A., Thatcher M., Ng B., Truong S., Su C.-H., Howard E., Stassen C., Black M., Jones D., Matear R., Chapman S., Syktus J., Trancoso R., Di Virgilio G., Goyal R., Kala J., Round V., Evans J.P. (2025) **Disentangling the uncertainties in regional projections for Australia**. *Journal of Southern Hemisphere Earth Systems Science*. [10.1071/ES25015](https://doi.org/10.1071/ES25015)
 - Pepler A.S., Di Virgilio G., Dowdy A., Goyal R., Su C.-H., Thatcher M., Syktus J. (2025) **Projections of Australian low pressure systems in downscaled CMIP6 models**. *Journal of Southern Hemisphere Earth Systems Science*. [10.1071/ES25025](https://doi.org/10.1071/ES25025)
+- Stassen C., Ng B., Howard E., Su C.-H., Ye H., Thatcher M. (2025) **Added value analysis of a CMIP6-based downscaling ensemble for Australian climate projections**. *Journal of Southern Hemisphere Earth Systems Science*. [10.1071/ES25014](https://doi.org/10.1071/ES25014)
 - Zhang H., Chapman S., Trancoso R., Eccles R., Syktus J., Toombs N. (2025) **Projections of actual and potential evapotranspiration from downscaled high-resolution CMIP6 climate simulations in Australia**. *Hydrology and Earth System Sciences*. [10.5194/hess-29-6863-2025](https://doi.org/10.5194/hess-29-6863-2025)
 
 #### 2024 (3)
@@ -869,6 +891,10 @@
 
 - Chapman S., Syktus J., Trancoso R., Thatcher M., Toombs N., Wong K.K.-H., Takbash A. (2023) **Evaluation of Dynamically Downscaled CMIP6-CCAM Models Over Australia**. *Earth's Future*. [10.1029/2023EF003548](https://doi.org/10.1029/2023EF003548)
 - Grose M.R., Narsey S., Trancoso R., Mackallah C., Delage F., Dowdy A., Di Virgilio G., Watterson I., Dobrohotoff P., Rashid H.A., Rauniyar S., Henley B., Thatcher M., Syktus J., Abramowitz G., Evans J.P., Su C.-H., Takbash A. (2023) **A CMIP6-based multi-model downscaling ensemble to underpin climate change services in Australia**. *Climate Services*. [10.1016/j.cliser.2023.100368](https://doi.org/10.1016/j.cliser.2023.100368)
+
+#### 2022 (1)
+
+- Di Virgilio G., Ji F., Tam E., Nishant N., Evans J.P., Thomas C., Riley M.L., Beyer K., Grose M.R., Narsey S., Delage F. (2022) **Selecting CMIP6 GCMs for CORDEX Dynamical Downscaling: Model Performance, Independence, and Climate Change Signals**. *Earth's Future*. [10.1029/2021EF002625](https://doi.org/10.1029/2021EF002625)
 
 <a id="collection-5dkh37x7"></a>
 ### CAM (1)

@@ -3,18 +3,18 @@
 ## Table of Contents
 
 - [2026](#year-2026) (32)
-- [2025](#year-2025) (109)
+- [2025](#year-2025) (110)
 - [2024](#year-2024) (74)
 - [2023](#year-2023) (74)
-- [2022](#year-2022) (52)
-- [2021](#year-2021) (80)
-- [2020](#year-2020) (47)
-- [2019](#year-2019) (40)
+- [2022](#year-2022) (53)
+- [2021](#year-2021) (82)
+- [2020](#year-2020) (48)
+- [2019](#year-2019) (41)
 - [2018](#year-2018) (49)
-- [2017](#year-2017) (18)
+- [2017](#year-2017) (19)
 - [2016](#year-2016) (14)
 - [2015](#year-2015) (19)
-- [2014](#year-2014) (16)
+- [2014](#year-2014) (17)
 - [2013](#year-2013) (12)
 - [2012](#year-2012) (9)
 - [2011](#year-2011) (3)
@@ -60,7 +60,7 @@
 - Zazulie N., Nogherotto R., Coppola E., Diez-Sierra J., Raffaele F., Giuliani G., Outten S. (2026) **Future projections of Climate Hazards in Urban and Rural Areas for European Cities Using Euro-CORDEX ensemble**. *Climate Dynamics*. [10.21203/rs.3.rs-8368518/v1](https://doi.org/10.21203/rs.3.rs-8368518/v1)
 
 <a id="year-2025"></a>
-## 2025 (109)
+## 2025 (110)
 
 - Achugbu I.C., Chen L., Hu Q., Muñoz-Arriola F. (2025) **Evaluating the Historical Performance and Future Change in Extreme Precipitation Indices over the Missouri River Basin Based on NA-CORDEX Multimodel Ensemble**. *Atmosphere*. [10.3390/atmos16050579](https://doi.org/10.3390/atmos16050579)
 - Ahamed R.A., Maharana P., Sharma A., Dimri A.P. (2025) **The representation of temperature over Northeast India: assessing the performance of CORDEX‑CORE model experiments**. *Theoretical and Applied Climatology*. [10.1007/s00704-024-05336-4](https://doi.org/10.1007/s00704-024-05336-4)
@@ -154,6 +154,7 @@
 - Shenk L., Eells J., Gutowski W.J., Franz K., Robinson D. (2025) **Conceptualizing Coproduced Climate Research as Care: Practical Lessons Learned With Women Farmland-Owners in the Central Midwest United States**. *Climate Resilience and Sustainability*. [10.1002/cli2.70005](https://doi.org/10.1002/cli2.70005)
 - Sobie S.R., Curry C.L., Ben Alaya M.A. (2025) **Evaluation of a Multivariate Statistical Downscaling Method over Canada’s Largest Pacific Basin**. *Atmosphere-Ocean*. [10.1080/07055900.2025.2478829](https://doi.org/10.1080/07055900.2025.2478829)
 - Sobolowski S., Somot S., Fernandez J., Evin G., Brands S., Maraun D., Kotlarski S., Jury M., Benestad R.E., Teichmann C., Christensen O.B., Bülow K., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilcke R., Boé J., Brunner L., Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T. (2025) **GCM Selection & Ensemble Design: Best Practices and Recommendations from the EURO-CORDEX Community**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-23-0189.1](https://doi.org/10.1175/BAMS-D-23-0189.1)
+- Stassen C., Ng B., Howard E., Su C.-H., Ye H., Thatcher M. (2025) **Added value analysis of a CMIP6-based downscaling ensemble for Australian climate projections**. *Journal of Southern Hemisphere Earth Systems Science*. [10.1071/ES25014](https://doi.org/10.1071/ES25014)
 - Steensen B.M., Myhre G., Hodnebrog Ø., Fischer E. (2025) **Future increase in European compound events where droughts end in heavy precipitation**. *npj Climate and Atmospheric Science*. [10.1038/s41612-025-01139-0](https://doi.org/10.1038/s41612-025-01139-0)
 - Tang X.-B., Gao X.-J., Han Z.-Y. (2025) **Climate change projections over mid-high latitudes Northern Asia using an ensemble of RegCM5 Simulations**. *Advances in Climate Change Research*. [10.1016/j.accre.2025.12.001](https://doi.org/10.1016/j.accre.2025.12.001)
 - Tareke K.A. (2025) **Evaluating the performance of regional climate models to simulate seasonal variability of precipitation in Abbay and Awash river basins, Ethiopia**. *Discover Water*. [10.1007/s43832-025-00256-4](https://doi.org/10.1007/s43832-025-00256-4)
@@ -329,7 +330,7 @@
 - Zittis G., Ahrens B., Obermann-Hellhund A., Giannakis E., Risto D., Agulles Gamez M., Jorda G., Quesada Peña M., Lora Rodríguez V., Guersi Sauret J.L., Lionello P., Briche E., Collignan J., Grätz M., Arikas D., Stylianou C., Neophytou H., Serghides D. (2023) **Maritime transport and regional climate change impacts in large EU islands and archipelagos**. *Euro-Mediterranean Journal for Environmental Integration*. [10.1007/s41207-023-00370-6](https://doi.org/10.1007/s41207-023-00370-6)
 
 <a id="year-2022"></a>
-## 2022 (52)
+## 2022 (53)
 
 - Abel M.R., Swales D., Scott J.D., Alexander M., Mahoney K., McCrary R.R., Cifelli R., Bukovsky M. (2022) **Changes in extreme integrated water vapor transport on the U.S. west coast in NA-CORDEX, and relationship to mountain and inland precipitation**. *Climate Dynamics*. [10.1007/s00382-022-06168-6](https://doi.org/10.1007/s00382-022-06168-6)
 - Alzahrani F., Seidou O., Alodah A. (2022) **Assessment and Improvement of IDF Generation Algorithms Used in the IDF_CC Tool**. *Water Resources Management*. [10.1007/s11269-022-03265-3](https://doi.org/10.1007/s11269-022-03265-3)
@@ -337,6 +338,7 @@
 - Chidiac S.E., Yao L., Liu P. (2022) **Climate Change Effects on Heating and Cooling Demands of Buildings in Canada**. *CivilEng*. [10.3390/civileng3020017](https://doi.org/10.3390/civileng3020017)
 - Cousineau J., Murphy E. (2022) **Numerical Investigation of Climate Change Effects on Storm Surges and Extreme Waves on Canada’s Pacific Coast**. *Atmosphere*. [10.3390/atmos13020311](https://doi.org/10.3390/atmos13020311)
 - De La Vara A., Parras-Berrocal I.M., Izquierdo A., Sein D.V., Cabos W. (2022) **Climate change signal in the ocean circulation of the Tyrrhenian Sea**. *Earth System Dynamics*. [10.5194/esd-13-303-2022](https://doi.org/10.5194/esd-13-303-2022)
+- Di Virgilio G., Ji F., Tam E., Nishant N., Evans J.P., Thomas C., Riley M.L., Beyer K., Grose M.R., Narsey S., Delage F. (2022) **Selecting CMIP6 GCMs for CORDEX Dynamical Downscaling: Model Performance, Independence, and Climate Change Signals**. *Earth's Future*. [10.1029/2021EF002625](https://doi.org/10.1029/2021EF002625)
 - Diez-Sierra J., Iturbide M., Gutiérrez J.M., Fernández J., Milovac J., Cofiño A.S., Cimadevilla E., Nikulin G., Levavasseur G., Kjellström E., Bülow K., Horányi A., Brookshaw A., García-Díez M., Pérez A., Baño-Medina J., Ahrens B., Alias A., Ashfaq M., Bukovsky M., Buonomo E., Caluwaerts S., Chou S.C., Christensen O.B., Ciarlò J.M., Coppola E., Corre L., Demory M.-E., Djurdjevic V., Evans J.P., Fealy R., Feldmann H., Jacob D., Jayanarayanan S., Katzfey J., Keuler K., Kittel C., Kurnaz M.L., Laprise R., Lionello P., McGinnis S., Mercogliano P., Nabat P., Önol B., Ozturk T., Panitz H.-J., Paquin D., Pieczka I., Raffaele F., Remedio A.R., Scinocca J., Sevault F., Somot S., Steger C., Tangang F., Teichmann C., Termonia P., Thatcher M., Torma C., Van Meijgaard E., Vautard R., Warrach-Sagi K., Winger K., Zittis G. (2022) **The Worldwide C3S CORDEX Grand Ensemble: A Major Contribution to Assess Regional Climate Change in the IPCC AR6 Atlas**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-22-0111.1](https://doi.org/10.1175/BAMS-D-22-0111.1)
 - Druel A., Munier S., Mucia A., Albergel C., Calvet J.-C. (2022) **Implementation of a new crop phenology and irrigation scheme in the ISBA land surface model using SURFEX_v8.1**. *Geoscientific Model Development*. [10.5194/gmd-15-8453-2022](https://doi.org/10.5194/gmd-15-8453-2022)
 - Gao Y., Xu J., Zhang M., Liu Z., Dan J. (2022) **Regional climate dynamical downscaling over the Tibetan Plateau—From quarter-degree to kilometer-scale**. *Science China Earth Sciences*. [10.1007/s11430-022-9968-4](https://doi.org/10.1007/s11430-022-9968-4)
@@ -385,7 +387,7 @@
 - Zhang Y., Ayyub B.M., Fung J.F. (2022) **Projections of corrosion and deterioration of infrastructure in United States coasts under a changing climate**. *Resilient Cities and Structures*. [10.1016/j.rcns.2022.04.004](https://doi.org/10.1016/j.rcns.2022.04.004)
 
 <a id="year-2021"></a>
-## 2021 (80)
+## 2021 (82)
 
 - Ahmadi H., Baaghideh M., Dadashi-Roudbari A. (2021) **Climate change impacts on pistachio cultivation areas in Iran: a simulation analysis based on CORDEX-MENA multi-model ensembles**. *Theoretical and Applied Climatology*. [10.1007/s00704-021-03614-z](https://doi.org/10.1007/s00704-021-03614-z)
 - Ali S., Reboita M.S., Kiani R.S. (2021) **21st century precipitation and monsoonal shift over Pakistan and Upper Indus Basin (UIB) using high-resolution projections**. *Science of The Total Environment*. [10.1016/j.scitotenv.2021.149139](https://doi.org/10.1016/j.scitotenv.2021.149139)
@@ -412,6 +414,7 @@
 - Deen T.A., Arain M.A., Champagne O., Chow-Fraser P., Nagabhatla N., Martin-Hill D. (2021) **Evaluation of observed and projected extreme climate trends for decision making in Six Nations of the Grand River, Canada**. *Climate Services*. [10.1016/j.cliser.2021.100263](https://doi.org/10.1016/j.cliser.2021.100263)
 - Dormoy-Boulanger J. (2021) **L’impact des changements climatiques sur la dynamique des cyanobactéries dans la rivière aux Brochets, Québec [Unpublished]**. [https://rgdoi.net/10.13140/RG.2.2.28616.80645](https://rgdoi.net/10.13140/RG.2.2.28616.80645)
 - Drugé T., Nabat P., Mallet M., Somot S. (2021) **Future evolution of aerosols and implications for climate change in the Euro-Mediterranean region using the CNRM-ALADIN63 regional climate model**. *Atmospheric Chemistry and Physics*. [10.5194/acp-21-7639-2021](https://doi.org/10.5194/acp-21-7639-2021)
+- Evans J.P., Di Virgilio G., Hirsch A.L., Hoffmann P., Remedio A.R., Ji F., Rockel B., Coppola E. (2021) **The CORDEX-Australasia ensemble: evaluation and future projections**. *Climate Dynamics*. [10.1007/s00382-020-05459-0](https://doi.org/10.1007/s00382-020-05459-0)
 - French J.P., Kokoszka P.S. (2021) **A sandwich smoother for spatio-temporal functional data**. *Spatial Statistics*. [10.1016/j.spasta.2020.100413](https://doi.org/10.1016/j.spasta.2020.100413)
 - Garrabou J., Ledoux J.-B., Bensoussan N., Gómez-Gras D., Linares C. (2021) **Sliding Toward the Collapse of Mediterranean Coastal Marine Rocky Ecosystems**. *DOI.org (Crossref)*. [10.1007/978-3-030-71330-0_11](https://doi.org/10.1007/978-3-030-71330-0_11)
 - Grady K.A., Chen L., Ford T.W. (2021) **Projected Changes to Spring and Summer Precipitation in the Midwestern United States**. *Frontiers in Water, 3*. [10.3389/frwa.2021.780333](https://doi.org/10.3389/frwa.2021.780333)
@@ -437,6 +440,7 @@
 - Milleville R.F. (2021) **Evaluation of the Effectiveness of Green Infrastructure for Stormwater Management Under Current and Future Climates in Urban Buffalo, NY**. *[PhD Thesis]*. [https://www.proquest.com/docview/2555966281/abstract/30B3BD1EA05C42B3PQ/1](https://www.proquest.com/docview/2555966281/abstract/30B3BD1EA05C42B3PQ/1)
 - Miro M., Degaetano A., Lopez-Cantu T., Constantine S., Webber M., Grocholski K. (2021) **Developing Future Projected Intensity-Duration-Frequency (IDF) Curves: A Technical Report on Data, Methods, and IDF Curves for the Chesapeake Bay Watershed and Virginia. RAND Corporation**. [10.7249/TLA1365-1](https://doi.org/10.7249/TLA1365-1)
 - Mullendore G.L., Mayernik M.S., Schuster D.C. (2021) **Open Science Expectations for Simulation-Based Research**. *Frontiers in Climate, 3*. [10.3389/fclim.2021.763420](https://doi.org/10.3389/fclim.2021.763420)
+- Nishant N., Evans J.P., Di Virgilio G., Downes S.M., Ji F., Cheung K.K.W., Tam E., Miller J., Beyer K., Riley M.L. (2021) **Introducing NARCliM1.5: Evaluating the Performance of Regional Climate Projections for Southeast Australia for 1950–2100**. *Earth's Future*. [10.1029/2020EF001833](https://doi.org/10.1029/2020EF001833)
 - Oakley N.S. (2021) **A Warming Climate Adds Complexity to Post-Fire Hydrologic Hazard Planning**. *Earth’s Future*. [10.1029/2021EF002149](https://doi.org/10.1029/2021EF002149)
 - Ozturk T., Saygili-Araci F.S., Kurnaz M.L. (2021) **Projected Changes in Extreme Temperature and Precipitation Indices Over CORDEX-MENA Domain**. *Atmosphere*. [10.3390/atmos12050622](https://doi.org/10.3390/atmos12050622)
 - Pichelli E., Coppola E., Sobolowski S., Ban N., Giorgi F., Stocchi P., Alias A., Belušić D., Berthou S., Caillaud C., Cardoso R.M., Chan S., Christensen O.B., Dobler A., de Vries H., Goergen K., Kendon E.J., Keuler K., Lenderink G., Lorenz T., Mishra A.N., Panitz H.-J., Schär C., Soares P.M.M., Truhetz H., Vergara-Temprado J. (2021) **The first multi-model ensemble of regional climate simulations at kilometer-scale resolution part 2: historical and future simulations of precipitation**. *Climate Dynamics*. [10.1007/s00382-021-05657-4](https://doi.org/10.1007/s00382-021-05657-4)
@@ -469,7 +473,7 @@
 - Zittis G., Hadjinicolaou P., Almazroui M., Bucchignani E., Driouech F., El Rhaz K., Kurnaz L., Nikulin G., Ntoumos A., Ozturk T., Proestos Y., Stenchikov G., Zaaboul R., Lelieveld J. (2021) **Business-as-usual will lead to super and ultra-extreme heatwaves in the Middle East and North Africa**. *npj Climate and Atmospheric Science*. [10.1038/s41612-021-00178-7](https://doi.org/10.1038/s41612-021-00178-7)
 
 <a id="year-2020"></a>
-## 2020 (47)
+## 2020 (48)
 
 - Allam A., Moussa R., Najem W., Bocquillon C. (2020) **Specific climate classification for Mediterranean hydrology and future evolution under Med-CORDEX regional climate model scenarios**. *Hydrology and Earth System Sciences*. [10.5194/hess-24-4503-2020](https://doi.org/10.5194/hess-24-4503-2020)
 - Aryal Y., Zhu J. (2020) **Multimodel ensemble projection of meteorological drought scenarios and connection with climate based on spectral analysis**. *International Journal of Climatology*. [10.1002/joc.6402](https://doi.org/10.1002/joc.6402)
@@ -485,6 +489,7 @@
 - Costoya X., deCastro M., Carvalho D., Gómez-Gesteira M. (2020) **On the suitability of offshore wind energy resource in the United States of America for the 21st century**. *Applied Energy*. [10.1016/j.apenergy.2020.114537](https://doi.org/10.1016/j.apenergy.2020.114537)
 - Demiroglu O.C., Saygili-Araci F.S., Pacal A., Hall C.M., Kurnaz M.L. (2020) **Future Holiday Climate Index (HCI) Performance of Urban and Beach Destinations in the Mediterranean**. *Atmosphere*. [10.3390/atmos11090911](https://doi.org/10.3390/atmos11090911)
 - Denamiel C., Tojčić I., Vilibić I. (2020) **Far future climate (2060–2100) of the northern Adriatic air–sea heat transfers associated with extreme bora events**. *Climate Dynamics*. [10.1007/s00382-020-05435-8](https://doi.org/10.1007/s00382-020-05435-8)
+- Di Virgilio G., Evans J.P., Di Luca A., Grose M.R., Round V., Thatcher M. (2020) **Realised added value in dynamical downscaling of Australian climate change**. *Climate Dynamics*. [10.1007/s00382-020-05250-1](https://doi.org/10.1007/s00382-020-05250-1)
 - Drobinski P., Da Silva N., Bastin S., Mailler S., Muller C., Ahrens B., Christensen O.B., Lionello P. (2020) **How warmer and drier will the Mediterranean region be at the end of the twenty-first century?**. *Regional Environmental Change*. [10.1007/s10113-020-01659-w](https://doi.org/10.1007/s10113-020-01659-w)
 - Gao Y., Chen F., Jiang Y. (2020) **Evaluation of a Convection-Permitting Modeling of Precipitation over the Tibetan Plateau and Its Influences on the Simulation of Snow-Cover Fraction**. *Journal of Hydrometeorology*. [10.1175/JHM-D-19-0277.1](https://doi.org/10.1175/JHM-D-19-0277.1)
 - García-García A., Cuesta-Valero F.J., Beltrami H., González-Rouco F., García-Bustamante E., Finnis J. (2020) **Land surface model influence on the simulated climatologies of temperature and precipitation extremes in the WRF v3.9 model over North America**. *Geoscientific Model Development*. [10.5194/gmd-13-5345-2020](https://doi.org/10.5194/gmd-13-5345-2020)
@@ -520,7 +525,7 @@
 - Zhu H., Liu J., Zhou X., Chen X., Qiu X., Bello R.L., Deng Z. (2020) **The Ontario Climate Data Portal, a user-friendly portal of Ontario-specific climate projections**. *Scientific Data*. [10.1038/s41597-020-0489-4](https://doi.org/10.1038/s41597-020-0489-4)
 
 <a id="year-2019"></a>
-## 2019 (40)
+## 2019 (41)
 
 - Akhtar N., Krug A., Brauch J., Arsouze T., Dieterich C., Ahrens B. (2019) **European marginal seas in a regional atmosphere–ocean coupled model and their impact on Vb-cyclones and associated precipitation**. *Climate Dynamics*. [10.1007/s00382-019-04906-x](https://doi.org/10.1007/s00382-019-04906-x)
 - Almazroui M. (2019) **Climate Extremes over the Arabian Peninsula Using RegCM4 for Present Conditions Forced by Several CMIP5 Models**. *Atmosphere*. [10.3390/atmos10110675](https://doi.org/10.3390/atmos10110675)
@@ -534,6 +539,7 @@
 - Chaste E., Girardin M.P., Kaplan J.O., Bergeron Y., Hély C. (2019) **Increases in heat-induced tree mortality could drive reductions of biomass resources in Canada’s managed boreal forest**. *Landscape Ecology*. [10.1007/s10980-019-00780-4](https://doi.org/10.1007/s10980-019-00780-4)
 - Darmaraki S., Somot S., Sevault F., Nabat P. (2019) **Past Variability of Mediterranean Sea Marine Heatwaves**. *Geophysical Research Letters*. [10.1029/2019GL082933](https://doi.org/10.1029/2019GL082933)
 - Darmaraki S., Somot S., Sevault F., Nabat P., Cabos Narvaez W.D., Cavicchia L., Djurdjevic V., Li L., Sannino G., Sein D.V. (2019) **Future evolution of Marine Heatwaves in the Mediterranean Sea**. *Climate Dynamics*. [10.1007/s00382-019-04661-z](https://doi.org/10.1007/s00382-019-04661-z)
+- Di Virgilio G., Evans J.P., Di Luca A., Olson R., Argüeso D., Kala J., Andrys J., Hoffmann P., Katzfey J.J., Rockel B. (2019) **Evaluating reanalysis-driven CORDEX regional climate models over Australia: model performance and errors**. *Climate Dynamics*. [10.1007/s00382-019-04672-w](https://doi.org/10.1007/s00382-019-04672-w)
 - Drugé T., Nabat P., Mallet M., Somot S. (2019) **Model simulation of ammonium and nitrate aerosols distribution in the Euro-Mediterranean region and their radiative and climatic effects over 1979–2016**. *Atmospheric Chemistry and Physics*. [10.5194/acp-19-3707-2019](https://doi.org/10.5194/acp-19-3707-2019)
 - Dunić N., Vilibić I., Šepić J., Mihanović H., Sevault F., Somot S., Waldman R., Nabat P., Arsouze T., Pennel R., Jordà G., Precali R. (2019) **Performance of multi-decadal ocean simulations in the Adriatic Sea**. *Ocean Modelling*. [10.1016/j.ocemod.2019.01.006](https://doi.org/10.1016/j.ocemod.2019.01.006)
 - Fernández J., Frías M.D., Cabos W.D., Cofiño A.S., Domínguez M., Fita L., Gaertner M.A., García-Díez M., Gutiérrez J.M., Jiménez-Guerrero P., Liguori G., Montávez J.P., Romera R., Sánchez E. (2019) **Consistency of climate change projections from multiple global and regional model intercomparison projects**. *Climate Dynamics*. [10.1007/s00382-018-4181-8](https://doi.org/10.1007/s00382-018-4181-8)
@@ -617,11 +623,12 @@
 - Waldman R., Somot S., Herrmann M., Sevault F., Isachsen P.E. (2018) **On the Chaotic Variability of Deep Convection in the Mediterranean Sea**. *Geophysical Research Letters*. [10.1002/2017GL076319](https://doi.org/10.1002/2017GL076319)
 
 <a id="year-2017"></a>
-## 2017 (18)
+## 2017 (19)
 
 - Cook L.M., Anderson C.J., Samaras C. (2017) **Framework for Incorporating Downscaled Climate Output into Existing Engineering Methods: Application to Precipitation Frequency Curves**. *Journal of Infrastructure Systems*. [10.1061/(ASCE)IS.1943-555X.0000382](https://doi.org/10.1061/(ASCE)IS.1943-555X.0000382)
 - DeGaetano A.T., Castellano C.M. (2017) **Future projections of extreme precipitation intensity-duration-frequency curves for climate adaptation planning in New York State**. *Climate Services*. [10.1016/j.cliser.2017.03.003](https://doi.org/10.1016/j.cliser.2017.03.003)
 - Filahi S., Tramblay Y., Mouhir L., Diaconescu E.P. (2017) **Projected changes in temperature and precipitation indices in Morocco from high‐resolution regional climate models**. *International Journal of Climatology*. [10.1002/joc.5127](https://doi.org/10.1002/joc.5127)
+- Fita L., Evans J.P., Argüeso D., King A., Liu Y. (2017) **Evaluation of the regional climate response in Australia to large-scale climate modes in the historical NARCliM simulations**. *Climate Dynamics*. [10.1007/s00382-016-3484-x](https://doi.org/10.1007/s00382-016-3484-x)
 - Helbig M., Chasmer L.E., Desai A.R., Kljun N., Quinton W.L., Sonnentag O. (2017) **Direct and indirect climate change effects on carbon dioxide fluxes in a thawing boreal forest–wetland landscape**. *Global Change Biology*. [10.1111/gcb.13638](https://doi.org/10.1111/gcb.13638)
 - Jordà G., Von Schuckmann K., Josey S., Caniaux G., García-Lafuente J., Sammartino S., Özsoy E., Polcher J., Notarstefano G., Poulain P.-M., Adloff F., Salat J., Naranjo C., Schroeder K., Chiggiato J., Sannino G., Macías D. (2017) **The Mediterranean Sea heat and mass budgets: Estimates, uncertainties and perspectives**. *Progress in Oceanography*. [10.1016/j.pocean.2017.07.001](https://doi.org/10.1016/j.pocean.2017.07.001)
 - Liguori G., Di Lorenzo E., Cabos W. (2017) **A multi-model ensemble view of winter heat flux dynamics and the dipole mode in the Mediterranean Sea**. *Climate Dynamics*. [10.1007/s00382-016-3129-0](https://doi.org/10.1007/s00382-016-3129-0)
@@ -680,7 +687,7 @@
 - Wang J., Kotamarthi V.R. (2015) **High-resolution dynamically downscaled projections of precipitation in the mid and late 21st century over North America**. *Earth’s Future*. [10.1002/2015EF000304](https://doi.org/10.1002/2015EF000304)
 
 <a id="year-2014"></a>
-## 2014 (16)
+## 2014 (17)
 
 - Akhtar N., Brauch J., Dobler A., Béranger K., Ahrens B. (2014) **Medicanes in an ocean–atmosphere coupled regional climate model**. *Natural Hazards and Earth System Sciences*. [10.5194/nhess-14-2189-2014](https://doi.org/10.5194/nhess-14-2189-2014)
 - Auger P., Ulses C., Estournel C., Stemmann L., Somot S., Diaz F. (2014) **Interannual control of plankton communities by deep winter mixing and prey/predator interactions in the NW Mediterranean: Results from a 30-year 3D modeling study**. *Progress in Oceanography*. [10.1016/j.pocean.2014.04.004](https://doi.org/10.1016/j.pocean.2014.04.004)
@@ -688,6 +695,7 @@
 - Chiriaco M., Bastin S., Yiou P., Haeffelin M., Dupont J., Stéfanon M. (2014) **European heatwave in July 2006: Observations and modeling showing how local processes amplify conducive large‐scale conditions**. *Geophysical Research Letters*. [10.1002/2014GL060205](https://doi.org/10.1002/2014GL060205)
 - Di Luca A., Flaounas E., Drobinski P., Brossier C.L. (2014) **The atmospheric component of the Mediterranean Sea water budget in a WRF multi-physics ensemble and observations**. *Climate Dynamics*. [10.1007/s00382-014-2058-z](https://doi.org/10.1007/s00382-014-2058-z)
 - Drobinski P., Ducrocq V., Alpert P., Anagnostou E., Béranger K., Borga M., Braud I., Chanzy A., Davolio S., Delrieu G., Estournel C., Boubrahmi N.F., Font J., Grubišić V., Gualdi S., Homar V., Ivančan-Picek B., Kottmeier C., Kotroni V., Lagouvardos K., Lionello P., Llasat M.C., Ludwig W., Lutoff C., Mariotti A., Richard E., Romero R., Rotunno R., Roussot O., Ruin I., Somot S., Taupier-Letage I., Tintore J., Uijlenhoet R., Wernli H. (2014) **HyMeX: A 10-Year Multidisciplinary Program on the Mediterranean Water Cycle**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-12-00242.1](https://doi.org/10.1175/BAMS-D-12-00242.1)
+- Evans J.P., Ji F., Lee C., Smith P., Argüeso D., Fita L. (2014) **Design of a regional climate modelling projection ensemble experiment &ndash; NARCliM**. *Geoscientific Model Development*. [10.5194/gmd-7-621-2014](https://doi.org/10.5194/gmd-7-621-2014)
 - Hattab T., Albouy C., Lasram F.B.R., Somot S., Le Loc'h F., Leprieur F. (2014) **Towards a better understanding of potential impacts of climate change on marine species distribution: a multiscale modelling approach**. *Global Ecology and Biogeography*. [10.1111/geb.12217](https://doi.org/10.1111/geb.12217)
 - Jacob D., Petersen J., Eggert B., Alias A., Christensen O.B., Bouwer L.M., Braun A., Colette A., Déqué M., Georgievski G., Georgopoulou E., Gobiet A., Menut L., Nikulin G., Haensler A., Hempelmann N., Jones C., Keuler K., Kovats S., Kröner N., Kotlarski S., Kriegsmann A., Martin E., Van Meijgaard E., Moseley C., Pfeifer S., Preuschmann S., Radermacher C., Radtke K., Rechid D., Rounsevell M., Samuelsson P., Somot S., Soussana J.-F., Teichmann C., Valentini R., Vautard R., Weber B., Yiou P. (2014) **EURO-CORDEX: new high-resolution climate change projections for European impact research**. *Regional Environmental Change*. [10.1007/s10113-013-0499-2](https://doi.org/10.1007/s10113-013-0499-2)
 - Kotlarski S., Keuler K., Christensen O.B., Colette A., Déqué M., Gobiet A., Goergen K., Jacob D., Lüthi D., Van Meijgaard E., Nikulin G., Schär C., Teichmann C., Vautard R., Warrach-Sagi K., Wulfmeyer V. (2014) **Regional climate modeling on European scales: a joint standard evaluation of the EURO-CORDEX RCM ensemble**. *Geoscientific Model Development*. [10.5194/gmd-7-1297-2014](https://doi.org/10.5194/gmd-7-1297-2014)
