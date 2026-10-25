@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [2026](#year-2026) (32)
+- [2026](#year-2026) (33)
 - [2025](#year-2025) (110)
 - [2024](#year-2024) (74)
 - [2023](#year-2023) (74)
@@ -24,8 +24,9 @@
 ---
 
 <a id="year-2026"></a>
-## 2026 (32)
+## 2026 (33)
 
+- Anav A., Hamitouche M., Fois M., Catalano F., Napolitano E., Sannino G., Struglia M.V. (2026) **The regional Earth system model ENEA-REG (version 3.0): development and validation for the Med-CORDEX region**. *Climate and Earth system modeling*. [10.5194/egusphere-2026-5695](https://doi.org/10.5194/egusphere-2026-5695)
 - Arjdal K., Driouech F., Balhane S., Manzanas R. (2026) **Compound Heatwaves in North Africa: Mechanisms and Model Capabilities**. *Earth Systems and Environment*. [10.1007/s41748-026-01164-w](https://doi.org/10.1007/s41748-026-01164-w)
 - Ashfaq M., Coppola E., Lennard C., Teichmann C., Rastogi D., Massoud E., Buonomo E., Im E.-S., Zittis G., Evans J.P., Fernandez J., Evans K.J., Silva M.L.D., Adinolfi M., Bukovsky M., Rocha R.P.D., Hasson S.U., Solman S.A., Sobolowski S., Das S., Brands S., Cavazos T., Ngo-Duc T., Gao X. (2026) **A Multi-Criteria Framework for CORDEX-CORE2 GCM Selection**. *Geoscientific Model Development*. [10.5194/egusphere-2026-2649](https://doi.org/10.5194/egusphere-2026-2649)
 - Baldan D., Chauvier‐Mendes Y., Panzeri D., Cossarini G., Solidoro C., Bandelj V. (2026) **The Geography of Mediterranean Benthic Communities Under Climate Change**. *Global Change Biology*. [10.1111/gcb.70725](https://doi.org/10.1111/gcb.70725)

@@ -5,6 +5,42 @@
   },
   "collections": [
     {
+      "key": "ZV354MKJ",
+      "version": 1961,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/collections/ZV354MKJ",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/collections/ZV354MKJ",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "numCollections": 0,
+        "numItems": 0
+      },
+      "data": {
+        "key": "ZV354MKJ",
+        "version": 1961,
+        "name": "CORDEX-FPS-ML-SSA",
+        "parentCollection": false,
+        "relations": {}
+      }
+    },
+    {
       "key": "GSHEVJKS",
       "version": 1951,
       "library": {
@@ -930,7 +966,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 20
+        "numItems": 21
       },
       "data": {
         "key": "CVB532F5",
@@ -1294,6 +1330,117 @@
     }
   ],
   "items": [
+    {
+      "key": "BVAH8KYH",
+      "version": 1960,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/BVAH8KYH",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/BVAH8KYH",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 17504293,
+          "username": "sam.somot",
+          "name": "Samuel Somot",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/sam.somot",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Anav et al.",
+        "parsedDate": "2026-10-12",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "BVAH8KYH",
+        "version": 1960,
+        "itemType": "preprint",
+        "title": "The regional Earth system model ENEA-REG (version 3.0): development and validation for the Med-CORDEX region",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Alessandro",
+            "lastName": "Anav"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mohamed",
+            "lastName": "Hamitouche"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Matteo",
+            "lastName": "Fois"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Franco",
+            "lastName": "Catalano"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ernesto",
+            "lastName": "Napolitano"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gianmaria",
+            "lastName": "Sannino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Maria Vittoria",
+            "lastName": "Struglia"
+          }
+        ],
+        "abstractNote": "Abstract. Regional Earth system models are essential tools for representing climate processes and interactions among Earth system components at spatial scales relevant to impact studies, thereby providing the scientific basis for reliable impact assessments and effective adaptation strategies. This paper presents the third version of the ENEA-REG regional Earth system model, specifically designed to simulate past and present climate variability and to produce centennial-scale climate projections over the Euro-Mediterranean region. Compared with the previous model version (i.e. ENEA-REG2), ENEA-REG3 introduces an enhanced representation of river discharge and floodplain processes and a substantially revised coupler implementing a time-averaged explicit atmosphere–ocean coupling strategy that improves the temporal consistency of the exchanged fluxes. Model performances are assessed using a hindcast simulation driven by the ERA5 and ORAS5 reanalyses, together with two historical downscaling simulations driven by the CMIP6 models EC-Earth3 and MPI-ESM1-2-HR. Compared to ENEA-REG2, the results indicate a substantial improvement in simulated river discharge and reduced biases in the ocean component, particularly in regions strongly influenced by freshwater inputs, such as the Adriatic Sea and several coastal areas of the eastern Mediterranean, where the excessive salinization simulated by ENEA-REG2 is markedly reduced. The results also show close agreement among the hindcast and historical simulations, suggesting that model performance is largely governed by the regional coupled system and its parameterizations rather than by the driving global climate models. This consistency strengthens confidence in the robustness of future climate projections.",
+        "genre": "",
+        "repository": "",
+        "archiveID": "",
+        "place": "",
+        "date": "2026-10-12",
+        "series": "",
+        "seriesNumber": "",
+        "DOI": "10.5194/egusphere-2026-5695",
+        "citationKey": "",
+        "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5695/",
+        "accessDate": "2026-10-19T09:14:26Z",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "The regional Earth system model ENEA-REG (version 3.0)",
+        "language": "",
+        "libraryCatalog": "Climate and Earth system modeling",
+        "callNumber": "",
+        "rights": "https://creativecommons.org/licenses/by/4.0/",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "CVB532F5"
+        ],
+        "relations": {},
+        "dateAdded": "2026-10-19T09:14:26Z",
+        "dateModified": "2026-10-19T09:14:26Z"
+      }
+    },
     {
       "key": "ADHIK8UK",
       "version": 1959,

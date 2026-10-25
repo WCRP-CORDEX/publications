@@ -15,7 +15,7 @@
   - [NAM](#collection-jdnpgsz4) (314)
   - [SEA](#collection-rqjremil) (3)
   - [WAS](#collection-bsmf5qnm) (2)
-- [CORDEX-CMIP6](#collection-uygt8hav) (68)
+- [CORDEX-CMIP6](#collection-uygt8hav) (69)
   - [AFR](#collection-y9wwqtaw) (1)
   - [ANT](#collection-zz8p57vc) (1)
   - [AUS](#collection-pmfvbkw8) (22)
@@ -25,13 +25,14 @@
   - [EAS](#collection-gvpp5p7s) (3)
   - [EUR](#collection-cv6d6fcx) (8)
     - [Community publications](#collection-87rmmudx) (3)
-  - [MED](#collection-cvb532f5) (20)
+  - [MED](#collection-cvb532f5) (21)
   - [NAM](#collection-ic9w46ub) (1)
   - [SAM](#collection-kx68rc28) (1)
   - [SEA](#collection-z3qxrazw) (4)
 - [CORDEX-FPS-CONV](#collection-sqp8s37v) (17)
 - [CORDEX-FPS-CPTP](#collection-gmuj8gjb) (27)
 - [CORDEX-FPS-I-Mac](#collection-9znvdt6s) (1)
+- [CORDEX-FPS-ML-SSA](#collection-zv354mkj) (0)
 - [CORDEX-FPS-SESA](#collection-pydea8ax) (5)
 - [CORDEX-FPS-SHEP](#collection-lqsztzry) (0)
 - [CORDEX-FPS-URB-RCC](#collection-ncahyn76) (8)
@@ -832,7 +833,7 @@
 - Ali S., Reboita M.S., Kiani R.S. (2021) **21st century precipitation and monsoonal shift over Pakistan and Upper Indus Basin (UIB) using high-resolution projections**. *Science of The Total Environment*. [10.1016/j.scitotenv.2021.149139](https://doi.org/10.1016/j.scitotenv.2021.149139)
 
 <a id="collection-uygt8hav"></a>
-## CORDEX-CMIP6 (68)
+## CORDEX-CMIP6 (69)
 
 ### 2024 (1)
 
@@ -964,10 +965,11 @@
 - Sobolowski S., Somot S., Fernandez J., Evin G., Maraun D., Kotlarski S., Jury M., Benestad R.E., Teichmann C., Christensen O.B., Katharina B., Buonomo E., Katragkou E., Steger C., Sørland S., Nikulin G., McSweeney C., Dobler A., Palmer T., Wilke R., Boé J., Brunner L., Ribes A., Qasmi S., Nabat P., Sevault F., Oudar T., Brands S. (2023) **EURO-CORDEX CMIP6 GCM Selection & Ensemble Design: Best Practices and Recommendations**. *Zenodo*. [10.5281/zenodo.7673400](https://doi.org/10.5281/zenodo.7673400)
 
 <a id="collection-cvb532f5"></a>
-### MED (20)
+### MED (21)
 
-#### 2026 (4)
+#### 2026 (5)
 
+- Anav A., Hamitouche M., Fois M., Catalano F., Napolitano E., Sannino G., Struglia M.V. (2026) **The regional Earth system model ENEA-REG (version 3.0): development and validation for the Med-CORDEX region**. *Climate and Earth system modeling*. [10.5194/egusphere-2026-5695](https://doi.org/10.5194/egusphere-2026-5695)
 - Barral Q.-B., Estournel C., Waldman R., Parras-Berrocal I., Marsaleix P., Sevault F. (2026) **A high-emission future scenario in a sub-kilometric simulation of the Northwestern Mediterranean destabilizes the circulation and induces a seasonal Balearic Gyre**. *Numerical Models/Mesoscale to submesoscale dynamics*. [10.5194/egusphere-2026-1480](https://doi.org/10.5194/egusphere-2026-1480)
 - Chun K.P., Aragão L., Olmo M.E., Nguyen V.D., Risanto C.B., Bettolli M.L., Ezber Y., Toker E., Varotsos K.V. (2026) **New horizons in statistical downscaling and AI approaches for sustainable km-scale climate simulations**. *npj Climate and Atmospheric Science*. [10.1038/s41612-026-01424-6](https://doi.org/10.1038/s41612-026-01424-6)
 - De Rovere F., Bonino G., McAdam R., Scoccimarro E., Somot S., Parras-Berrocal I.M., Ahrens B., Djurdjevic V., Li L., Masina S. (2026) **The added value of Med-CORDEX coupled high-resolution regional climate models in representing sea surface temperature and marine heatwaves in the Mediterranean Sea**. *Ocean Science*. [10.5194/os-22-2725-2026](https://doi.org/10.5194/os-22-2725-2026)
@@ -1123,6 +1125,9 @@
 ### 2026 (1)
 
 - Rodríguez-Rull J., Expósito F.J., Díaz J.P., Carrillo J., Pérez J.C., Henriques D. (2026) **High-resolution regional climate projections and tourism impacts in the Macaronesian archipelagos**. *Scientific Reports*. [10.1038/s41598-026-43092-9](https://doi.org/10.1038/s41598-026-43092-9)
+
+<a id="collection-zv354mkj"></a>
+## CORDEX-FPS-ML-SSA (0)
 
 <a id="collection-pydea8ax"></a>
 ## CORDEX-FPS-SESA (5)
