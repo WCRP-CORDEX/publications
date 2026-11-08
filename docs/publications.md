@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [CORDEX-CMIP5](#collection-u95gjrqn) (574)
+- [CORDEX-CMIP5](#collection-u95gjrqn) (575)
   - [AFR](#collection-egfzwht3) (4)
   - [AUS](#collection-gshevjks) (6)
   - [CAS](#collection-nzpc9ui9) (1)
-  - [CORE](#collection-8r8gfhr5) (2)
+  - [CORE](#collection-8r8gfhr5) (3)
   - [EAS](#collection-kysnr2hc) (1)
   - [EUR](#collection-69kva8k8) (15)
     - [Community publications](#collection-j3ivpkyr) (6)
@@ -15,32 +15,33 @@
   - [NAM](#collection-jdnpgsz4) (314)
   - [SEA](#collection-rqjremil) (3)
   - [WAS](#collection-bsmf5qnm) (2)
-- [CORDEX-CMIP6](#collection-uygt8hav) (69)
+- [CORDEX-CMIP6](#collection-uygt8hav) (72)
   - [AFR](#collection-y9wwqtaw) (1)
   - [ANT](#collection-zz8p57vc) (1)
   - [AUS](#collection-pmfvbkw8) (22)
   - [CAM](#collection-5dkh37x7) (1)
   - [CAS](#collection-hv5iejp8) (2)
   - [CORE](#collection-qrteqdar) (2)
-  - [EAS](#collection-gvpp5p7s) (3)
+  - [EAS](#collection-gvpp5p7s) (4)
   - [EUR](#collection-cv6d6fcx) (8)
     - [Community publications](#collection-87rmmudx) (3)
   - [MED](#collection-cvb532f5) (21)
   - [NAM](#collection-ic9w46ub) (1)
   - [SAM](#collection-kx68rc28) (1)
-  - [SEA](#collection-z3qxrazw) (4)
+  - [SEA](#collection-z3qxrazw) (5)
+  - [WAS](#collection-q6mv4lzq) (1)
 - [CORDEX-FPS-CONV](#collection-sqp8s37v) (17)
 - [CORDEX-FPS-CPTP](#collection-gmuj8gjb) (27)
 - [CORDEX-FPS-I-Mac](#collection-9znvdt6s) (1)
 - [CORDEX-FPS-ML-SSA](#collection-zv354mkj) (0)
 - [CORDEX-FPS-SESA](#collection-pydea8ax) (5)
 - [CORDEX-FPS-SHEP](#collection-lqsztzry) (0)
-- [CORDEX-FPS-URB-RCC](#collection-ncahyn76) (8)
+- [CORDEX-FPS-URB-RCC](#collection-ncahyn76) (11)
 
 ---
 
 <a id="collection-u95gjrqn"></a>
-## CORDEX-CMIP5 (574)
+## CORDEX-CMIP5 (575)
 
 ### 2025 (1)
 
@@ -95,7 +96,11 @@
 - Mao Y., Li P., Chen X., Huang L., Niu X. (2025) **Climate change projections in Central Asia based on the CORDEX-CA-II high-resolution simulations**. *Atmospheric and Oceanic Science Letters*. [10.1016/j.aosl.2025.100660](https://doi.org/10.1016/j.aosl.2025.100660)
 
 <a id="collection-8r8gfhr5"></a>
-### CORE (2)
+### CORE (3)
+
+#### 2026 (1)
+
+- Nogherotto R., Zazulie N., Ranasinghe R., Duong T.M., Creutzig F., Raffaele F., Coppola E. (2026) **Global cities under multiple climate hazards**. *Urban Climate*. [10.1016/j.uclim.2026.103132](https://doi.org/10.1016/j.uclim.2026.103132)
 
 #### 2022 (1)
 
@@ -833,7 +838,7 @@
 - Ali S., Reboita M.S., Kiani R.S. (2021) **21st century precipitation and monsoonal shift over Pakistan and Upper Indus Basin (UIB) using high-resolution projections**. *Science of The Total Environment*. [10.1016/j.scitotenv.2021.149139](https://doi.org/10.1016/j.scitotenv.2021.149139)
 
 <a id="collection-uygt8hav"></a>
-## CORDEX-CMIP6 (69)
+## CORDEX-CMIP6 (72)
 
 ### 2024 (1)
 
@@ -924,7 +929,11 @@
 - Coppola E., Giorgi F., Giuliani G., Pichelli E., Ciarlo J.M., Raffaele F., Nogherotto R., Reboita M.S., Lu C., Zazulie N., Vargas-Heinz L., Cardoso A.A., De Leeuw J. (2025) **The 5th generation regional climate modeling system, RegCM5: the first convection-permitting European wide simulation and validation over the CORDEX-CORE domains**. *Climate Dynamics*. [10.1007/s00382-025-07913-3](https://doi.org/10.1007/s00382-025-07913-3)
 
 <a id="collection-gvpp5p7s"></a>
-### EAS (3)
+### EAS (4)
+
+#### 2026 (1)
+
+- Cruz F., Lake I., Burgin L., Nilsson L., Dado J.M., Dela Paz M.A., Ferrer I.G., Ngo-Duc T., Osborne R., Prag A., Ratilla D.C., San Juan F.U., Shrestha M.S. (2026) **Codesigning Learning Pathways to Bridge the Climate Science–Action Gap in Asia**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-26-0179.1](https://doi.org/10.1175/BAMS-D-26-0179.1)
 
 #### 2025 (2)
 
@@ -1015,10 +1024,11 @@
 - Arias P.A., Correa I.C., Fita L., Martínez J.A., Alvarez-Garreton C., Alves L.M., Boisier J.P., Campozano L., Espinoza J.-C., Junquas C., Llopart M., Sörensson A.A. (2025) **How well CMIP6 models simulate key boundary conditions affecting South American climate? Insights for regional modeling efforts**. *Climate Dynamics*. [10.1007/s00382-025-07704-w](https://doi.org/10.1007/s00382-025-07704-w)
 
 <a id="collection-z3qxrazw"></a>
-### SEA (4)
+### SEA (5)
 
-#### 2026 (1)
+#### 2026 (2)
 
+- Cruz F., Lake I., Burgin L., Nilsson L., Dado J.M., Dela Paz M.A., Ferrer I.G., Ngo-Duc T., Osborne R., Prag A., Ratilla D.C., San Juan F.U., Shrestha M.S. (2026) **Codesigning Learning Pathways to Bridge the Climate Science–Action Gap in Asia**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-26-0179.1](https://doi.org/10.1175/BAMS-D-26-0179.1)
 - Nguyen P.L., Alexander L.V., Ngo-Duc T., Cruz F., Santisirisomboon J., Juneng L., Permana D.S., Chung J.X., Dado J.M., McGregor J.L., Redmond G., Po T.W., Tangang F., Phan-Van T., Truong S.C.H., Thatcher M., Trinh-Tuan L., Ma'rufah U., Tibay J., Di Virgilio G., White S. (2026) **The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA**. *Geoscientific Model Development*. [10.5194/gmd-19-7653-2026](https://doi.org/10.5194/gmd-19-7653-2026)
 
 #### 2025 (1)
@@ -1029,6 +1039,13 @@
 
 - Ngo-Duc T., Nguyen-Duy T., Desmet Q., Trinh-Tuan L., Ramu L., Cruz F., Dado J.M., Chung J.X., Phan-Van T., Pham-Thanh H., Truong-Ba K., Tangang F.T., Juneng L., Santisirisomboon J., Srisawadwong R., Permana D., Linarka U.A., Gunawan D. (2024) **Performance ranking of multiple CORDEX-SEA sensitivity experiments: towards an optimum choice of physical schemes for RegCM over Southeast Asia**. *Climate Dynamics*. [10.1007/s00382-024-07353-5](https://doi.org/10.1007/s00382-024-07353-5)
 - Nguyen P.L., Alexander L.V., Thatcher M.J., Truong S.C.H., Isphording R.N., McGregor J.L. (2024) **Selecting CMIP6 global climate models (GCMs) for Coordinated Regional Climate Downscaling Experiment (CORDEX) dynamical downscaling over Southeast Asia using a standardised benchmarking framework**. *Geoscientific Model Development*. [10.5194/gmd-17-7285-2024](https://doi.org/10.5194/gmd-17-7285-2024)
+
+<a id="collection-q6mv4lzq"></a>
+### WAS (1)
+
+#### 2026 (1)
+
+- Cruz F., Lake I., Burgin L., Nilsson L., Dado J.M., Dela Paz M.A., Ferrer I.G., Ngo-Duc T., Osborne R., Prag A., Ratilla D.C., San Juan F.U., Shrestha M.S. (2026) **Codesigning Learning Pathways to Bridge the Climate Science–Action Gap in Asia**. *Bulletin of the American Meteorological Society*. [10.1175/BAMS-D-26-0179.1](https://doi.org/10.1175/BAMS-D-26-0179.1)
 
 <a id="collection-sqp8s37v"></a>
 ## CORDEX-FPS-CONV (17)
@@ -1150,14 +1167,17 @@
 ## CORDEX-FPS-SHEP (0)
 
 <a id="collection-ncahyn76"></a>
-## CORDEX-FPS-URB-RCC (8)
+## CORDEX-FPS-URB-RCC (11)
 
-### 2026 (4)
+### 2026 (7)
 
 - Diez-Sierra J., Zazulie N., Langendijk G.S., Quintana Y., Adinolfi M., Bohmann M., Buntemeyer L., Buonomo E., Caluwaerts S., Campanale A., Cardoso R.M., Carvalho D., Casanueva A., Demuzere M., Endreny T., Fernández J., Ghilain N., Goergen K., Halenka T., Hoffmann P., Katragkou E., Kotlarski S., Ludwig P., Maurer V., Milovac J., Nogherotto R., Pavlidis V., Pietikäinen J.-P., Raffa M., Rechid D., Schulz J.-P., Serras F., Simon-Moral A., Soares P.M., Sobolowski S., Teichmann C., Vandelanotte K., Vanderkelen I., Wang F. (2026) **Urban climate evaluation in the upcoming generation of CMIP6-Driven EURO-CORDEX regional climate simulations**. *Urban Climate*. [10.1016/j.uclim.2026.103103](https://doi.org/10.1016/j.uclim.2026.103103)
+- Kyriakidis I., Pavlidis V., Gkolemi M., Mitraka Z., Chrysoulakis N., Milovac J., Fernandez J., Katragkou E. (2026) **A new Earth Observation–based WRF configuration for urban regional climate simulations over Paris**. *Geoscientific Model Development*. [10.5194/gmd-19-8709-2026](https://doi.org/10.5194/gmd-19-8709-2026)
 - Langendijk G.S., Fernandez J., Demuzere M., Diez-Sierra J., Quintana Y., Fita L., Zazulie N., Nogherotto R., Carril A.F., Chun K.P., Giuliani G., Halenka T., Hoffmann P., Muñoz L.E., Pietikäinen J.-P., Rechid D., Yuan J. (2026) **Representation of global mega-cities and their urban heat island in CORDEX-CORE regional climate model simulations**. *npj Urban Sustainability*. [10.1038/s42949-025-00325-6](https://doi.org/10.1038/s42949-025-00325-6)
 - Le Roy B., Diana R., Bastin S., Langendijk G., Zerbst L., Adinolfi M., Ban N., Berthou S., Bohmann M.M., Caillaud C., Cardoso R.M., Vries H.D., Dobler A., Fernandez J., Frisius T., Görgen K., Göktürk O.M., Hodnebrog Ø., Kartsios S., Katragkou E., Milovac J., Raffa M., Soares P.M., Sobolowski S., Tölle M., Warrach-Sagi K., Zazulie N. (2026) **How convection-permitting climate models improve the representation of urban temperatures in Europe**. *Climate Dynamics*.
 - Muñoz L.E., Fita L., Carril A.F., Robledo F. (2026) **Sensitivity of Atmospheric Surface Variables to Morphological Configurations in WRF Urban Schemes: An Application Over the Buenos Aires Metropolitan Area**. *Earth Systems and Environment*. [10.1007/s41748-026-01098-3](https://doi.org/10.1007/s41748-026-01098-3)
+- Nogherotto R., Zazulie N., Ranasinghe R., Duong T.M., Creutzig F., Raffaele F., Coppola E. (2026) **Global cities under multiple climate hazards**. *Urban Climate*. [10.1016/j.uclim.2026.103132](https://doi.org/10.1016/j.uclim.2026.103132)
+- Yuan J., Chen Y., Hang J., Im E.-S., Luo Q., Milovac J., Zhao L. (2026) **Weather hazards in cities of East Asia: interacting influences of global warming and urbanization**. *Environmental Research Letters*. [10.1088/1748-9326/ae7b59](https://doi.org/10.1088/1748-9326/ae7b59)
 
 ### 2025 (2)
 

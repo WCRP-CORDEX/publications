@@ -5,6 +5,46 @@
   },
   "collections": [
     {
+      "key": "Q6MV4LZQ",
+      "version": 1962,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/collections/Q6MV4LZQ",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/collections/Q6MV4LZQ",
+          "type": "text/html"
+        },
+        "up": {
+          "href": "https://api.zotero.org/groups/5816477/collections/UYGT8HAV",
+          "type": "application/json"
+        }
+      },
+      "meta": {
+        "numCollections": 0,
+        "numItems": 1
+      },
+      "data": {
+        "key": "Q6MV4LZQ",
+        "version": 1962,
+        "name": "WAS",
+        "parentCollection": "UYGT8HAV",
+        "relations": {}
+      }
+    },
+    {
       "key": "ZV354MKJ",
       "version": 1961,
       "library": {
@@ -110,7 +150,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 2
+        "numItems": 3
       },
       "data": {
         "key": "8R8GFHR5",
@@ -222,7 +262,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 8
+        "numItems": 11
       },
       "data": {
         "key": "NCAHYN76",
@@ -1006,7 +1046,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 3
+        "numItems": 4
       },
       "data": {
         "key": "GVPP5P7S",
@@ -1046,7 +1086,7 @@
       },
       "meta": {
         "numCollections": 0,
-        "numItems": 4
+        "numItems": 5
       },
       "data": {
         "key": "Z3QXRAZW",
@@ -1281,7 +1321,7 @@
         }
       },
       "meta": {
-        "numCollections": 12,
+        "numCollections": 13,
         "numItems": 2
       },
       "data": {
@@ -1330,6 +1370,528 @@
     }
   ],
   "items": [
+    {
+      "key": "IS7X96IX",
+      "version": 1968,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/IS7X96IX",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/IS7X96IX",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Nogherotto et al.",
+        "parsedDate": "2026",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "IS7X96IX",
+        "version": 1968,
+        "itemType": "journalArticle",
+        "title": "Global cities under multiple climate hazards",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Rita",
+            "lastName": "Nogherotto"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Natalia",
+            "lastName": "Zazulie"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Roshanka",
+            "lastName": "Ranasinghe"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Trang Minh",
+            "lastName": "Duong"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Felix",
+            "lastName": "Creutzig"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Francesca",
+            "lastName": "Raffaele"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Erika",
+            "lastName": "Coppola"
+          }
+        ],
+        "abstractNote": "",
+        "publicationTitle": "Urban Climate",
+        "publisher": "",
+        "place": "",
+        "date": "09/2026",
+        "volume": "69",
+        "issue": "",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "103132",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Urban Climate",
+        "DOI": "10.1016/j.uclim.2026.103132",
+        "citationKey": "",
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2212095526003639",
+        "accessDate": "2026-11-05T09:22:26Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "22120955",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "8R8GFHR5",
+          "NCAHYN76"
+        ],
+        "relations": {},
+        "dateAdded": "2026-11-05T09:22:26Z",
+        "dateModified": "2026-11-05T09:22:26Z"
+      }
+    },
+    {
+      "key": "DU6UI6KJ",
+      "version": 1966,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/DU6UI6KJ",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/DU6UI6KJ",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Kyriakidis et al.",
+        "parsedDate": "2026-09-18",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "DU6UI6KJ",
+        "version": 1966,
+        "itemType": "journalArticle",
+        "title": "A new Earth Observation–based WRF configuration for urban regional climate simulations over Paris",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Iraklis",
+            "lastName": "Kyriakidis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Vasileios",
+            "lastName": "Pavlidis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Maria",
+            "lastName": "Gkolemi"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zina",
+            "lastName": "Mitraka"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nektarios",
+            "lastName": "Chrysoulakis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Josipa",
+            "lastName": "Milovac"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jesus",
+            "lastName": "Fernandez"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eleni",
+            "lastName": "Katragkou"
+          }
+        ],
+        "abstractNote": "In this study, Earth Observation (EO) data describing urban morphology and thermal properties are used to configure the urban representation of Paris in the Weather Research and Forecasting (WRF) model. Model performance is assessed in convective permitting simulations (3 km) in three configurations covering summer 2020: (i) a baseline simulation employing a bulk parameterization of urban areas (i.e. BULK); (ii) a simulation using the BEP-BEM urban canopy model with default urban parameter values (CTRL); and (iii) a simulation in which the BEP–BEM urban canopy parameters are specifically adapted to Paris using EO-derived information (PAR). Comparison with observations from the Météo-France RADOME meteorological network indicates that the BULK simulation produces a systematic warm bias, with a persistent overestimation of nighttime temperatures. Coupling of the urban canopy model leads to an improved overall model performance relative to the BULK configuration for summer-mean conditions. Both BEP–BEM simulations are comparable, with the best performance during summer daytime achieved for the CTRL (0.93 °C lower bias compared to BULK) and during summer nighttime for the PAR simulation (0.22 °C lower bias compared to BULK) over urban grid cells. Over non-urban grid cells, the best performance is exhibited for the PAR simulation with a summer daytime bias of −0.26 °C and a summer nighttime bias of 1.62 °C, results that are greatly influenced by internal model variability (IMV). The simulated urban–rural temperature contrast for both BEP–BEM simulations is improved compared to BULK, resulting in a more realistic representation of the Urban Heat Island (UHI). Applying the Local Climate Zones (LCZ) classification, which accounts for intraurban differences in urban form and land cover, an analysis was conducted for each urban-type LCZ class present within the Paris urban area, linking each urban station to its nearest LCZ grid cell, enabling station–based comparisons by urban–type LCZ category. This analysis indicates that the PAR configuration better captures spatial urban temperature variability, reflecting the differences in urban forcing introduced by the EO data. During the heatwave of August 2020, the model – regardless of the configuration – becomes warmer and particularly over the urbanized LCZs. The PAR simulation exhibits pronounced temperature overestimations in the city center, due to the methodology adopted for EO data implementation and the selection of the area from which the EO data were derived, leading to urban characteristics which intensified heat storage and trapping. Non-urban areas are better simulated in both BEP–BEM simulations compared to the BULK. Our results demonstrate the added value of (a) the coupling of an urban canopy model to WRF and (b) the city-tailored configuration of urban canopy morphological parameters in convection-permitting regional climate simulations. The PAR experiment further illustrates the potential of EO-derived datasets to inform urban canopy parameter configurations, enabling a more detailed representation of the urban form and improved simulation of UHI characteristics.",
+        "publicationTitle": "Geoscientific Model Development",
+        "publisher": "",
+        "place": "",
+        "date": "2026-09-18",
+        "volume": "19",
+        "issue": "18",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "8709-8729",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Geosci. Model Dev.",
+        "DOI": "10.5194/gmd-19-8709-2026",
+        "citationKey": "",
+        "url": "https://gmd.copernicus.org/articles/19/8709/2026/",
+        "accessDate": "2026-11-05T09:17:59Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1991-9603",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "en",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "https://creativecommons.org/licenses/by/4.0/",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "NCAHYN76"
+        ],
+        "relations": {},
+        "dateAdded": "2026-11-05T09:17:59Z",
+        "dateModified": "2026-11-05T09:17:59Z"
+      }
+    },
+    {
+      "key": "JEQRD8Q7",
+      "version": 1965,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/JEQRD8Q7",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/JEQRD8Q7",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Yuan et al.",
+        "parsedDate": "2026-07-14",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "JEQRD8Q7",
+        "version": 1965,
+        "itemType": "journalArticle",
+        "title": "Weather hazards in cities of East Asia: interacting influences of global warming and urbanization",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jiacan",
+            "lastName": "Yuan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Yuanhao",
+            "lastName": "Chen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jian",
+            "lastName": "Hang"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Eun-Soon",
+            "lastName": "Im"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Qiqi",
+            "lastName": "Luo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Josipa",
+            "lastName": "Milovac"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lei",
+            "lastName": "Zhao"
+          }
+        ],
+        "abstractNote": "Abstract\n            Rapid urbanization and global warming are jointly reshaping weather hazards in East Asia’s megacities and urban agglomerations, which are particularly vulnerable due to high population density, complex urban morphology, and strong regional climate variability. This review synthesizes recent literature on how global warming and urbanization influence weather hazards in East Asian cities and how these hazards translate into broader social and economic risks. Across major urban clusters in East Asia, the literature shows that global warming increases the background probability of extreme events, whereas urbanization primarily modifies their local intensity, spatial distribution, nocturnal persistence and sub-daily timing. Heat hazards are increasingly characterized by persistent nighttime warming and more frequent compound humid-heat events, with their relative prominence varying by regional climate setting. Cities in humid climates exhibit amplified exposure to humid heat due to enhanced moisture availability caused by warming and influences of air–sea interactions, whereas cities in arid climates experience stronger nocturnal heat persistence driven by ventilation constraints, enhanced boundary layer stability, and reduced radiative cooling. Precipitation hazards are increasingly dominated by short localized heavy rainfall influenced by monsoon moisture supply, coastal proximity, topography and urban land-surface effects. At the event scale, urban effects can further intensify compound wind-rain-flood risks during typhoons through interactions between urban surface roughness and storm structure. Beyond physical changes, we summarize impacts of weather hazards on health, labour productivity, infrastructure, and social inequality, highlighting how urban weather hazards evolve into systemic risks. We further identify key knowledge gaps and future directions, emphasizing the need for improved modelling frameworks to address scale mismatches, strengthened urban observational systems to better constrain and validate models, and the development of impact-relevant projections that explicitly account for urban heterogeneity.",
+        "publicationTitle": "Environmental Research Letters",
+        "publisher": "",
+        "place": "",
+        "date": "2026-07-14",
+        "volume": "21",
+        "issue": "13",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "133002",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "Environ. Res. Lett.",
+        "DOI": "10.1088/1748-9326/ae7b59",
+        "citationKey": "",
+        "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae7b59",
+        "accessDate": "2026-11-05T09:12:56Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "1748-9326",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "Weather hazards in cities of East Asia",
+        "language": "",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "NCAHYN76"
+        ],
+        "relations": {},
+        "dateAdded": "2026-11-05T09:12:56Z",
+        "dateModified": "2026-11-05T09:12:56Z"
+      }
+    },
+    {
+      "key": "WCPPR746",
+      "version": 1964,
+      "library": {
+        "type": "group",
+        "id": 5816477,
+        "name": "WCRP-CORDEX",
+        "links": {
+          "alternate": {
+            "href": "https://www.zotero.org/groups/wcrp-cordex",
+            "type": "text/html"
+          }
+        }
+      },
+      "links": {
+        "self": {
+          "href": "https://api.zotero.org/groups/5816477/items/WCPPR746",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/groups/wcrp-cordex/items/WCPPR746",
+          "type": "text/html"
+        }
+      },
+      "meta": {
+        "createdByUser": {
+          "id": 16221,
+          "username": "jesusff",
+          "name": "Jesus Fernandez",
+          "links": {
+            "alternate": {
+              "href": "https://www.zotero.org/jesusff",
+              "type": "text/html"
+            }
+          }
+        },
+        "creatorSummary": "Cruz et al.",
+        "parsedDate": "2026",
+        "numChildren": 0
+      },
+      "data": {
+        "key": "WCPPR746",
+        "version": 1964,
+        "itemType": "journalArticle",
+        "title": "Codesigning Learning Pathways to Bridge the Climate Science–Action Gap in Asia",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Faye",
+            "lastName": "Cruz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Iréne",
+            "lastName": "Lake"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Laura",
+            "lastName": "Burgin"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Lindha",
+            "lastName": "Nilsson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Julie Mae",
+            "lastName": "Dado"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Maria Angelica",
+            "lastName": "Dela Paz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ivy Geraldine",
+            "lastName": "Ferrer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Thanh",
+            "lastName": "Ngo-Duc"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rebecca",
+            "lastName": "Osborne"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anat",
+            "lastName": "Prag"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniel C.",
+            "lastName": "Ratilla"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Francis Uldric",
+            "lastName": "San Juan"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mandira Singh",
+            "lastName": "Shrestha"
+          }
+        ],
+        "abstractNote": "",
+        "publicationTitle": "Bulletin of the American Meteorological Society",
+        "publisher": "",
+        "place": "",
+        "date": "08/2026",
+        "volume": "107",
+        "issue": "8",
+        "section": "",
+        "partNumber": "",
+        "partTitle": "",
+        "pages": "E1909-E1917",
+        "series": "",
+        "seriesTitle": "",
+        "seriesText": "",
+        "journalAbbreviation": "",
+        "DOI": "10.1175/BAMS-D-26-0179.1",
+        "citationKey": "",
+        "url": "https://journals.ametsoc.org/view/journals/bams/107/8/BAMS-D-26-0179.1.xml",
+        "accessDate": "2026-11-03T10:08:41Z",
+        "PMID": "",
+        "PMCID": "",
+        "ISSN": "0003-0007, 1520-0477",
+        "archive": "",
+        "archiveLocation": "",
+        "shortTitle": "",
+        "language": "",
+        "libraryCatalog": "DOI.org (Crossref)",
+        "callNumber": "",
+        "rights": "http://www.ametsoc.org/PUBSReuseLicenses",
+        "extra": "",
+        "tags": [],
+        "collections": [
+          "GVPP5P7S",
+          "Q6MV4LZQ",
+          "Z3QXRAZW"
+        ],
+        "relations": {},
+        "dateAdded": "2026-11-03T10:08:41Z",
+        "dateModified": "2026-11-03T10:08:41Z"
+      }
+    },
     {
       "key": "BVAH8KYH",
       "version": 1960,
